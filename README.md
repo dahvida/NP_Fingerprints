@@ -7,6 +7,7 @@ Scripts to calculate fingerprints and simiilarity matrices for natural product d
 - [x] Add RDKIT fingerprints.  
 - [x] Add CDK fingerprints.  
 - [x] Wrap CDK fingerprints in Python.  
+- [ ] Add biological fingerprints.  
 - [ ] Choose NP libraries to screen.  
 - [ ] Choose fingerprint comparison method.  
 - [ ] Write fingerprint generation script.  
