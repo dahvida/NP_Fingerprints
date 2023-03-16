@@ -1,25 +1,43 @@
+"""Utility functions for cleanup_script.py
+
+Preprocessing functions to clean the raw COCONUT database.
+SMILES standardization and salt removal is handled by the ChEMBL pipeline package.
+label_text is roughly adapted from https://github.com/reymond-group/Coconut-TMAP-SVM
+"""
+
 import pandas as pd
 from rdkit import Chem
 from rdkit.Chem import PandasTools
 from chembl_structure_pipeline import standardizer
-
-
-"""
-Preprocessing routine adapted from:
-https://github.com/reymond-group/Coconut-TMAP-SVM
-"""
+from typing import *
 
 ###########################################################################
 
-def label_text(string):
+def label_text(
+        string: str
+        ) -> Tuple[str, int]:
+    """Converts taxonomy string into labels
+
+    Args:
+        string:     raw taxonomy string from COCONUT_DB
+
+    Returns:
+        A tuple containing (1) the organism of origin and (2) the organism
+        numerical identifier
+    """
+    #put everything in lowercase for consistency when matching
     string = string.lower()
     
+    #load labelling presets from Coconut-TMAP-SVM
     bacteria_check = ["bacteria", "bacillus", "bacta", "bacterium"]
     plants_check = ["plants", "plant"]
     fungi_check = ["fungi", "fungus", "aspergillus"]
     animal_check = ["animal", "animals"]
     marine_check = ["marine"]
-
+    
+    #run checks and assign label
+    #(some NPs have multiple sources but we are assigning according
+    #to the first label)
     if any([x in string for x in bacteria_check]):
         origin = "bacteria"
         idx = 0    
@@ -40,13 +58,30 @@ def label_text(string):
         idx = None
     
     return origin, idx
-           
 
-def clean_smiles(smiles):
+#--------------------------------------------------------------------------#
 
+def clean_smiles(
+        smiles: str
+        ) -> rdkit.Chem.rdchem.Mol:
+    """Uses the ChEMBL standardizer to parse a SMILES string
+    
+    Args:
+        smiles:     SMILES of the molecule
+
+    Returns:
+        The correctly parsed RDKIT Mol object or None if structure cleaning
+        failed
+    """
     try:
+        #built Mol object from SMILES
         mol = Chem.MolFromSmiles(smiles)
+
+        #Pass mol through ChEMBL standardizer
         mol = standardizer.get_parent_mol(mol)[0]
+
+        #Parse again back and forth through RDKIT
+        #(sometimes ChEMBL messes up certain Mol properties)
         mol = Chem.MolFromSmiles(Chem.MolToSmiles(mol),
                                  sanitize=True)
     except:
@@ -54,9 +89,22 @@ def clean_smiles(smiles):
 
     return mol
 
+#--------------------------------------------------------------------------#
 
-def fix_dataframe(df):
+def fix_dataframe(
+        df: pd.DataFrame
+        ) -> pd.DataFrame:
+    """Processes raw COCONUT df for downstream analysis
     
+    Args:
+        df:     raw COCONUT df
+
+    Returns:
+        Processed dataframe with SMILES, organism, organism ID and
+        Murko scaffold
+    """
+
+
     output = df.copy()
     
     text = list(df["textTaxa"])
@@ -75,22 +123,13 @@ def fix_dataframe(df):
     output["mols"] = mols
     
     output = output.dropna()
-    output = output[["sugar_free_smiles", "organism",
-                    "class_id"]]
+    output = output[["sugar_free_smiles",
+                     "organism",
+                     "class_id"
+                     "murko_framework",
+                    ]]
 
     return output 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
