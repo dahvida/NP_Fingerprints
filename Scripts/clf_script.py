@@ -25,14 +25,15 @@ The procedure goes as follows:
     3. Loop over each of the 5 taxonomies available:
         3.1. Loop over each precomputed fingerprint:
             3.1.1. Load and split fingerprints&labels in train-val-test
-            3.1.2. Optimize RF model
+            3.1.2. Optimize RF model (if classifier == "RF")
             3.1.3. Train and evaluate on test set using optimal params
             3.1.4. Store evaluation results
         3.2. Save results with all fingerprints for a given class as
              ../Results/classification/class_name.csv
     
 Users can tune the number of optimization iterations, the classification
-metric to optimize, the number of replicates for performance evaluation.
+metric to optimize, the number of replicates for performance evaluation
+and the random seed for scaffold splitting.
 """
 
 from clf import *
@@ -61,6 +62,15 @@ parser.add_argument("--n_replicates",
                     type = int,
                     help = "number of replicates for performance evaluation")
 
+parser.add_argument("--classifier",
+                    default = "RF",
+                    help = "type of classifier [RF, NB]")
+
+parser.add_argument('--random_seed',
+                    default = 42,
+                    type = int,
+                    help = "random seed for reproducibility")
+
 args = parser.parse_args()
 
 ######################################################################
@@ -68,7 +78,9 @@ args = parser.parse_args()
 def main(
         opt_iterations,
         opt_metric,
-        n_replicates
+        n_replicates,
+        classifier,
+        random_seed
         ):
     
     #print run params
@@ -76,12 +88,13 @@ def main(
     print(f"-- optimization iterations: {opt_iterations}")
     print(f"-- optimization metric: {opt_metric}")
     print(f"-- evaluation replicates: {n_replicates}")
+    print(f"-- classifier: {classifier}")
     print(f"-- random seed: {random_seed}")
     
     #create scaffold split and save in ../Results
     print("[clf]: Generating scaffold split")
     df = pd.read_csv("../Data/clean_coconut.csv")
-    train_idx, val_idx, test_idx = split(df)
+    train_idx, val_idx, test_idx = split(df, random_seed)
     pickle_save(train_idx, "../Results/train_idx.pkl", verbose=False)
     pickle_save(val_idx, "../Results/val_idx.pkl", verbose=False)
     pickle_save(test_idx, "../Results/test_idx.pkl", verbose=False)
@@ -122,21 +135,27 @@ def main(
             X_val = fp[val_idx, :]
             X_test = fp[test_idx, :]
             
-            #optimize and eval RF
-            print(f"[clf]: Starting optimization for {fp_names[j]}")
-            optimum = optimize(X_train,
+            if classifier == "RF":
+                #optimize RF
+                print(f"[clf]: Starting optimization for {fp_names[j]}")
+                optimum = optimize(X_train,
                        y_train,
                        X_val,
                        y_val,
                        opt_iterations,
                        opt_metric,
-                       ) 
+                       )
+            else:
+                optimum = None
+
             results = evaluate(X_train,
                        y_train,
                        X_test,
                        y_test,
                        optimum,
+                       classifier,
                        n_replicates)
+            
 
             #store results in container
             results_list.append(results)
@@ -145,7 +164,8 @@ def main(
         store_results(
                 results_list,
                 fp_names,
-                class_names[i]
+                class_names[i],
+                algorithm
                 )
         print("[clf]: Results saved at ../Results/classification")
 
@@ -155,7 +175,9 @@ if __name__ == "__main__":
     main(
         args.opt_iterations,
         args.opt_metric,
-        args.n_replicates
+        args.n_replicates,
+        args.classifier,
+        args.random_seed
         )
 
 
