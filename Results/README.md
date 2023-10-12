@@ -1,6 +1,8 @@
 # Folder structure
 
-- **classification:** Contains classification performance for each calculated fingerprint. Results are summarized in terms of balanced accuracy, matthews correlation coefficient, F1 score, precision, recall, ROC-AUC and PR-AUC.  
+- **classification_rf:** Contains classification performance for each calculated fingerprint using Random Forest. Results are summarized in terms of balanced accuracy, matthews correlation coefficient, F1 score, precision, recall, ROC-AUC and PR-AUC.  
+
+- **classification_nb:** Same as above but for Naive Bayes.  
 
 - **correlation_stats:** Contains the correlation matrix between
 fingerprints for each sampling iteration.  
