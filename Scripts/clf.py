@@ -4,6 +4,8 @@ Utility functions used in clf_script.py
 
 from sklearn.metrics import *
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import *
+from sklearn.preprocessing import StandardScaler
 from hyperopt import tpe, hp, fmin, Trials
 import numpy as np
 import deepchem as dc
@@ -116,6 +118,7 @@ def evaluate(
         x_test: np.ndarray,
         y_test: np.ndarray,
         params: Dict,
+        algorithm: str,
         iters: int = 5
              ) -> np.ndarray:
     """Model performance evaluation function
@@ -126,6 +129,7 @@ def evaluate(
         x_test:     (J, K) test set fingerprints
         y_test:     (J, 1) test set labels
         params:     parameters to use to construct the RF model
+        algorithm:  toggles whether to use RF or NB as classifier
         iters:      number of training and evaluation repetitions
     
     Returns:
@@ -149,13 +153,19 @@ def evaluate(
     #loop analysis over number of iterations
     for i in range(iters):
         
+        if algorithm == "RF":
         #create model with param config
-        model = RandomForestClassifier(
-            class_weight = "balanced_subsample",
-            n_jobs = -1,
-            **params
-            )
-        
+            model = RandomForestClassifier(
+                class_weight = "balanced_subsample",
+                n_jobs = -1,
+                **params
+                )
+        else:
+            model = GaussianNB()
+            scaler = StandardScaler()
+            x_train = scaler.fit_transform(x_train)
+            x_test = scaler.transform(x_test)
+
         #fit model on training data
         model.fit(x_train, y_train)
 
@@ -183,7 +193,8 @@ def evaluate(
 def store_results(
         results: List[np.ndarray],
         fp_names: List[str],
-        class_name: str
+        class_name: str,
+        algorithm: str
         ) -> None:
     """Converts list of results in .csv file
     
@@ -192,6 +203,7 @@ def store_results(
                     represents the results from a given fingerprint
         fp_names:   List (X) of names of fingerprints used
         class_name: name of class used for the evaluation analysis
+        algorithm:  name of the classification algorithm used for the analysis
 
     Returns:
         None
@@ -231,17 +243,23 @@ def store_results(
             index = fp_names,
             columns = metric_names
             )
-    df.to_csv("../Results/classification/" + class_name + ".csv")
+    
+    if algorithm == "RF:
+    	df.to_csv("../Results/classification_rf/" + class_name + ".csv")
+    else:
+    	df.to_csv("../Results/classification_nb/" + class_name + ".csv")
 
 #--------------------------------------------------------------------------#
 
 def split(
-        df: pd.DataFrame
+        df: pd.DataFrame,
+        seed: int = 0
         ) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
     """Scaffold splitting function
     
     Args:
         df:     dataset to split, must have a column named "sugar_free_smiles"
+        seed:   random seed to make splits reproducible
 
     Returns
         Tuple of 3 numpy arrays containing the sample indexes to split
@@ -263,7 +281,7 @@ def split(
                                              ids = smiles)
     
     #split deepchem dataset
-    train_idx, val_idx, test_idx = splitter.split(dataset)
+    train_idx, val_idx, test_idx = splitter.split(dataset, seed=seed)
     
     return np.array(train_idx), np.array(val_idx), np.array(test_idx)
 
