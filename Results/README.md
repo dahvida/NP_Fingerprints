@@ -1,20 +1,22 @@
 # Folder structure
 
-- [classification:](clean_coconut.csv) Contains classification performance for each calculated fingerprint. Results are summarized in terms of balanced accuracy, matthews correlation coefficient, F1 score, precision, recall, ROC-AUC and PR-AUC.  
+- **classification:** Contains classification performance for each calculated fingerprint. Results are summarized in terms of balanced accuracy, matthews correlation coefficient, F1 score, precision, recall, ROC-AUC and PR-AUC.  
 
-- [correlation_stats:](correlation_stats.pkl) Contains the correlation matrix between
+- **correlation_stats:** Contains the correlation matrix between
 fingerprints for each sampling iteration.  
 
-- [sample_stats:](sample_stats.txt) Contains the dataset statistics for each batch sampled
+- **sample_stats:** Contains the dataset statistics for each batch sampled
 from the preprocessed COCONUT database.  
 
-- [similarity_stats:](similarity_stats.csv) Contains distribution statistics for the similarities during each sampling iteration according to each fingerprint.  
+- **similarity_stats:** Contains distribution statistics for the similarities during each sampling iteration according to each fingerprint.  
 
-- [index.pkl:](index.pkl) Matrix defining which compounds to sample during each iteration.  
+- **drug_rep_hub:** Contains the correlation matrix and similarity distribution for the Drug Repurposing Hub dataset.  
 
-- [test_idx.pkl:](test_idx.pkl) Index of the compounds used as test set.  
+- **index.pkl:** Matrix defining which compounds to sample during each iteration.  
 
-- [train_idx.pkl:](train_idx.pkl) Index of compounds used as training set.  
+- **test_idx.pkl:** Index of the compounds used as test set.  
 
-- [val_idx.pkl:](val_idx.pkl) Index of compounds used as validation set.  
+- **train_idx.pkl:** Index of compounds used as training set.  
+
+- **val_idx.pkl:** Index of compounds used as validation set.  
 

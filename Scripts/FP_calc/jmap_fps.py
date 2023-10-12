@@ -12,7 +12,7 @@ import numpy as np
 
 ############################################################################
 
-startJVM(getDefaultJVMPath(), "-ea", "-Djava.class.path=%s" % "./FP_calc/JCMapperCLI.jar")
+startJVM(getDefaultJVMPath(), "-ea", "-Djava.class.path=%s" % "./FP_calc/jCMapperCLI.jar")
 jmap = JPackage('de').zbit.jcmapper.fingerprinters
 cdk = JPackage('org').openscience.cdk
 
@@ -139,7 +139,7 @@ def calc_LSTAR(
 
 @efficient_array
 def calc_RAD2D(
-        smiles -> List
+        smiles: List
         ) -> List:
     function_fp = jmap.topological.Encoding2DMolprint()
     fps = [function_fp.getFingerprint(x) for x in smiles]

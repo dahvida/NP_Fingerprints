@@ -15,7 +15,7 @@ import itertools
 from collections import defaultdict
 
 import tmap as tm
-from mhfp.encoder import MHFPEncoder
+from FP_calc.mhfp import MHFPEncoder
 from rdkit import Chem
 from rdkit.Chem import rdmolops
 from rdkit.Chem.rdmolops import GetDistanceMatrix

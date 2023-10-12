@@ -7,7 +7,7 @@ https://github.com/reymond-group/map4
 """
 
 from FP_calc.map4 import MAP4Calculator
-from mhfp.encoder import MHFPEncoder
+from FP_calc.mhfp import MHFPEncoder
 import numpy as np
 from typing import *
 

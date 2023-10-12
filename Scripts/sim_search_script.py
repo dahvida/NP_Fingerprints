@@ -79,9 +79,9 @@ def main(index, iteration_n):
     n_compounds = index.shape[0]
     
     #get names of all FPs available in ../FPs
-    names = os.listdir("../FPs")
+    names = os.listdir("../FPs/coconut")
     fp_names = [x[:-4] for x in names]
-    fp_paths = ["../FPs/" + x for x in names]
+    fp_paths = ["../FPs/coconut" + x for x in names]
     
     #compute number of pairwise similarity calculations and
     #preallocate array of correct size
@@ -97,7 +97,7 @@ def main(index, iteration_n):
     path_df = "../Results/sample_stats/"
     
     #load dataset slice i-th and collect stats
-    db = pd.read_csv("../Data/clean_coconut.csv")
+    db = pd.read_csv("../Data/coconut.csv")
     db = db.iloc[index]
     db_stats = get_statistics(db)
     db_stats.to_csv(path_df + str(iteration_n) + ".csv")
@@ -113,7 +113,7 @@ def main(index, iteration_n):
         fp = fp[index,:]
 
         #depending on whether it is minhashed or not, run search
-        if fp_names[j] != "mhfp" or fp_names[j] != "map4":
+        if fp_names[j] != "mhfp" and fp_names[j] != "map4":
             sims = sim_search(fp)
         else:
             sims = sim_search(fp, sim_metric="custom")
@@ -167,6 +167,7 @@ if __name__ == "__main__":
     print(f"-- iterations: {n_replicates}")
     print(f"-- cores: {n_cores}")
     print(f"-- random seed: {seed}")
+    print(f"-- Using smooth tanimoto for AP, TT, Avalon")
     
     #create pool with n cores
     pool = Pool(n_cores)

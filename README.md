@@ -10,13 +10,14 @@ Scripts to calculate fingerprints and simiilarity matrices for natural product d
 - [Results:](Results) Contains all the results from the analysis.  
 
 ## Installation  
-All necessary packages can be installed via conda from the `environment.yml` file.  
+All necessary Python packages can be installed via conda from the `environment.yml` file.  
 ```
 git clone https://github.com/dahvida/NP_Fingerprints
 conda env create --name np_fp --file=environment.yml
 conda activate np_fp
 cd NP_Fingerprints/Scripts
 ```
+Additionally, you need to install Java 11 for computing CDK / jCompoundMapper fingerprints, and unzip the .jar files in [FP_calc](Scripts/FP_calc).  
 
 ## Tutorial
 **All scripts must be executed from the [Scripts](Scripts) folder.**  

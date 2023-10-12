@@ -28,93 +28,82 @@ parser.add_argument("--FP_type",
                     default = "rdkit",
                     help = "fingerprinting package to use for calculations, options are [rdkit, cdk, minhash, jmap]")
 
+parser.add_argument("--dataset",
+                    default = "coconut",
+                    help = "Which dataset to use for fingerprint generation")
+
 args = parser.parse_args()
 
 ###########################################################################
 
-def main(fp_class):
+def main(fp_class, dataset):
     
     fp_class = fp_class.lower()
     print("[FP]: Starting fingerprint generation")
-    print(f"[FP]: Will compute fingerprints from {fp_class} package and store in ../FPs")
+    print(f"[FP]: Will compute fingerprints from {fp_class} package and store in ../FPs/{dataset}")
+    
+    dataset = dataset.lower()
 
     #load dataset, get smiles and mol objects
-    db = pd.read_csv("../Data/clean_coconut.csv")
-    smiles = list(db["sugar_free_smiles"])
+    db = pd.read_csv("../Data/" + dataset + ".csv")
+    smiles = list(db["SMILES"])
     mols = [Chem.MolFromSmiles(x) for x in smiles]
     print("[FP]: Dataset loaded")
+    prefix = "../FPs/" + dataset + "/"
     
     #run and save rdkit FPs
     if fp_class == "rdkit":
         fp = calc_ECFP(mols)
-        pickle_save(fp, "../FPs/ecfp.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"ecfp.pkl", verbose=False)
         fp = calc_AVALON(mols)
-        pickle_save(fp, "../FPs/avalon.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"avalon.pkl", verbose=False)
         fp = calc_TT(mols)
-        pickle_save(fp, "../FPs/tt.pkl", verbose=False)
- 
+        pickle_save(fp, prefix+"tt.pkl", verbose=False)
         fp = calc_MACCS(mols)
-        pickle_save(fp, "../FPs/maccs.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"maccs.pkl", verbose=False)
         fp = calc_FCFP(mols)
-        pickle_save(fp, "../FPs/fcfp.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"fcfp.pkl", verbose=False)
         fp = calc_AP(mols)
-        pickle_save(fp, "../FPs/ap.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"ap.pkl", verbose=False)
         fp = calc_RDKIT(mols)
-        pickle_save(fp, "../FPs/rdkit.pkl", verbose=False)
+        pickle_save(fp, prefix+"rdkit.pkl", verbose=False)
     
     #run and save minhash FPs
     elif fp_class == "minhash":
         fp = calc_MAP4(mols)
-        pickle_save(fp, "../FPs/map4.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"map4.pkl", verbose=False)
         fp = calc_MHFP(mols)
-        pickle_save(fp, "../FPs/mhfp.pkl", verbose=False)
+        pickle_save(fp, prefix+"mhfp.pkl", verbose=False)
 
     #run and save cdk FPs
     elif fp_class == "cdk":
         from FP_calc.cdk_fps import calc_PUBCHEM, calc_DAYLIGHT, calc_KR, calc_LINGO, calc_ESTATE
-
         fp = calc_PUBCHEM(smiles)
-        pickle_save(fp, "../FPs/pubchem.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"pubchem.pkl", verbose=False)
         fp = calc_DAYLIGHT(smiles)
-        pickle_save(fp, "../FPs/daylight.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"daylight.pkl", verbose=False)
         fp = calc_KR(smiles)
-        pickle_save(fp, "../FPs/kr.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"kr.pkl", verbose=False)
         fp = calc_LINGO(smiles)
-        pickle_save(fp, "../FPs/lingo.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"lingo.pkl", verbose=False)
         fp = calc_ESTATE(smiles)
-        pickle_save(fp, "../FPs/estate.pkl", verbose=False)
+        pickle_save(fp, prefix+"estate.pkl", verbose=False)
 
     #run and save jmap FPs
     elif fp_class == "jmap":
         from FP_calc.jmap_fps import calc_DFS, calc_ASP, calc_LSTAR, calc_RAD2D, calc_PH2, calc_PH3
-
         fp = calc_DFS(smiles)
-        pickle_save(fp, "../FPs/dfs.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"dfs.pkl", verbose=False)
         fp = calc_ASP(smiles)
-        pickle_save(fp, "../FPs/asp.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"asp.pkl", verbose=False)
         fp = calc_LSTAR(smiles)
-        pickle_save(fp, "../FPs/lstar.pkl", verbose=False)
-        
+        pickle_save(fp, prefix+"lstar.pkl", verbose=False)
         fp = calc_RAD2D(smiles)
-        pickle_save(fp, "../FPs/rad2d.pkl", verbose=False)
-        
+        pickle_save(fp, prefix+"rad2d.pkl", verbose=False)
         fp = calc_PH2(smiles)
-        pickle_save(fp, "../FPs/ph2.pkl", verbose=False)
-
+        pickle_save(fp, prefix+"ph2.pkl", verbose=False)
         fp = calc_PH3(smiles)
-        pickle_save(fp, "../FPs/ph3.pkl", verbose=False)
+        pickle_save(fp, prefix+"ph3.pkl", verbose=False)
     
     #catch wrong input from user
     else:
@@ -122,10 +111,8 @@ def main(fp_class):
 
     print("[FP]: Calculation finished")
 
-
-
 if __name__ == "__main__":
-    main(args.FP_type)
+    main(args.FP_type, args.dataset)
 
 
 

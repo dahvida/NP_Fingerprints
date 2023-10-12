@@ -23,15 +23,19 @@ def sim_search(
         A vector ((M**2 - M) / 2) of all unique pairwise similarities
         for each element in the array
     """
+    
+    fp = array.copy()
 
     #swap metric type (used for MHFP & MAP4)
     if sim_metric == "default":
         metric = jaccard
+        #fix array for count-based fingerprints (AP, TT, Avalon)
+        fp[fp > 1] = 1
     else:
         metric = jaccard_like
     
     #preallocate vector of correct size
-    n_samples = array.shape[0]
+    n_samples = fp.shape[0]
     n_comps = int((n_samples ** 2 - n_samples) / 2)
     similarity = np.zeros((1, n_comps,), dtype=np.float32)
     
@@ -42,8 +46,8 @@ def sim_search(
     for i in range(n_samples - 1):
         for j in range(i+1, n_samples):
             #calculate sim as 1 - jaccard distance
-            similarity[0, count] = 1 - metric(array[i,:],
-                                            array[j,:])
+            similarity[0, count] = 1 - metric(fp[i,:],
+                                            fp[j,:])
             count += 1
 
     return similarity
