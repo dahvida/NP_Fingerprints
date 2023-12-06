@@ -11,6 +11,7 @@ import numpy as np
 import deepchem as dc
 import pandas as pd
 from typing import *
+from mlp import MLP
 
 ######################################################################
 
@@ -20,13 +21,13 @@ def optimize(
         x_val: np.ndarray,
         y_val: np.ndarray,
         iters: int = 20,
-        metric: str = "PR-AUC"
+        metric: str = "ROC-AUC",
+        algorithm : str = "RF"
             ) -> Dict:
     """Hyperparameter optimization function
     
-    Find optimal values for number of estimators, maximum tree depth,
-    minimum samples per split, minimum samples per leaf and number of
-    features per split according to the chosen optimization metric.
+    Find optimal values of the hyperparameters of the given model
+    according to the chosen optimization metric.
 
     Args:
         x_train:    (M, K) training set fingerprints
@@ -49,43 +50,67 @@ def optimize(
         metric = roc_auc_score
             
     #define optimization grid
-    space = {
-        'n_estimators':         hp.quniform('n_estimators',
+    if algorithm == "RF":
+        space = {
+            'n_estimators':         hp.quniform('n_estimators',
                                             50, 500, 50),
-
-        'max_depth':            hp.quniform('max_depth',
+            'max_depth':            hp.quniform('max_depth',
                                             5, 15, 2),
-
-        'min_samples_split':    hp.quniform('min_samples_split',
+            'min_samples_split':    hp.quniform('min_samples_split',
                                             2, 20, 1),
-
-        'min_samples_leaf':     hp.quniform('min_samples_leaf',
+            'min_samples_leaf':     hp.quniform('min_samples_leaf',
                                             2, 100, 1),
-
-        'max_features':         hp.choice('max_features',
+            'max_features':         hp.choice('max_features',
                                             ["sqrt", "log2", 0.1])
+                }
+    else:
+        space = {
+            'hidden_size': hp.quniform('hidden_size',
+                                       128, 512, 64),
+            'dropout_rate': hp.uniform('dropout_rate',
+                                       0, 0.4),
+            'learning_rate': hp.loguniform('learning_rate',
+                                       -10, -2),
+            'batch_size': hp.quniform('batch_size',
+                                      16, 64, 16)
             }
-
+            
     #define eval function
     def model_eval(args):
                 
-        #parse vars into int for RF model
-        args["n_estimators"] = int(args["n_estimators"])
-        args["max_depth"] = int(args["max_depth"])
-        args["min_samples_split"] = int(args["min_samples_split"])
-        args["min_samples_leaf"] = int(args["min_samples_leaf"])
+        if algorithm == "RF":
+            #parse vars into int for RF model
+            args["n_estimators"] = int(args["n_estimators"])
+            args["max_depth"] = int(args["max_depth"])
+            args["min_samples_split"] = int(args["min_samples_split"])
+            args["min_samples_leaf"] = int(args["min_samples_leaf"])
 
-        #define model with custom args, using all cores
-        model = RandomForestClassifier(
+            #define model with custom args, using all cores
+            model = RandomForestClassifier(
                         class_weight = "balanced_subsample",
                         n_jobs = -1,
                         **args
                         )
-                
+        else:
+            #parse vars into int for RF model
+            args["hidden_size"] = int(args["hidden_size"])
+            args["batch_size"] = int(args["batch_size"])
+            args["input_size"] = x_train.shape[1]
+            #define model with custom args
+            model = MLP(**args)
+            scaler = StandardScaler()
+            x_train_2 = scaler.fit_transform(x_train)
+            x_val_2 = scaler.transform(x_val)
+            
         #fit model and return logits
-        model.fit(x_train, y_train)
-        probs = model.predict_proba(x_val)[:,1]
-                                
+        if algorithm == "RF":
+            model.fit(x_train, y_train)
+            probs = model.predict_proba(x_val)[:,1]
+        else:
+            model.fit(x_train_2, y_train)
+            probs = model.predict_proba(x_val_2)[:,1]
+
+                        
         return 1 - metric(y_val, probs)
             
     #create trials object
@@ -101,13 +126,18 @@ def optimize(
                 verbose = False
                 )
             
-    #parse optimum vars into ints or into correct value
-    optimum['max_features'] = ["sqrt", "log2", 0.1][optimum['max_features']]
-    optimum["n_estimators"] = int(optimum["n_estimators"])
-    optimum["max_depth"] = int(optimum["max_depth"])
-    optimum["min_samples_split"] = int(optimum["min_samples_split"])
-    optimum["min_samples_leaf"] = int(optimum["min_samples_leaf"]) 
-
+    if algorithm == "RF":
+        #parse optimum vars into ints or into correct value
+        optimum['max_features'] = ["sqrt", "log2", 0.1][optimum['max_features']]
+        optimum["n_estimators"] = int(optimum["n_estimators"])
+        optimum["max_depth"] = int(optimum["max_depth"])
+        optimum["min_samples_split"] = int(optimum["min_samples_split"])
+        optimum["min_samples_leaf"] = int(optimum["min_samples_leaf"]) 
+    else:
+        optimum["hidden_size"] = int(optimum["hidden_size"])
+        optimum["batch_size"] = int(optimum["batch_size"])
+        optimum["input_size"] = x_train.shape[1]
+        
     return optimum
 
 #--------------------------------------------------------------------------#
@@ -133,22 +163,21 @@ def evaluate(
         iters:      number of training and evaluation repetitions
     
     Returns:
-        A numpy array (7,2) containing in the first column the mean 
+        A numpy array (6,2) containing in the first column the mean 
         performance for each metric across iterations, in the second column
         their standard deviation.
         The metrics are ordered as follows:
-            - Balanced accuracy
             - Matthews correlation coefficient
-            - F1 Score
-            - Precision
-            - Recall
             - ROC-AUC
             - PR-AUC
+            - Precision
+            - Recall
+            - Specificity
     """
     
     #create containers with right dimensions
-    storage = np.zeros((7, iters))
-    results = np.zeros((7, 2))
+    storage = np.zeros((6, iters))
+    results = np.zeros((6, 2))
     
     #loop analysis over number of iterations
     for i in range(iters):
@@ -161,7 +190,7 @@ def evaluate(
                 **params
                 )
         else:
-            model = GaussianNB()
+            model = MLP(**params)
             scaler = StandardScaler()
             x_train = scaler.fit_transform(x_train)
             x_test = scaler.transform(x_test)
@@ -174,13 +203,12 @@ def evaluate(
         pred_prob = model.predict_proba(x_test)[:,1]
         
         #measure all metrics and store them in storage array
-        storage[0,i] = balanced_accuracy_score(y_test, pred_label)
-        storage[1,i] = matthews_corrcoef(y_test, pred_label)
-        storage[2,i] = f1_score(y_test, pred_label)
+        storage[0,i] = matthews_corrcoef(y_test, pred_label)
+        storage[1,i] = roc_auc_score(y_test, pred_prob)
+        storage[2,i] = average_precision_score(y_test, pred_prob)
         storage[3,i] = precision_score(y_test, pred_label)
         storage[4,i] = recall_score(y_test, pred_label)
-        storage[5,i] = roc_auc_score(y_test, pred_prob)
-        storage[6,i] = average_precision_score(y_test, pred_prob)
+        storage[5,i] = recall_score(y_test, pred_label, pos_label=0)
     
     #get mean and std across repetition and store them in output array
     results[:,0] = np.mean(storage, axis=1)
@@ -193,8 +221,8 @@ def evaluate(
 def store_results(
         results: List[np.ndarray],
         fp_names: List[str],
-        class_name: str,
-        algorithm: str
+        algorithm: str,
+        dataset: str,
         ) -> None:
     """Converts list of results in .csv file
     
@@ -204,15 +232,16 @@ def store_results(
         fp_names:   List (X) of names of fingerprints used
         class_name: name of class used for the evaluation analysis
         algorithm:  name of the classification algorithm used for the analysis
+        dataset:    name of the dataset used for the analysis
 
     Returns:
         None
     """
 
     #create container for all results and indexes for correct allocation
-    array = np.zeros((len(results), 14))
-    idx_means = np.array([0,2,4,6,8,10,12])
-    idx_std = np.array([1,3,5,7,9,11,13])
+    array = np.zeros((len(results), 12))
+    idx_means = np.array([0,2,4,6,8,10])
+    idx_std = np.array([1,3,5,7,9,11])
     
     #store results in container as mean1, std1, mean2, std2, mean3, std3 ...
     for i in range(len(results)):
@@ -221,13 +250,12 @@ def store_results(
     
     #create metric name template
     metric_names = [
-            "Balanced accuracy",
             "MCC",
-            "F1",
+            "ROC-AUC",
+            "PR-AUC",
             "Precision",
             "Recall",
-            "ROC-AUC",
-            "PR-AUC"
+            "Specificity"
             ]
     
     #create proper names by modifying common template
@@ -244,22 +272,20 @@ def store_results(
             columns = metric_names
             )
     
-    if algorithm == "RF:
-    	df.to_csv("../Results/classification_rf/" + class_name + ".csv")
+    if algorithm == "RF":
+    	df.to_csv("../Results/" + dataset + "/classification_rf.csv")
     else:
-    	df.to_csv("../Results/classification_nb/" + class_name + ".csv")
+    	df.to_csv("../Results/" + dataset + "/classification_mlp.csv")
 
 #--------------------------------------------------------------------------#
 
 def split(
-        df: pd.DataFrame,
-        seed: int = 0
+        df: pd.DataFrame
         ) -> Tuple[np.ndarray, np.ndarray, np.ndarray]:
     """Scaffold splitting function
     
     Args:
-        df:     dataset to split, must have a column named "sugar_free_smiles"
-        seed:   random seed to make splits reproducible
+        df:     dataset to split, must have a column named "SMILES"
 
     Returns
         Tuple of 3 numpy arrays containing the sample indexes to split
@@ -268,7 +294,7 @@ def split(
     """
 
     #fetch smiles from df as list
-    smiles = list(df["sugar_free_smiles"])
+    smiles = list(df["SMILES"])
     
     #create splitter object
     splitter = dc.splits.ScaffoldSplitter()
@@ -298,7 +324,7 @@ def assert_splits(
     chosen random seed doesn't cause excessive class imbalance in the sets.
     
     Args:
-        labels:         (A, 5) array with class labels for all compounds
+        labels:         (A, 1) array with class labels for all compounds
         train_idx:      (M, 1) array with IDs of training set componds
         val_idx:        (N, 1) array with IDs of validation set compounds
         test_idx:       (J, 1) array with IDs of test set compounds
@@ -307,21 +333,11 @@ def assert_splits(
         None
     """
     
-    for i in range(labels.shape[1]):
-        y_train = labels[train_idx, i]
-        y_val = labels[val_idx, i]
-        y_test = labels[test_idx, i]
-        assert np.sum(y_train) > 500, "[clf]: Split failed quality check, try different random seed"
-        assert np.sum(y_val) > 50,  "[clf]: Split failed quality check, try different random seed"
-        assert np.sum(y_test) > 50, "[clf]: Split failed quality check, try different random seed"
-
-
-
-
-
-
-
-
-
+    y_train = labels[train_idx]
+    y_val = labels[val_idx]
+    y_test = labels[test_idx]
+    assert np.sum(y_train) > np.sum(labels)*0.6, "[clf]: Split failed quality check, try different random seed"
+    assert np.sum(y_val) > np.sum(labels)*0.05,  "[clf]: Split failed quality check, try different random seed"
+    assert np.sum(y_test) > np.sum(labels)*0.05, "[clf]: Split failed quality check, try different random seed"
 
 

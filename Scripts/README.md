@@ -6,7 +6,6 @@ Unfortunately it was not possible to structure the package so that both jCompoun
 In the future I plan to revise this, but for the moment either you import the fingerprints in `FP_calc.jmap_fps.py` or in `FP_calc.cdk_fps.py`. Any suggestion on how to overcome this issue, without reimplementing all fingerprints from scratch natively in Python, is welcome!  
 
 # Folder structure
-
 - [FP_calc:](clean_coconut.csv) Contains all functions and supporting files to compute
 all fingerprints. Currently the package can calculate:  
    - MACCS  
@@ -32,17 +31,19 @@ all fingerprints. Currently the package can calculate:
 
 - [cleanup.py:](cleanup.py) Contains utility functions used in `cleanup_script`.  
 
-- [cleanup_script.py:](cleanup_script.py) Preprocesses the raw COCONUT database. For further
-information, open the file or use the `--help` flag from the command line.  
+- [cleanup_script.py:](cleanup_script.py) Preprocesses the raw COCONUT database. For further information, open the file or use the `--help` flag from the command line.  
+
+- [make_clf_script.py:](make_clf_script.py) Script to generate classification tasks from CMNPD labels. For further information, open the file or use the `--help` flag from the command line.   
 
 - [clf.py:](clf.py) Contains utility functions used in `clf_script`.  
 
-- [clf_script.py:](clf_script.py) Calculates classification metrics for all classes
-using all precomputed fingerprints. For further information, open the file or use the `--help` flag from the command line.  
+- [mlp.py:](mlp.py) Contains a Pytorch implementation of the MLP model used for classification.  
+
+- [clf_script.py:](clf_script.py) Calculates classification metrics for all classes using all precomputed fingerprints on a task from CMNPD. To generate the target dataset, first run `make_clf_script.py`. For further information, open the file or use the `--help` flag from the command line.  
 
 - [fp_script.py:](fp_script.py) Computes the chosen fingerprint set. For further information, open the file or use the `--help` flag from the command line.  
 
-- [sim_search.py:](sim_search.py) Contains utility functions used in `sim_search_script`.  
+- [sim_search.py:](sim_search.py) Contains utility functions used in `sim_search_script.py`.  
 
 - [sim_search_script.py:](sim_search_script.py) Runs the similarity search using all precomputed fingerprints for the COCONUT dataset. For further information,
  open the file or use the `--help` flag from the command line.  

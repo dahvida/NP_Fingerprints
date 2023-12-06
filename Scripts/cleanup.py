@@ -35,35 +35,43 @@ def label_text(
     animal_check = ["animal", "animals"]
     marine_check = ["marine"]
     
+    idx_list = []
+    
     #run checks and assign label
     #(some NPs have multiple sources but we are assigning according
     #to the first label)
     if any([x in string for x in bacteria_check]):
         origin = "bacteria"
-        idx = 0    
-    elif any([x in string for x in plants_check]):
+        idx_list.append(0)
+    if any([x in string for x in plants_check]):
         origin = "plant"
-        idx = 1
-    elif any([x in string for x in fungi_check]):
+        idx_list.append(1)
+    if any([x in string for x in fungi_check]):
         origin = "fungi"
-        idx = 2
-    elif any([x in string for x in animal_check]):
+        idx_list.append(2)
+    if any([x in string for x in animal_check]):
         origin = "animal"
-        idx = 3
-    elif any([x in string for x in marine_check]):
+        idx_list.append(3)
+    if any([x in string for x in marine_check]):
         origin = "marine"
-        idx = 4
-    else:
+        idx_list.append(4)
+    
+    if len(idx_list) == 0:
         origin = None
         idx = None
-    
+    elif len(idx_list) > 1:
+        origin = "mix"
+        idx = 5
+    else:
+        idx = idx_list[0]
+        
     return origin, idx
 
 #--------------------------------------------------------------------------#
 
 def clean_smiles(
         smiles: str
-        ) -> rdkit.Chem.rdchem.Mol:
+        ) -> Chem.rdchem.Mol:
     """Uses the ChEMBL standardizer to parse a SMILES string
     
     Args:
@@ -125,7 +133,7 @@ def fix_dataframe(
     output = output.dropna()
     output = output[["sugar_free_smiles",
                      "organism",
-                     "class_id"
+                     "class_id",
                      "murko_framework",
                     ]]
 

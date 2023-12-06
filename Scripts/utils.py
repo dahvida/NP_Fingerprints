@@ -27,7 +27,7 @@ def get_statistics(
     """
 
     #prealloc data with right size
-    data = np.zeros((6,4))
+    data = np.zeros((7,4))
     
     #make organism labels
     organisms = [
@@ -36,7 +36,8 @@ def get_statistics(
                 "bacteria",
                 "fungi",
                 "animal",
-                "marine"]
+                "marine",
+                "mix"]
     
     #make column labels
     columns = ["Number of compounds",

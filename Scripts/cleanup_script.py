@@ -57,13 +57,13 @@ def main():
   
   #create numpy array with class ID information as one-hot encoding
   y = np.array(coconut["class_id"], dtype=np.int8)
-  y = np.eye(5)[y]
+  y = np.eye(6)[y]
 
   #get class statistics from the clean csv file
   stats = get_statistics(coconut)
   
   #print saving info and stats
-  logs.append("[cleanup]: Saving data as ../Data/clean_coconut.csv")
+  logs.append("[cleanup]: Saving data as ../Data/coconut.csv")
   logs.append("[cleanup]: Saving labels as ../Data/labels.pkl")
   logs.append("[cleanup]: Saving stats as ../Data/stats.csv")
   logs.append("[cleanup]: saving log as ../Data/log.txt")
@@ -74,7 +74,7 @@ def main():
   print(stats)
 
   #save everything
-  coconut.to_csv("../Data/clean_coconut.csv")
+  coconut.to_csv("../Data/coconut.csv")
   stats.to_csv("../Data/stats.csv")
   with open("../Data/log.txt", 'w') as f:
     for line in logs:

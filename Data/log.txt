@@ -1,7 +1,7 @@
 [cleanup]: Loaded 400837 molecules
 [cleanup]: Found 135064 molecules with taxonomy annotation
 [cleanup]: Found 129869 molecules with parseable taxonomy and correct structure
-[cleanup]: Saving data as ../Data/clean_coconut.csv
+[cleanup]: Saving data as ../Data/coconut.csv
 [cleanup]: Saving labels as ../Data/labels.pkl
 [cleanup]: Saving stats as ../Data/stats.csv
 [cleanup]: saving log as ../Data/log.txt
