@@ -893,7 +893,7 @@
 891,CMNPD892,C#CC#C[C@H](O)CCCCCCCCC/C=C(/Br)CCCCCC,
 892,CMNPD893,CCCCCC/C=C\CCCCCCCCCCC#CC#CCO,
 893,CMNPD894,CCCCCC/C=C\CCCCCCCCC[C@@H](O)C#CC#CCO,
-894,CMNPD895,O=C(O)CCCC#C/C=C/CCCCC=C(Br)/C=C/Br,anti-tumour | CNS activity in vivo
+894,CMNPD895,O=C(O)CCCC#C/C=C/CCCCC=C(Br)/C=C/Br,antitumour | CNS activity in vivo
 895,CMNPD896,C#CCCCCCCCCCCCC/C=C\CCCCCC,
 896,CMNPD897,C#C/C=C\CCCCCCC#CC#CC#CCCCCC#C,
 897,CMNPD898,C#C/C=C\CCCCC#CC#CC#CCCCCCC#CCO,
@@ -1263,7 +1263,7 @@
 1261,CMNPD1262,CC1=C[C@@H]2[C@@H](C(C)C)CC=C(C)[C@@H]2CC1,
 1262,CMNPD1263,CC1=C[C@H]2[C@@H](CC1)C(C)=CC[C@]2(O)C(C)C,
 1263,CMNPD1264,CC(=O)O[C@]1(C(C)C)CC=C(C)[C@@H]2CCC(C)=C[C@@H]21,
-1264,CMNPD1265,C=C1C(O)CC2C3C1C2(C)CC[C@H]3C(C)C,anti-tumour
+1264,CMNPD1265,C=C1C(O)CC2C3C1C2(C)CC[C@H]3C(C)C,antitumour
 1265,CMNPD1266,C=C1C2C3CCC1C3(C)CC[C@@H]2C(C)(C)OC(C)=O,
 1266,CMNPD1267,CC(=O)OC(C)(C)[C@H]1CCC2(C)C3CC4C2C4(C)C31,
 1267,CMNPD1268,C=C1C2C3CCC1C3(C)CC[C@@H]2C(C)C,
@@ -1439,9 +1439,9 @@
 1437,CMNPD1438,CCCCCCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC1=CC(C)(O)OC1=O,significant anti-inflammatory activity
 1438,CMNPD1439,CC(=O)O[C@@H]1C[C@@]2(C)C(CCC3C2[C@@H](O)C[C@@]2(C)C3C[C@@H]3O[C@@]4(C[C@H](C)C(C)(C)O4)[C@](C)(O)[C@@H]32)C[C@@H]1O,
 1439,CMNPD1440,CC(=O)O[C@@H]1C[C@@]2(C)C(CCC3C2[C@@H](O)C[C@@]2(C)C3C[C@@H]3O[C@]4(C[C@H](C)C(C)(C)O4)[C@](C)(O)[C@@H]32)C[C@@H]1O,
-1440,CMNPD1441,C[C@H]1C[C@@]2(O[C@H]3CC4C5CCC6C[C@H](O)CC[C@]6(C)C5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C,anticancer
+1440,CMNPD1441,C[C@H]1C[C@@]2(O[C@H]3CC4C5CCC6C[C@H](O)CC[C@]6(C)C5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C,antitumour
 1441,CMNPD1442,C[C@H]1C[C@]2(O[C@H]3CC4C5CCC6C[C@H](O)CC[C@]6(C)C5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C,
-1442,CMNPD1443,C[C@H]1C[C@@]2(O[C@H]3CC4C5CCC6C[C@H](O)[C@H](O)C[C@]6(C)C5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C,anticancer
+1442,CMNPD1443,C[C@H]1C[C@@]2(O[C@H]3CC4C5CCC6C[C@H](O)[C@H](O)C[C@]6(C)C5[C@@H](O)C[C@]4(C)[C@H]3[C@@]2(C)O)OC1(C)C,antitumour
 1443,CMNPD1444,CC(=O)O[C@@H]1CC[C@@]2(C)C(CCC3C2[C@@H](O)C[C@]24C(=O)O[C@]5(C)[C@H]2[C@H](CC34)OC52CC(C)C(C)(C)O2)C1,
 1444,CMNPD1445,CC(=O)O[C@@H]1CC[C@@]2(C)C(CCC3C2[C@@H]2C[C@]45C(O2)O[C@]2(C)[C@H]4[C@H](CC35)OC23CC(C)C(C)(C)O3)C1,
 1445,CMNPD1446,CC(=O)O[C@@H]1[C@@H](O)C2C(C3CCC(C(C)C4CC4(C)C(C)C(C)C)[C@]31C)[C@H](O)C=C1C[C@@H](O)CC[C@@]12C,
@@ -2275,8 +2275,8 @@
 2273,CMNPD2274,CC(C)CCCCCCCCCCCCCC/C=C\CC/C=C\CCCC(=O)O,
 2274,CMNPD2275,CCC(C)CCCCCCCCCCCCC/C=C\CC/C=C\CCCC(=O)O,
 2275,CMNPD2276,CCCCCC/C=C\CC/C=C\CCCC(=O)O,
-2276,CMNPD2277,C=C1C[C@@H]2CC[C@@]34O[C@@H]5[C@@H]6O[C@@](O)([C@H](O3)[C@@H]6O[C@H]3CC[C@H](CC(=O)O[C@@H]6[C@@H](C)[C@@H]7O[C@@H]8C[C@]9(C[C@@H]%10O[C@]%11(C[C@H](C)[C@@H]%12O[C@H](CC(=O)O)[C@H](O)C[C@@H]%12O%11)C[C@H](C)[C@@H]%10O9)O[C@@H]8C[C@@H]7O[C@H]6C[C@H]6O[C@@H](CC[C@@H]1O2)C[C@@H](C)C6=C)O[C@H]53)[C@H]4O,anti-tumour
-2277,CMNPD2278,COC[C@H]([C@@H](O)[C@@H](O)C(=O)NCC[C@@H](C)c1nc(/C=C/C[C@H]2O[C@@]3(C[C@H](O)[C@H]2C)O[C@@H]([C@@H](C[C@@H](O)[C@@H](C)[C@@H](O)[C@@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C\C#N)OC)[C@@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,anti-tumour | cytotoxin
+2276,CMNPD2277,C=C1C[C@@H]2CC[C@@]34O[C@@H]5[C@@H]6O[C@@](O)([C@H](O3)[C@@H]6O[C@H]3CC[C@H](CC(=O)O[C@@H]6[C@@H](C)[C@@H]7O[C@@H]8C[C@]9(C[C@@H]%10O[C@]%11(C[C@H](C)[C@@H]%12O[C@H](CC(=O)O)[C@H](O)C[C@@H]%12O%11)C[C@H](C)[C@@H]%10O9)O[C@@H]8C[C@@H]7O[C@H]6C[C@H]6O[C@@H](CC[C@@H]1O2)C[C@@H](C)C6=C)O[C@H]53)[C@H]4O,antitumour
+2277,CMNPD2278,COC[C@H]([C@@H](O)[C@@H](O)C(=O)NCC[C@@H](C)c1nc(/C=C/C[C@H]2O[C@@]3(C[C@H](O)[C@H]2C)O[C@@H]([C@@H](C[C@@H](O)[C@@H](C)[C@@H](O)[C@@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C\C#N)OC)[C@@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,antitumour | cytotoxin
 2278,CMNPD2279,COC1CC2CC=CC(CC(O)C/C=C(C)/C=C/C(=O)OC(C(C)C(O)C(C)CC[C@@H]3C[C@@H](OC)C[C@@H](C)O3)C(C)C(O)CC(O)C1C)O2,
 2279,CMNPD2280,C/C1=C/C(=O)O[C@@H]2C[C@@H](CC[C@H](C)/C=C\CC1)O[C@@](O)([C@@H]1CSC(=O)N1)C2,toxin | ichthyotoxic
 2280,CMNPD2281,COc1cc2ccnc3c2c(c1OC)NC=C3,α-adrenoceptor-blocking activity
@@ -2382,7 +2382,7 @@
 2380,CMNPD2381,C/C1=C\CC[C@](C)(O)[C@H]2CC[C@@](C)(O)[C@@H]2/C=C(/C(C)C)CC1,
 2381,CMNPD2382,C/C1=C\C/C=C(\C)C2CCC(C)(O)C2/C=C(/C(C)C)CC1,
 2382,CMNPD2383,CC1=CC[C@@H]2O[C@@H]1CC1=CC[C@@H](C(C)C)[C@]1(C)CC(=O)[C@@]2(C)O,
-2383,CMNPD2384,CCCCC/C=C\C[C@@]1(O)C=C(Cl)C(=O)/C1=C/C=C\CCCC(=O)OC,anti-tumour activity against HL-60 cells
+2383,CMNPD2384,CCCCC/C=C\C[C@@]1(O)C=C(Cl)C(=O)/C1=C/C=C\CCCC(=O)OC,antitumour activity against HL-60 cells
 2384,CMNPD2385,CCCCC/C=C\C[C@@]1(O)C=C(Cl)C(=O)/C1=C/C=C/CCCC(=O)OC,
 2385,CMNPD2386,CCCCC/C=C\C[C@@]1(O)C=C(Cl)C(=O)/C1=C\C=C\CCCC(=O)OC,
 2386,CMNPD2387,CCCCC/C=C\C[C@@]1(O)C=C(Br)C(=O)/C1=C/C=C\CCCC(=O)OC,
@@ -2477,8 +2477,8 @@
 2475,CMNPD2476,COc1cc(-c2c3n(c4c(=O)oc5cc(O)c(OC)cc5c24)CCc2c-3cc(OC)c(OC)c2OC)ccc1O,
 2476,CMNPD2477,COc1cc(-c2c3c4cc(OC)c(O)cc4oc(=O)c3n3ccc4cc(O)c(OC)cc4c23)ccc1O,
 2477,CMNPD2478,CNC(C)C(=O)NC(C)C(O)C(C)C(=O)N1C(=O)C(C)(C)C(=O)C1C(C)C,
-2478,CMNPD2479,COC(CC1OC(=O)CC(O)CCCC(=O)CC(C)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)C(C)CCC(=O)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,anti-tumour
-2479,CMNPD2480,COCC(OC)C(=O)OC(CCC(C)C(CC1OC(=O)CC(O)CCCC(=O)CC(C)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)OC)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,anti-tumour
+2478,CMNPD2479,COC(CC1OC(=O)CC(O)CCCC(=O)CC(C)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)C(C)CCC(=O)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,antitumour
+2479,CMNPD2480,COCC(OC)C(=O)OC(CCC(C)C(CC1OC(=O)CC(O)CCCC(=O)CC(C)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)OC)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,antitumour
 2480,CMNPD2481,COC(CC1OC(=O)CC(OC(N)=O)CC(C)CC(O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)C(C)CCC(=O)C(C)C(OC)C(C)/C=C/N(C)C=O,antifungal
 2481,CMNPD2482,Oc1cc(Br)cc2c1[nH]c1c(C3=NCCC3)nccc12,antagonist of the ubiquitous calcium-ion-binding protein calmodulin
 2482,CMNPD2483,NCCSCc1c[nH]c2cc(Br)ccc12,potent antimicrobial | insecticidal | cytotoxic
@@ -2715,12 +2715,12 @@
 2713,CMNPD2714,C/C=C/CCCCCCCCC[C@@]1(OC)C=C[C@H](CC(=O)OC)OO1,significant antileukaemic
 2714,CMNPD2715,C/C=C/C=C/CCCCCCC[C@@]1(OC)C=C[C@H](CC(=O)OC)OO1,significant antileukaemic
 2715,CMNPD2716,C/C=C/C=C/CCCCCCCCC[C@@]1(OC)C=C[C@H](CC(=O)OC)OO1,significant antileukaemic
-2716,CMNPD2717,COC1CC(C)OC(CCC(C)C(O)C(C)C2OC(=O)/C(C)=C/CC(O)CC3C=CCC(CC(OC)C(C)C(O)CC(O)C2C)O3)C1,anti-tumour
+2716,CMNPD2717,COC1CC(C)OC(CCC(C)C(O)C(C)C2OC(=O)/C(C)=C/CC(O)CC3C=CCC(CC(OC)C(C)C(O)CC(O)C2C)O3)C1,antitumour
 2717,CMNPD2718,C/C1=C/C(=O)O[C@@H]2C[C@@H](CC[C@H](C)/C=C\CC1)O[C@@](O)(C1CSC(=O)N1)C2,
 2718,CMNPD2719,COC(CC1OC(=O)CC(O)C/C=C/C(=O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CCC1C)C(C)CCC(=O)C(C)C(C/C=C/N(C)C=O)OC,significant antifungal
 2719,CMNPD2720,O=C1CCN2CC[C@@H]3C4C=C5CCCCCCC[C@H]1[C@@H]2[C@@H]3CCCCC/C=C\CCCN(C5)C4,
 2720,CMNPD2721,O=C1CCN2CC[C@@H]3C4C=C5CCCCCCC[C@H]1[C@@H]2[C@@H]3CCCCCCCCCN(C5)C4,
-2721,CMNPD2722,O[C@]12C=C(c3nccc4c3[nH]c3ccccc34)[C@@H]3CCN(CCCC/C=C\CC1)C[C@@]31C[C@@H]3/C=C\CCCCN3[C@H]12,anti-tumour | antimicrobial.
+2721,CMNPD2722,O[C@]12C=C(c3nccc4c3[nH]c3ccccc34)[C@@H]3CCN(CCCC/C=C\CC1)C[C@@]31C[C@@H]3/C=C\CCCCN3[C@H]12,antitumour | antimicrobial.
 2722,CMNPD2723,Oc1cccc2c1[nH]c1c(C3=CC4(O)CC/C=C\CCCCN5CCC3C3C5CC5CCN6CCCN6N5C34)nccc12,antimicrobial
 2723,CMNPD2724,O=C1C(Br)=CC2(C=C1Br)CCNC1=C2C2=NCCc3c[nH]c(c32)C1=O,cytotoxic
 2724,CMNPD2725,O=C1C[C@H]2S[C@H]3C[C@]2(C=C1Br)C1=C(N3)C(=O)c2[nH]cc3c2C1=NCC3,potent antileukaemic agent
@@ -3063,8 +3063,8 @@
 3061,CMNPD3062,COC1=CC(=O)C=C(C/C=C(/C)CCCC(C)(C)O)C1=O,
 3062,CMNPD3063,CCCCCCC/C=C\C=C\CC[C@@H]1C[C@@H](O)[C@@H](N=NN)CN1,antineoplastic | calmodulinantagonistic
 3063,CMNPD3064,CCCCCCC/C=C/C=C/CC[C@@H]1C[C@@H](O)[C@@H](N)CN1,antineoplastic | calmodulinantagonistic
-3064,CMNPD3065,CC(C)=CCC(O)C(C)CCC/C(C)=C/CCC(C)C[C@@H](O)[C@@H](N)CO,anti-tumour
-3065,CMNPD3066,CC(C)=CCC(O)C(C)CCC/C(C)=C/CCC(C)C[C@H](O)[C@@H](N)CO,anti-tumour | antimicrobial | cytotoxic
+3064,CMNPD3065,CC(C)=CCC(O)C(C)CCC/C(C)=C/CCC(C)C[C@@H](O)[C@@H](N)CO,antitumour
+3065,CMNPD3066,CC(C)=CCC(O)C(C)CCC/C(C)=C/CCC(C)C[C@H](O)[C@@H](N)CO,antitumour | antimicrobial | cytotoxic
 3066,CMNPD3067,O=C1c2cccnc2-c2ccnc3c2c1nc1cc(Br)ccc13,cytotoxic
 3067,CMNPD3068,Brc1ccc2c(CNCCSSCCNCc3c[nH]c4cc(Br)ccc34)c[nH]c2c1,cytotoxic | antimicrobial
 3068,CMNPD3069,N[C@@H]1CSCON2CCc3c([nH]c4cc(Br)c(O)cc34)[C@H]12,
@@ -3295,7 +3295,7 @@
 3293,CMNPD3294,O=C1CC2S[C@H]3C[C@]2(C=C1Br)C1=C(N3)C(=O)c2[nH]cc3c2C1=NCC3,cytotoxic
 3294,CMNPD3295,O=C1C(Br)=C[C@@]23C[C@@H](NC4=C2C2=NCCC5CNC(=C25)C4=O)SC3=C1Br,cytotoxic
 3295,CMNPD3296,O=C1C(Br)=CC2(C=C1Br)CCNC1=C2C2=NCCc3c[nH]c(c32)C1=O,cytotoxic
-3296,CMNPD3297,O=C1C2=C3C4=[N+](CCc5c[nH]c1c54)[C@H]1C[C@@]34C[C@@H](N2)SC4=CC1=O,cytotoxic | antitumor
+3296,CMNPD3297,O=C1C2=C3C4=[N+](CCc5c[nH]c1c54)[C@H]1C[C@@]34C[C@@H](N2)SC4=CC1=O,cytotoxic | antitumour
 3297,CMNPD3298,O=C1c2c[nH]c(=O)cc2-c2nc3ccccc3c3cccc1c23,cytotoxic
 3298,CMNPD3299,C=C1CCC[C@@H]2[C@@](C)(CC3=C(O)C(=O)C=C(N)C3=O)[C@H](C)CC[C@@]12C,cytotoxic | antimicrobial
 3299,CMNPD3300,C=C1[C@H](C)CCC[C@]1(C)CC/C(C)=C/CC1=C(O)C(=O)C=C(OC)C1=O,in vitro activity against L1210 leukaemia cells | potent coronary vasodilating activity
@@ -4877,7 +4877,7 @@
 4875,CMNPD4876,CC(C[C@H]1NC(=O)C(C)(C)[C@H]1O)C(Cl)Cl,
 4876,CMNPD4877,Nc1ncc(/C=C/CNC(=O)c2ccc[nH]2)[nH]1,
 4877,CMNPD4878,NC/C=C/c1cnc(N)[nH]1,
-4878,CMNPD4879,NC[C@H](Cl)[C@@H](O)c1cnc(N)[nH]1,anti-tumour agent
+4878,CMNPD4879,NC[C@H](Cl)[C@@H](O)c1cnc(N)[nH]1,antitumour agent
 4879,CMNPD4880,N=c1[nH]cc([C@H]2[C@H](CNC(=O)c3cc(Br)c[nH]3)[C@@H](CNC(=O)c3cc(Br)c[nH]3)[C@@H]2C2N=C(N)NC2=O)[nH]1,potent actomyosin ATPase activator
 4880,CMNPD4881,Nc1nc([C@H]2[C@H](CNC(=O)c3ccc[nH]3)[C@@H](CNC(=O)c3cc(Br)c[nH]3)[C@@H]2c2c[nH]c(N)n2)c[nH]1,
 4881,CMNPD4882,Nc1nc([C@H]2[C@H](CNC(=O)c3cc(Br)c[nH]3)[C@@H](CNC(=O)c3cc(Br)c[nH]3)[C@@H]2c2c[nH]c(N)n2)c[nH]1,
@@ -4924,7 +4924,7 @@
 4922,CMNPD4923,CN1CCc2c[nH]c3c2C1=CC(=O)C3=O,
 4923,CMNPD4924,O=C1CC2S[C@H]3C[C@@]24C[C@]1(O)N1CCc2c[nH]c5c(O)c(c4c1c25)N3,
 4924,CMNPD4925,O=C1C2=C3C4=[N+](CCc5c[nH]c1c54)[C@@]1(O)C[C@@]34C[C@@H](N2)SC4=CC1=O,
-4925,CMNPD4926,O=C1CC2S[C@H]3C[C@@]24C[C@@H]1N1CCc2c[nH]c5c(O)c(c4c1c25)N3,antitumor
+4925,CMNPD4926,O=C1CC2S[C@H]3C[C@@]24C[C@@H]1N1CCc2c[nH]c5c(O)c(c4c1c25)N3,antitumour
 4926,CMNPD4927,CC[C@@H]1C=CCC[C@]2(C[C@H]3CC[C@@]4(O)[C@@H](C(=O)OCCCCCCCCCCCCCCCC(=O)N(CCCN)CC(O)CCN)[C@@]5(CCC[C@H](C)O5)N=C(N2)N34)O1,antiviral | cytotoxic
 4927,CMNPD4928,CC[C@@H]1C=CCC[C@]2(C[C@H]3CC[C@@]4(O)[C@@H](C(=O)OCCCCCCCCCCCCCCCCC(=O)N(CCCN)CC(O)CCN)[C@@]5(CCC[C@H](C)O5)N=C(N2)N34)O1,antiviral | cytotoxic
 4928,CMNPD4929,CC[C@@H]1C=CCC[C@]2(C[C@H]3CC[C@@]4(O)[C@@H](C(=O)OCCCCCCCCCCCCCCCCCC(=O)N(CCCN)CC(O)CCN)[C@@]5(CCC[C@H](C)O5)N=C(N2)N34)O1,antiviral | cytotoxic
@@ -5801,7 +5801,7 @@
 5799,CMNPD5800,CCCCC=CC=CC=CC1CCC[C@@H]2CCCN12,anti-microbial
 5800,CMNPD5801,CC(C)CC(N)c1nccc2c1[nH]c1cc(Br)ccc12,cytotoxic
 5801,CMNPD5802,CC(C)CC(=O)c1nccc2c1[nH]c1cc(Br)ccc12,
-5802,CMNPD5803,CN[C@H]1C[C@H]2O[C@@](C)(C1OC)n1c3c(O)cccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,cytotoxic protein kinase C inhibitor
+5802,CMNPD5803,CN[C@H]1C[C@H]2O[C@@](C)(C1OC)n1c3c(O)cccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,cytotoxic protein kinase_C inhibitor
 5803,CMNPD5804,O=C(O)c1cc(O)c2c(C(=O)c3ccc(O)cc3)ccc(O)c2n1,
 5804,CMNPD5805,O=C(O)c1cc(O)c2c(C(=O)c3ccc(O)c(O)c3)ccc(O)c2n1,
 5805,CMNPD5806,O=c1oc(-c2ccc(O)cc2)cn2cc(-c3ccc(O)cc3)c(-c3ccc(O)cc3)c12,cytotoxic
@@ -6089,7 +6089,7 @@
 6087,CMNPD6088,CC(C)C[C@@H]1NC(=O)[C@H](CCC(=O)O)NC(=O)[C@@H]2CCCN2C(=O)CNC(=O)[C@H](Cc2ccccc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](Cc2c[nH]c3ccccc23)NC1=O,
 6088,CMNPD6089,CCC(C)[C@@H]1NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CCCN2C(=O)[C@H](CC(=O)O)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H]2CCCN2C1=O,
 6089,CMNPD6090,CC(O)[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)O)NC1=O,
-6090,CMNPD6091,N=C(N)NCCC[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC=O)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccccc2)NC(=O)C1=O,"potent serine protease inhibitor, thrombin inhibition activity"
+6090,CMNPD6091,N=C(N)NCCC[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC=O)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccccc2)NC(=O)C1=O,"potent serine_protease inhibitor, thrombin inhibition activity"
 6091,CMNPD6092,C[C@H](NC(=O)[C@@]1(O)[C@H](CCNC(=N)N)[C@@](O)(CCCNC(=N)N)C(=O)N1[C@@H](C)C(=O)N/C=C/c1ccc(O)cc1)C(=O)N/C=C/c1ccc(O)cc1,
 6092,CMNPD6093,C[C@H](CC1C(=O)N(C)C(C[C@H](C)C(Cl)(Cl)Cl)C(=O)N1C)C(Cl)(Cl)Cl,
 6093,CMNPD6094,C[C@H](CC1C(=O)N(C)C(C[C@H](C)C(Cl)Cl)C(=O)N1C)C(Cl)Cl,
@@ -6149,7 +6149,7 @@
 6147,CMNPD6148,c1cc2c[n+](c1)CCCCCCCCc1ccc[n+](c1)CCCCCCCC2,
 6148,CMNPD6149,CCC/C=[N+](\[O-])CCCCCCCCCCCCc1cccnc1,antifungal
 6149,CMNPD6150,CCC/C=[N+](\[O-])CCCCCC/C=C\CCCCCCc1cccnc1,antifungal
-6150,CMNPD6151,O[C@H]1CN2CCC/C=C\CCC[C@]3(C2)[C@@H]1[C@@H]1C=C2CC/C=C\CCCCN(C1)[C@H]23,protein kinase C inhibitor
+6150,CMNPD6151,O[C@H]1CN2CCC/C=C\CCC[C@]3(C2)[C@@H]1[C@@H]1C=C2CC/C=C\CCCCN(C1)[C@H]23,protein kinase_C inhibitor
 6151,CMNPD6152,NCCCCCCC#CCCCCCCc1cccnc1,
 6152,CMNPD6153,C[C@H](CN)CCCCCCCCCCc1cccnc1,
 6153,CMNPD6154,C[C@H](CCN)CCCCCCCCCc1cccnc1,
@@ -6424,9 +6424,9 @@
 6422,CMNPD6423,CC[C@H](C)/C=C(\C)C(=O)/C(C)=C/C(C)/C=C(C)/C=C(\C)c1oc(=O)c(C)c(O)c1C,
 6423,CMNPD6424,CC(=O)[C@H]1[C@@H]2CCC[C@H]2C=C[C@H]1CCC/C=C/c1ccccn1,
 6424,CMNPD6425,CCC(=O)C(C)C(=O)/C(C)=C/C(C)=C/C(C)/C=C(\C)C(=O)/C(C)=C/[C@@H](C)CC,
-6425,CMNPD6426,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1ccccc1,exhibit weak inhibition of a serine protease
-6426,CMNPD6427,COc1cc(CC(=O)NCCCCNC(=O)CC(=O)NCCC(=O)c2ccccc2NC=O)ccc1O,exhibit weak inhibition of a serine protease
-6427,CMNPD6428,COc1cc(CC(=O)NCCCCNC(=O)CC(=O)NCCC(=O)c2ccccc2N)ccc1O,exhibit weak inhibition of a serine protease
+6425,CMNPD6426,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1ccccc1,exhibit weak inhibition of a serine_protease
+6426,CMNPD6427,COc1cc(CC(=O)NCCCCNC(=O)CC(=O)NCCC(=O)c2ccccc2NC=O)ccc1O,exhibit weak inhibition of a serine_protease
+6427,CMNPD6428,COc1cc(CC(=O)NCCCCNC(=O)CC(=O)NCCC(=O)c2ccccc2N)ccc1O,exhibit weak inhibition of a serine_protease
 6428,CMNPD6429,Cn1cc(Cc2ccc3c(c2)OCO3)nc1N,
 6429,CMNPD6430,CN1C(=O)N=C(Nc2nc(Cc3ccc4c(c3)OCO4)c(Cc3ccc4c(c3)OCO4)n2C)C1=O,
 6430,CMNPD6431,CCCCCC/C=C\C=C/C=C/[C@H]1OC(=O)CC/C=C\C[C@@H]1O,phospholipase A2 inhibitor
@@ -6865,8 +6865,8 @@
 6863,CMNPD6864,CC1=CCC[C@H]2[C@](C)(CC3=C(O)C(=O)C=C(N[C@H](C(=O)O)C(C)C)C3=O)[C@@H](C)CC[C@]12C,
 6864,CMNPD6865,C=C1CCC[C@H]2[C@](C)(CC(=O)C3=C(O)[C@H](OC)OC3=O)[C@@H](C)CC[C@]12C,
 6865,CMNPD6866,C=C1CCC[C@H]2[C@](C)(CC(=O)C3=C(O)[C@@H](OC)OC3=O)[C@@H](C)CC[C@]12C,
-6866,CMNPD6867,C[C@@H]1CC[C@H]2C(C)(C)CCC[C@]2(C)[C@]12C=C1C=C(O)C(=O)C(C=O)=C1O2,protein kinase C inhibitor
-6867,CMNPD6868,C[C@@H]1CC[C@H]2C(C)(C)CCC[C@]2(C)[C@@]12C=C1C=C(O)C(=O)C(C=O)=C1O2,protein kinase C inhibitor
+6866,CMNPD6867,C[C@@H]1CC[C@H]2C(C)(C)CCC[C@]2(C)[C@]12C=C1C=C(O)C(=O)C(C=O)=C1O2,protein kinase_C inhibitor
+6867,CMNPD6868,C[C@@H]1CC[C@H]2C(C)(C)CCC[C@]2(C)[C@@]12C=C1C=C(O)C(=O)C(C=O)=C1O2,protein kinase_C inhibitor
 6868,CMNPD6869,C[C@@]12CC[C@H](O)[C@@H]3COC(=C31)C(=O)c1cc3c(cc12)C(=O)C=CC3=O,
 6869,CMNPD6870,CC1=CC[C@H]2C(C)(C)CCC[C@]2(C)[C@H]1C/C=C(/C)CCC/C(C)=C/Cc1cc(O)ccc1O,
 6870,CMNPD6871,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cc(O)ccc1OS(=O)(=O)O,
@@ -7125,9 +7125,9 @@
 7123,CMNPD7124,CC/C=C(\C)C[C@@H](C)C(=O)C(C)C1=C(C)[C@H]2O[C@@](CC)(O1)C(C)=C[C@@H]2C,
 7124,CMNPD7125,CC/C=C(C)/C=C(\C)[C@@H](O)[C@@H](C)[C@@]12O[C@@H]3C(C)C(O)(O[C@@](CC)(O1)C3C)C2C,
 7125,CMNPD7126,C#CCCC[C@@H]1NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)OC(=O)[C@H](C(C)C)OC(=O)[C@H](C(C)C)N(C)C(=O)[C@@H](C)[C@H](CCCC#C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)OC(=O)[C@H](C(C)C)OC(=O)[C@H](C(C)C)N(C)C(=O)[C@H]1C,cytotoxic
-7126,CMNPD7127,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1c[nH]c2ccccc12,exhibit weak inhibition of a serine protease
-7127,CMNPD7128,Nc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1c[nH]c2ccccc12,exhibit weak inhibition of a serine protease
-7128,CMNPD7129,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCn1cnc2ccccc2c1=O,exhibit weak inhibition of a serine protease
+7126,CMNPD7127,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1c[nH]c2ccccc12,exhibit weak inhibition of a serine_protease
+7127,CMNPD7128,Nc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCNC(=O)Cc1c[nH]c2ccccc12,exhibit weak inhibition of a serine_protease
+7128,CMNPD7129,O=CNc1ccccc1C(=O)CCNC(=O)CC(=O)NCCCCn1cnc2ccccc2c1=O,exhibit weak inhibition of a serine_protease
 7129,CMNPD7130,COC(=O)CCCC[N+](C)(C)C,
 7130,CMNPD7131,CC/C=C\C/C=C\CCCOS(=O)(=O)O,antimicrobial
 7131,CMNPD7132,CC/C=C/C/C=C\CCCOS(=O)(=O)O,antimicrobial
@@ -7168,8 +7168,8 @@
 7166,CMNPD7167,O=C1C(c2cc(Br)c(O)c(Br)c2)=C(c2cc(Br)c(O)c(Br)c2)C(=O)N1CCc1ccc(O)cc1,
 7167,CMNPD7168,COc1c(Br)cc(C2=C(c3cc(Br)c(O)c(Br)c3)C(=O)N(CCc3ccc(O)cc3)C2=O)cc1Br,
 7168,CMNPD7169,N=C(N)NCCCCNC(=O)C(O)(O)C(c1c[nH]c2cc(Br)ccc12)C(O)(Cc1c[nH]c2cc(Br)ccc12)C(=O)NCCCCNC(=N)N,cytotoxic
-7169,CMNPD7170,O=C1NC(=O)c2c1c1c3ccccc3[nH]c1c1[nH]c3ccccc3c21,cytotoxicity | protein kinase C activity
-7170,CMNPD7171,O=C1NCc2c1c1c3ccccc3[nH]c1c1[nH]c3ccccc3c21,cytotoxicity | protein kinase C activity
+7169,CMNPD7170,O=C1NC(=O)c2c1c1c3ccccc3[nH]c1c1[nH]c3ccccc3c21,cytotoxicity | protein kinase_C activity
+7170,CMNPD7171,O=C1NCc2c1c1c3ccccc3[nH]c1c1[nH]c3ccccc3c21,cytotoxicity | protein kinase_C activity
 7171,CMNPD7172,c1ccc2c(-c3nccc4c3[nH]c3ccccc34)c[nH]c2c1,
 7172,CMNPD7173,c1ccc2c(C3=c4c([nH]c5ccccc45)=NCC3)c[nH]c2c1,
 7173,CMNPD7174,C=C1[C@H](O)C[C@H]2C(C)(C)C[C@H](Cl)C[C@]2(C)[C@H]1CC(O)C1CC(=O)NC1=O,cytotoxic
@@ -7817,9 +7817,9 @@
 7815,CMNPD7816,C=C(CC[C@@H](C)[C@H]1CC[C@H]2[C@H](CCc3cc(O)ccc3C)[C@H](O)CC[C@]12C)C(C)C,
 7816,CMNPD7817,Cc1ccc(O)cc1CC[C@@H]1C(=O)CC[C@]2(C)[C@@H]([C@H](C)/C=C/C(C)C(C)C)CC[C@@H]12,potent antiviral
 7817,CMNPD7818,Cc1ccc(O)cc1CC[C@@H]1C(=O)CC[C@]2(C)[C@@H]([C@H](C)CCCC(C)C)CC[C@@H]12,
-7818,CMNPD7819,C/C(=C\[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC[C@H]3[C@H](C)[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO)C(C)(O)C(C)C,moderate inhibitory activity against protein kinase C
-7819,CMNPD7820,C/C(=C\[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC[C@H]3[C@H](C)[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO)[C@H](C)C(C)C,moderate inhibitory activity against protein kinase C
-7820,CMNPD7821,CC(C)C(C)(O)[C@@]1(C)C[C@@H]1[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC=C3C[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO,moderate inhibitory activity against protein kinase C
+7818,CMNPD7819,C/C(=C\[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC[C@H]3[C@H](C)[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO)C(C)(O)C(C)C,moderate inhibitory activity against protein kinase_C
+7819,CMNPD7820,C/C(=C\[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC[C@H]3[C@H](C)[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO)[C@H](C)C(C)C,moderate inhibitory activity against protein kinase_C
+7820,CMNPD7821,CC(C)C(C)(O)[C@@]1(C)C[C@@H]1[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC=C3C[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO,moderate inhibitory activity against protein kinase_C
 7821,CMNPD7822,CC(C)[C@@H](C)[C@@]1(C)C[C@@H]1[C@@H](C)[C@H]1CC[C@@H]([C@@H]2CC=C3C[C@@H](O)CC[C@]3(C)C2=O)[C@]1(C)CCO,
 7822,CMNPD7823,CC1[C@H]2[C@H](CC3C4CCC5CC(=O)C=C[C@]5(C)C4CC[C@@]32C)O[C@]12CCC(C)(C)O2,
 7823,CMNPD7824,CC(C)CCC1(O)O[C@H]2CC3C4CCC5CC(=O)C=C[C@]5(C)C4CC[C@]3(C)[C@H]2C1C,moderate cytotoxicity | antiviral
@@ -8128,7 +8128,7 @@
 8126,CMNPD8127,CCCCCCCCCCC(=O)N(C)CCC[N+](C)(C)CCCNCCCCNCCC[N+](C)(C)CCCN(C)C(=O)CCCCCCCCCC,inhibit binding of ω-conotoxin GVIA to N-type Ca2+ channels
 8127,CMNPD8128,CC[C@H](C)[C@@H](O)CCCCCCCCCC[C@@H]1N[C@@H](CO)[C@@H]1O,potent actomyosin ATPase inhibitor
 8128,CMNPD8129,CC(C)C[C@@H](O)CCCCCCCCCC[C@@H]1N[C@@H](CO)[C@@H]1O,
-8129,CMNPD8130,CCCCCCC(C)CCCCCCCCCCC[C@@H]1N[C@@H](CO)[C@@H]1O,inhibit protein kinase C
+8129,CMNPD8130,CCCCCCC(C)CCCCCCCCCCC[C@@H]1N[C@@H](CO)[C@@H]1O,inhibit protein kinase_C
 8130,CMNPD8131,C#C/C=C\CCCCCCCCCCCC(C)CCCCC/C=C/[C@@H](O)C#C,
 8131,CMNPD8132,C#C/C=C\CCCCCCCCCCCCCC(C)CCCC/C=C\C#C,
 8132,CMNPD8133,C#C/C=C\CCCCCCCCCC(C)CCCCCCCC,
@@ -8607,7 +8607,7 @@
 8605,CMNPD8606,COc1c(C)cc2c(c1O)[C@H]1N[C@H](C2)[C@H](O)N2[C@H]1[C@@H]1SC[C@H](N)C(=O)OC[C@H]2c2c(O)c(OC)c(C)c(OC(C)=O)c21,
 8606,CMNPD8607,COc1c(C)cc2c(c1O)[C@@H]1[C@@H]3[C@@H]4SCC(=O)C(=O)OC[C@@H](c5c6c(c(C)c(OC(C)=O)c54)OCO6)N3[C@@H](O)[C@H](C2)N1C,
 8607,CMNPD8608,COc1c(C)cc2c(c1O)[C@@H]1[C@@H]3[C@@H]4SCC(=O)C(=O)OC[C@@H](c5c(O)c(OC)c(C)c(OC(C)=O)c54)N3[C@@H](O)[C@@H](C2)N1C,
-8608,CMNPD8609,COc1cc2c(cc1O)CCN[C@]21CS[C@@H]2c3c(OC(C)=O)c(C)c4c(c3[C@H](COC1=O)N1[C@@H]2[C@@H]2c3c(cc(C)c(OC)c3O)C[C@H]([C@@H]1O)N2C)OCO4,anticancer agent
+8608,CMNPD8609,COc1cc2c(cc1O)CCN[C@]21CS[C@@H]2c3c(OC(C)=O)c(C)c4c(c3[C@H](COC1=O)N1[C@@H]2[C@@H]2c3c(cc(C)c(OC)c3O)C[C@H]([C@@H]1O)N2C)OCO4,antitumour agent
 8609,CMNPD8610,COc1ccc(-c2nc(N)n(C)c2SSc2c(-c3ccc(OC)cc3)nc(N)n2C)cc1,cytotoxic
 8610,CMNPD8611,COc1ccc(C2(OC)NC(=O)N(C)C2=S)cc1,
 8611,CMNPD8612,COc1ccc(C2(O)NC(=O)N(C)C2=S)cc1,
@@ -8746,10 +8746,10 @@
 8744,CMNPD8745,C/C(=C\C(=O)OCCCCCCCC(=O)Nc1c2sscc-2[nH]c1=O)CC1CC(O)C(O)(C/C=C/C(C)C(C)O)CO1,antimicrobial agent
 8745,CMNPD8746,CCCCCCCCCCCCCCC(=O)OCC(O)CO[C@H]1O[C@H](COC(=O)CCCCCCCCCCCC(C)C)[C@@H](O)[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H]1O,
 8746,CMNPD8747,C[C@@H](O)[C@@H](C)C(=O)N[C@H]1C[C@@H](Oc2cc(CO)c3c(c2O)OC(c2ccccc2)CC3=O)O[C@H](C)[C@H]1O,
-8747,CMNPD8748,COc1ccc(COC(=O)[C@@H](N)C(C)(C)O)c2nc3cccc(C(=O)O)c3nc12,anticancer | antibiotic
-8748,CMNPD8749,COc1ccc(COC(=O)[C@@H](N)C(C)C)c2nc3cccc(C(=O)O)c3nc12,anticancer | antibiotic
-8749,CMNPD8750,COc1ccc(COC(=O)CN)c2nc3cccc(C(=O)O)c3nc12,anticancer | antibiotic
-8750,CMNPD8751,COc1ccc(CO)c2nc3cccc(C(=O)O)c3nc12,anticancer | antibiotic
+8747,CMNPD8748,COc1ccc(COC(=O)[C@@H](N)C(C)(C)O)c2nc3cccc(C(=O)O)c3nc12,antitumour | antibiotic
+8748,CMNPD8749,COc1ccc(COC(=O)[C@@H](N)C(C)C)c2nc3cccc(C(=O)O)c3nc12,antitumour | antibiotic
+8749,CMNPD8750,COc1ccc(COC(=O)CN)c2nc3cccc(C(=O)O)c3nc12,antitumour | antibiotic
+8750,CMNPD8751,COc1ccc(CO)c2nc3cccc(C(=O)O)c3nc12,antitumour | antibiotic
 8751,CMNPD8752,COC(=O)C1=CC=CC2Nc3c(cccc3C(=O)OC)NC12,weakly antimicrobial
 8752,CMNPD8753,Nc1nc(O)nc2[nH][nH]c(=O)c12,xanthine oxidase inhibitor
 8753,CMNPD8754,CCCCCC/C=C/CCC1CCCNC(=O)/C=C/CCC(=O)N1,
@@ -8900,7 +8900,7 @@
 8898,CMNPD8899,C#CC(O)/C=C/CCCCCCCC#C/C=C\CCCCCCCCCCCCCC(O)C#CC#CCO,
 8899,CMNPD8900,C#CC(O)/C=C/CCCCCCCCCCC(=O)CCCCCCCCCCCC(O)C#CC#CCO,
 8900,CMNPD8901,CCCCCCCCCCCCCCCC/C=C\CCC#CCCC(=O)O[C@H](C)C[C@H](CCC[C@@](C)(O)CC(=O)NCCS(=O)(=O)O)OC(C)=O,inhibit both DNA polymerase b and HIV reverse transcriptase
-8901,CMNPD8902,CC(N)C(O)/C=C/C=C/CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC/C=C/C(O)C(C)N,inhibit protein kinase C
+8901,CMNPD8902,CC(N)C(O)/C=C/C=C/CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC/C=C/C(O)C(C)N,inhibit protein kinase_C
 8902,CMNPD8903,NCC(O)CNCC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCCC/C=C\CCNCC(O)CN,cytotoxic
 8903,CMNPD8904,C=C(CNC(=O)CCCCCCCCCCCCC(C)C)C(=O)O,
 8904,CMNPD8905,C=C(CNC(=O)CCCCCCCCCCCCCC(C)C)C(=O)O,
@@ -8984,8 +8984,8 @@
 8982,CMNPD8983,Cn1c(=N)c2nc[nH]c2n(C)c1=O,cytotoxic
 8983,CMNPD8984,N=C(N)Nc1cccnc1,inhibit macrophagic NO synthase induced by LPS without significant cytotoxicity
 8984,CMNPD8985,CN1C=N[C@H](C(=O)O)C[C@]1(C)COC(=O)c1ccc[nH]1,
-8985,CMNPD8986,O=C1NC(=O)/C(=C2\CCNC(=O)c3[nH]c(Br)cc32)N1,protein kinase C inhibitor
-8986,CMNPD8987,O=C1NC(=O)/C(=C2\CCNC(=O)c3[nH]ccc32)N1,protein kinase C inhibitor
+8985,CMNPD8986,O=C1NC(=O)/C(=C2\CCNC(=O)c3[nH]c(Br)cc32)N1,protein kinase_C inhibitor
+8986,CMNPD8987,O=C1NC(=O)/C(=C2\CCNC(=O)c3[nH]ccc32)N1,protein kinase_C inhibitor
 8987,CMNPD8988,O=C1N[C@H]2n3c(cc(Br)c3Br)C(=O)N3CCC[C@]23N1,cytotoxin
 8988,CMNPD8989,NC1=NC(=O)/C(=C/C(O)CNC(=O)c2cc(Br)c(Br)[nH]2)N1,antihistaminic activity
 8989,CMNPD8990,NC1=NC(=O)/C(=C/C(O)CNC(=O)c2cc(Br)c[nH]2)N1,antihistaminic activity
@@ -9015,11 +9015,11 @@
 9013,CMNPD9014,CC1=CCC[C@H]2[C@](C)(CC(=O)O)[C@@H](C)CC[C@]12C,
 9014,CMNPD9015,CC1=CCC[C@H]2[C@](C)(CC3=C(O)C(=O)c4oc5c(C[C@]6(C)[C@@H](C)CC[C@]7(C)C(C)=CCC[C@@H]67)c(O)c(O)cc5c4C3=O)[C@@H](C)CC[C@]12C,
 9015,CMNPD9016,CC1=CCC[C@H]2[C@](C)(CC3=C(O)C(=O)c4c(oc5c(C[C@]6(C)[C@@H](C)CC[C@]7(C)C(C)=CCC[C@@H]67)c(O)c(O)cc45)C3=O)[C@@H](C)CC[C@]12C,
-9016,CMNPD9017,C=C1[C@H](c2cc(O)ccc2O)C2=C(CC[C@@H]1C)C(C)(C)CCC2,inhibitor of interleukin-8 receptors and protein kinase C
-9017,CMNPD9018,C[C@H]1CCC2=C(CCCC2(C)C)c2c1oc1ccc(O)cc21,inhibitor of interleukin-8 receptors and protein kinase C
-9018,CMNPD9019,C[C@H]1CCC2=C(CCCC2(C)C)C2=C1C[C@]1(O)C=CC(=O)C=C21,inhibitor of interleukin-8 receptors and protein kinase C
-9019,CMNPD9020,C[C@H]1CCC2=C(CCCC2(C)C)C2=C1CO[C@]1(O)C=CC(=O)C=C21,inhibitor of interleukin-8 receptors and protein kinase C
-9020,CMNPD9021,CO[C@@]12C=CC(=O)C=C1C1=C(CO2)[C@@H](C)CCC2=C1CCCC2(C)C,inhibitor of interleukin-8 receptors and protein kinase C
+9016,CMNPD9017,C=C1[C@H](c2cc(O)ccc2O)C2=C(CC[C@@H]1C)C(C)(C)CCC2,inhibitor of interleukin-8 receptors and protein kinase_C
+9017,CMNPD9018,C[C@H]1CCC2=C(CCCC2(C)C)c2c1oc1ccc(O)cc21,inhibitor of interleukin-8 receptors and protein kinase_C
+9018,CMNPD9019,C[C@H]1CCC2=C(CCCC2(C)C)C2=C1C[C@]1(O)C=CC(=O)C=C21,inhibitor of interleukin-8 receptors and protein kinase_C
+9019,CMNPD9020,C[C@H]1CCC2=C(CCCC2(C)C)C2=C1CO[C@]1(O)C=CC(=O)C=C21,inhibitor of interleukin-8 receptors and protein kinase_C
+9020,CMNPD9021,CO[C@@]12C=CC(=O)C=C1C1=C(CO2)[C@@H](C)CCC2=C1CCCC2(C)C,inhibitor of interleukin-8 receptors and protein kinase_C
 9021,CMNPD9022,C=C1CCC[C@H]2[C@](C)(Cc3cc(C(=O)OC)cc(OC)c3O)[C@@H](C)CC[C@]12C,cytotoxic
 9022,CMNPD9023,C=C1CCC[C@H]2[C@](CO)(Cc3cc(C(=O)OC)cc(OC)c3O)[C@@H](C)CC[C@]12C,cytotoxic
 9023,CMNPD9024,COc1ccc(O)c(O)c1/C=C1\[C@@H](C)CC[C@H]2C(C)(C)CCC[C@]12C,
@@ -9614,9 +9614,9 @@
 9612,CMNPD9613,COC[C@H]([C@@H](O)[C@@H](O)C(=O)NCC[C@@H](C)c1nc(/C=C/C[C@@H]2O[C@@]3(C[C@H](O)[C@H]2C)O[C@@H]([C@@H](C[C@@H](O)[C@@H](C)[C@@H](O)[C@@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C\C#N)OC)[C@@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,serine-threonine phosphatase inhibitor
 9613,CMNPD9614,COC[C@H]([C@@H](O)[C@@H](O)C(=O)NCC[C@@H](C)c1nc(/C=C/C[C@@H]2O[C@@]3(C[C@H](O)[C@H]2C)O[C@@H]([C@@H](C[C@@H](O)[C@@H](C)[C@@H](O)[C@@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C/C#N)OC)[C@@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,serine-threonine phosphatase inhibitor
 9614,CMNPD9615,COC[C@@H]([C@H](O)[C@H](O)C(=O)N[C@H](C)C[C@H](C)c1nc(/C=C/C[C@@H]2O[C@@]3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)[C@H](C)[C@H](O)[C@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C\C#N)OC)[C@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,serine-threonine phosphatase inhibitor
-9615,CMNPD9616,C=C1C[C@@H]2C[C@@H]3C[C@@H](O)C[C@@H](O3)c3coc(n3)/C=C/C[C@H]3O[C@@H](/C(C)=C/c4coc(C[C@]5(O)C[C@H](OC)C[C@H]([C@H](O)/C=C(C)/C=C/[C@@H](C/C=C/Br)OC)C5)n4)[C@H](C)[C@@H](OC(=O)/C=C\C[C@@H](C1)O2)[C@H]3C,potent but scarce antitumor agent
+9615,CMNPD9616,C=C1C[C@@H]2C[C@@H]3C[C@@H](O)C[C@@H](O3)c3coc(n3)/C=C/C[C@H]3O[C@@H](/C(C)=C/c4coc(C[C@]5(O)C[C@H](OC)C[C@H]([C@H](O)/C=C(C)/C=C/[C@@H](C/C=C/Br)OC)C5)n4)[C@H](C)[C@@H](OC(=O)/C=C\C[C@@H](C1)O2)[C@H]3C,potent but scarce antitumour agent
 9616,CMNPD9617,CC(/C=C/C(C)=C/[C@@H]1Cc2nc(cs2)[C@@H](C)C[C@@H](N)CC(=O)O[C@@H](C)C/C(C)=C/C=C\C(=O)O1)=C\CN(C)C,potent immunosuppressive agent
-9617,CMNPD9618,C=C1C[C@](OC)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](C[C@H](O)COC)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,potent antitumor agent
+9617,CMNPD9618,C=C1C[C@](OC)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](C[C@H](O)COC)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,potent antitumour agent
 9618,CMNPD9619,CN(C)CCCOc1c(Br)cc(CCN)cc1Br,
 9619,CMNPD9620,CNc1nc(CCCNC(=O)C2=NO[C@]3(C=C(Br)C(OC)=C(Br)[C@@H]3O)C2)c[nH]1,
 9620,CMNPD9621,COc1ccc(C/C(=N\O)C(=O)NCCc2c[nH]cn2)cc1Br,histamine-H3 antagonist
@@ -9646,8 +9646,8 @@
 9644,CMNPD9645,CN1CC(=O)N[C@H](Cc2cn(C(N)=O)c3cc(Cl)ccc23)C(=O)NCC(=O)NC[C@H](O)CC(=O)N[C@H]([C@H](O)[C@@H](O)C/C=C/c2ccccc2)[C@H](O)C(=O)N[C@@H]2CC(=O)N[C@@]2(O)CC1=O,antiifungal
 9645,CMNPD9646,CN1CC(=O)N[C@H](Cc2c[nH]c3cc(Cl)ccc23)C(=O)NCC(=O)NC[C@H](O)CC(=O)N[C@H]([C@H](O)[C@@H](O)C/C=C/c2ccccc2)[C@H](O)C(=O)N[C@@H]2CC(=O)N[C@@]2(O)CC1=O,antiifungal
 9646,CMNPD9647,CCOc1ccc(/C=C/C=C/C[C@H](O)[C@@H](O)[C@H]2NC(=O)C[C@@H](O)CNC(=O)CNC(=O)[C@@H](Cc3c(C(=O)O)[nH]c4ccccc34)NC(=O)CN(C)C(=O)/C=C3\NC(=O)C[C@H]3NC(=O)[C@H]2O)cc1,antiifungal
-9647,CMNPD9648,CC[C@H](C)[C@@]1(C)NC(=O)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]2CCCC2C(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c2ccccc2)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC1=O,potent serine protease inhibitor
-9648,CMNPD9649,CC[C@H](C)[C@@]1(C)NC(=O)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]2CCCC2C(=O)[C@@H](NC(=O)[C@H](C)NC(=O)CC(C)C)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC1=O,potent serine protease inhibitor
+9647,CMNPD9648,CC[C@H](C)[C@@]1(C)NC(=O)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]2CCCC2C(=O)[C@@H](NC(=O)[C@H](C)NC(=O)c2ccccc2)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC1=O,potent serine_protease inhibitor
+9648,CMNPD9649,CC[C@H](C)[C@@]1(C)NC(=O)C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]2CCCC2C(=O)[C@@H](NC(=O)[C@H](C)NC(=O)CC(C)C)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC1=O,potent serine_protease inhibitor
 9649,CMNPD9650,CC(/C=C/c1ccccc1)=C\[C@H](O)[C@@H]1CC(=O)N[C@@H](CO)C(=O)N[C@@H]2Cn3cc([n+]([C@@H]4O[C@H](CO)[C@H](O)[C@H](O)[C@H]4O)c3)C[C@H](NC(=O)CCC[C@@H](C(=O)[O-])NC(=O)[C@H](O)CNC(=O)[C@H]([C@@H](C)c3ccc(Br)cc3)NC(=O)[C@H]([C@@H](O)C(N)=O)NC(=O)[C@H](CC(N)=O)NC2=O)C(=O)N[C@@H]([C@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc2ccccc2)C(=O)N1,
 9650,CMNPD9651,CCC(C)[C@H](NC(=O)[C@H](O)CNC=O)C(=O)N[C@H]1CNC(=O)[C@H](Cc2cn(C)c3ccccc23)NC(=O)/C=C/c2csc(n2)[C@H](COC)NC(=O)C(=O)[C@H](C(C)CC)NC(=O)[C@H](C)NC1=O,cytotoxic
 9651,CMNPD9652,CC(C)C[C@H]1NC(=O)[C@H](NC(=O)N[C@H](Cc2ccccc2)C(=O)O)CCCCNC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H](Cc2c[nH]c3cc(Cl)ccc23)N(C)C(=O)[C@@H](CC(C)C)NC1=O,cytotoxic
@@ -9785,8 +9785,8 @@
 9783,CMNPD9784,COC(=O)[C@@H](C)[C@@H]1CC[C@@](C)(C2CC3(C)C(C)CC4C=C(C)CCC4C3(C)O2)OO1,
 9784,CMNPD9785,C=C(C(=O)O)[C@H]1CC[C@@H](CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)CO1,potent inhibitor of gastrulation in starfish (Asterina pectinifera) embryos
 9785,CMNPD9786,C=C(C(=O)O)[C@H]1CC=C(CC/C=C(\C)CC/C=C(\C)CCC=C(C)C)CO1,potent inhibitor of gastrulation in starfish (Asterina pectinifera) embryos
-9786,CMNPD9787,CC1=CC[C@H]2C(C)(C)CCC[C@]2(C)[C@H]1C[C@@H](OS(=O)(=O)[O-])[C@H](C)CCC/C(C)=C/Cc1cc(O)ccc1O.Cn1c(N)nc2c(c1=O)[n+](C)cn2C,serine protease inhibitor
-9787,CMNPD9788,CC1(C)CCC[C@]2(C)[C@H]3CC/C(=C\OS(=O)(=O)[O-])[C@H](CCc4ccoc4)[C@@]3(C)CC[C@@H]12.Cn1c(N)nc2c(c1=O)[n+](C)cn2C,serine protease inhibitor
+9786,CMNPD9787,CC1=CC[C@H]2C(C)(C)CCC[C@]2(C)[C@H]1C[C@@H](OS(=O)(=O)[O-])[C@H](C)CCC/C(C)=C/Cc1cc(O)ccc1O.Cn1c(N)nc2c(c1=O)[n+](C)cn2C,serine_protease inhibitor
+9787,CMNPD9788,CC1(C)CCC[C@]2(C)[C@H]3CC/C(=C\OS(=O)(=O)[O-])[C@H](CCc4ccoc4)[C@@]3(C)CC[C@@H]12.Cn1c(N)nc2c(c1=O)[n+](C)cn2C,serine_protease inhibitor
 9788,CMNPD9789,CC1(C)CCC[C@]2(C)[C@H]3CC[C@]4(CO)O[C@@H](C5=CC(=O)OC5O)C[C@H]4[C@]3(C)CC[C@@H]12,
 9789,CMNPD9790,CC1(C)CCC[C@]2(C)[C@H]3CC[C@]4(CO)O[C@H](C5=CC(=O)OC5O)C[C@H]4[C@]3(C)CC[C@@H]12,
 9790,CMNPD9791,CC1=CCC[C@@H]2[C@@](C)(CCC3=CC[C@H](C4=CC(=O)OC4O)OC3)[C@@H](C)CC[C@@]12C,inhibitor of human secretory phospholipase A2
@@ -9906,7 +9906,7 @@
 9904,CMNPD9905,C=C1CC[C@H]2[C@@]3(C)[C@@H]4C(=O)[C@H](C(C)C)C[C@@]3(O)O[C@]2(C=C4C(=O)OC)C1,
 9905,CMNPD9906,C=C(C)[C@@H]1CC(O)=C(C(=O)OC)[C@H]2C(=O)[C@@H]3[C@@H]4C(=C[C@H]21)C(=O)O[C@@H]4C[C@]3(C)O,
 9906,CMNPD9907,CC(C)=C[C@@H]1C[C@H](C)[C@H]2CC[C@H](C)[C@H]3C(=O)C(O)=C(C)C(=O)[C@]123,
-9907,CMNPD9908,C=C(C)C(=O)[C@@]12C(=O)[C@@H](C)CC[C@@H]1[C@@H](C)C[C@H]2C=C(C)C,significant antitumor activity
+9907,CMNPD9908,C=C(C)C(=O)[C@@]12C(=O)[C@@H](C)CC[C@@H]1[C@@H](C)C[C@H]2C=C(C)C,significant antitumour activity
 9908,CMNPD9909,CCC(=O)[C@@]12C(=O)[C@@H](C)CC[C@@H]1[C@@H](C)C[C@H]2C=C(C)C,
 9909,CMNPD9910,C[C@H]1CC[C@@H]2[C@@H](C)C[C@H]3[C@@H]4C(C)(C)OC(=O)[C@]4(C)C(=O)[C@@]23C1=O,
 9910,CMNPD9911,CC(C)=CCC[C@H](C)[C@H]1CC[C@H](C)c2c1cc(C)c1c2OCO1,cytotoxic
@@ -10383,7 +10383,7 @@
 10381,CMNPD10382,CCCCCCCCC[C@@H]1C[C@@H]2CC[C@H]3[C@@H](C(=O)OC(C)CCCCC[C@@H]4C[C@@H]5CC[C@@H]6C[C@H](C)NC(=N4)N65)[C@@H](C)N=C(N1)N23,induce p56lck-CD4 dissociation
 10382,CMNPD10383,C1=C\CC[C@]23CN4CCCC/C=C\CC[C@@]5(O[C@H]5[C@@H]([C@@H]5NCCc6c5[nH]c5ccccc65)[C@@H]2CC4)[C@@H]3NCCCC/1,
 10383,CMNPD10384,O=CC1=C[C@@]2(O)CC/C=C\CCCCN3CC[C@@H]1[C@]1(CC4/C=C\CCCCN4[C@H]12)C3,
-10384,CMNPD10385,O[C@]12C=C(c3nccc4c3[nH]c3ccccc34)[C@@H]3CCN(CCCC/C=C\CC1)C[C@@]31CC3/C=C\CCCCN3[C@H]12,potent antitumor activity
+10384,CMNPD10385,O[C@]12C=C(c3nccc4c3[nH]c3ccccc34)[C@@H]3CCN(CCCC/C=C\CC1)C[C@@]31CC3/C=C\CCCCN3[C@H]12,potent antitumour activity
 10385,CMNPD10386,CC1CCCCCCCN(CCCn2cc(-c3cc(O)c(O)c4ncccc34)c(-c3cc(O)c(O)c4ncccc34)c2)C1,cytotoxic
 10386,CMNPD10387,COc1cc(O)c2c(c1)C(COC(C)=O)N(C=O)C=C2,
 10387,CMNPD10388,COC1=C(C)C(=O)c2ccnc(COC(C)=O)c2C1=O,
@@ -10406,14 +10406,14 @@
 10404,CMNPD10405,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)[C@H](CO)NC(=O)[C@@H](C)C1,
 10405,CMNPD10406,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](CO)NC(=O)[C@@H](Cc2ccc(O)c(I)c2)N(C)C(=O)CNC(=O)[C@@H](C)C1,
 10406,CMNPD10407,CN[C@H](C(=O)N[C@H](C(=O)N(C)[C@H](/C=C(\C)C(=O)O)C(C)C)C(C)C)C(C)(C)c1cn(C)c2ccccc12,cytotoxic
-10407,CMNPD10408,CC(C)[C@H](NC(=O)c1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)C(C)C,cathepsin B inhibitor with potential anticancer activity
+10407,CMNPD10408,CC(C)[C@H](NC(=O)c1ccc(O)cc1)C(=O)N[C@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)C(C)C,cathepsin B inhibitor with potential antitumour activity
 10408,CMNPD10409,CC[C@@H](C)[C@@H](C(=O)N(C)[C@H](C(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@@H]1C(=O)O)C(C)C)N(C)C(=O)[C@H](CC(N)=O)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@@H](Cc1ccccc1)NC(=O)COC,cytotoxic
-10409,CMNPD10410,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)C[C@@H]3N[C@H](Cc4ccccc4)C(=O)N[C@H]3Cc3ccc(O)cc3)NC=O)CCCN12,serine protease inhibitor
-10410,CMNPD10411,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)C[C@H]3N[C@H](Cc4ccccc4)C(=O)N[C@H]3Cc3ccc(O)cc3)NC=O)CCCN12,serine protease inhibitor
-10411,CMNPD10412,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CN3CN4[C@H](Cc5ccccc5)C(=O)N[C@@H](Cc5ccc(O)cc5)[C@H]4CC3=O)NC=O)CCCN12,serine protease inhibitor
-10412,CMNPD10413,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)/C=C/[C@H](Cc3ccc(O)cc3)NC(=O)[C@H](N)Cc3ccccc3)NC=O)CCCN12,serine protease inhibitor
-10413,CMNPD10414,NC(=O)[C@@H]1CCCN1C(=O)[C@H](CNC(=O)/C=C/[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](N)Cc1ccccc1)NC=O,serine protease inhibitor
-10414,CMNPD10415,N=C(N)NCCC[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC=O)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]1O,serine protease inhibitor
+10409,CMNPD10410,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)C[C@@H]3N[C@H](Cc4ccccc4)C(=O)N[C@H]3Cc3ccc(O)cc3)NC=O)CCCN12,serine_protease inhibitor
+10410,CMNPD10411,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)C[C@H]3N[C@H](Cc4ccccc4)C(=O)N[C@H]3Cc3ccc(O)cc3)NC=O)CCCN12,serine_protease inhibitor
+10411,CMNPD10412,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CN3CN4[C@H](Cc5ccccc5)C(=O)N[C@@H](Cc5ccc(O)cc5)[C@H]4CC3=O)NC=O)CCCN12,serine_protease inhibitor
+10412,CMNPD10413,N=C1NC(=O)[C@]2(O)[C@@H](NC(=O)[C@@H]3CCCN3C(=O)[C@H](CNC(=O)/C=C/[C@H](Cc3ccc(O)cc3)NC(=O)[C@H](N)Cc3ccccc3)NC=O)CCCN12,serine_protease inhibitor
+10413,CMNPD10414,NC(=O)[C@@H]1CCCN1C(=O)[C@H](CNC(=O)/C=C/[C@H](Cc1ccc(O)cc1)NC(=O)[C@H](N)Cc1ccccc1)NC=O,serine_protease inhibitor
+10414,CMNPD10415,N=C(N)NCCC[C@@H]1NC(=O)[C@@H]2CCCN2C(=O)[C@@H](NC=O)CNC(=O)/C=C/[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@@H]1O,serine_protease inhibitor
 10415,CMNPD10416,CCC(C)[C@H](NC(=O)[C@@H](OS(=O)(=O)O)[C@@H](C)CC)C(=O)N[C@@H](CC)C(=O)N[C@H]1CCCNC(=O)[C@H](Cc2c(Br)[nH]c3ccc(O)cc23)NC(=O)/C=C/c2coc(n2)[C@H](C)NC(=O)C(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CCCN2C1=O,
 10416,CMNPD10417,CCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](OS(=O)(=O)O)[C@@H](C)CC)C(C)CC)C(=O)N[C@H]1CCCNC(=O)[C@H](Cc2c(Br)[nH]c3ccc(O)cc23)NC(=O)/C=C/c2coc(n2)[C@H](C)NC(=O)C(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CCCN2C1=O,
 10417,CMNPD10418,CC[C@@H](C)[C@H]1NC(=O)CCNC(=O)[C@H]([C@@H](C)CC)N(C)C(=O)[C@@H](CC(C)C)NC(=O)CCNC(=O)[C@@H](NC(=O)[C@@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)CS(C)=O)C(C)C)[C@@H](C)OC(=O)[C@@H]([C@@H](C)CC)N(C)C(=O)[C@@H](CC(C)C)NC(=O)CCNC(=O)[C@H](C)N(C)C(=O)[C@H](C(C)C)N(C)C1=O,
@@ -10904,7 +10904,7 @@
 10902,CMNPD10903,CCCCCCCC[C@H]1O[C@H]1C/C=C/C=C\[C@H](O)CC(=O)NC1=C[C@](C)(CC)OC1=O,
 10903,CMNPD10904,NC(CCCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)CC(=O)N[C@@H](Cc1ccccc1)C(=O)O,
 10904,CMNPD10905,Oc1c(Cl)cc(Br)cc1Br,activity against methicillin-resistant Staphylococcus aureus and Burkholderia cepacia
-10905,CMNPD10906,CSC[C@H]1C(=O)SC[C@@H](NC(=O)c2nc3ccccc3cc2O)C(=O)NCC(=O)N(C)[C@H]2CSSC[C@@H](C(=O)N1C)N(C)C(=O)CNC(=O)[C@H](NC(=O)c1nc3ccccc3cc1O)CSC(=O)[C@H](CSC)N(C)C2=O,potent antitumor | antibiotic
+10905,CMNPD10906,CSC[C@H]1C(=O)SC[C@@H](NC(=O)c2nc3ccccc3cc2O)C(=O)NCC(=O)N(C)[C@H]2CSSC[C@@H](C(=O)N1C)N(C)C(=O)CNC(=O)[C@H](NC(=O)c1nc3ccccc3cc1O)CSC(=O)[C@H](CSC)N(C)C2=O,potent antitumour | antibiotic
 10906,CMNPD10907,CO[C@@H]1[C@H](N(C)C)[C@@H](O)[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,cytotoxic
 10907,CMNPD10908,CN[C@@H]1[C@@H](O)[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,cytotoxic
 10908,CMNPD10909,CCC[C@@H]1OC[C@@H](O)[C@H](CO)O1,
@@ -11122,7 +11122,7 @@
 11120,CMNPD11121,COc1ccc(Cc2nc(N)n(C)c2Cc2ccc(O)cc2)cc1,
 11121,CMNPD11122,COc1ccc(Cc2nc(NC3=NC(=O)N(C)C3=O)n(C)c2Cc2ccc(O)cc2)cc1,
 11122,CMNPD11123,CC(=O)NCCC(=O)c1cccc(O)c1N,significant reduction of molting and increased mortality when fed to sympatric predatory amphipods
-11123,CMNPD11124,COc1cc2ccnc3c2c(c1O)N(C)C=C3,protein kinase C inhibitor
+11123,CMNPD11124,COc1cc2ccnc3c2c(c1O)N(C)C=C3,protein kinase_C inhibitor
 11124,CMNPD11125,CONCC(C)CCCCCCCCCCc1cccnc1,moderately active antifungal agent
 11125,CMNPD11126,CONCC(C)CCCCCCCCCCCc1cccnc1,
 11126,CMNPD11127,CON=CC(C)CCCCCCCCCCc1cccnc1,
@@ -14136,9 +14136,9 @@
 14134,CMNPD14135,COC[C@@H]([C@H](O)[C@H](O)C(=O)NCC[C@H](C)c1nc(/C=C/C[C@H]2O[C@@]3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)[C@H](C)[C@@H]2O[C@@](C)(/C(C)=C/C=C/C(C)=C\C#N)[C@H](Br)[C@H]2C)OC)[C@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,potent inhibitor of protein phosphatase 2A
 14135,CMNPD14136,COC[C@@H]([C@H](O)[C@H](O)C(=O)NCC[C@H](C)c1nc(/C=C/C[C@H]2O[C@@]3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)[C@H](C)[C@H](O)[C@H](C)/C=C(C)\C(C)=C\C=C\C(C)=C/C(N)=O)OC)[C@H](OP(=O)(O)O)C3(C)C)co1)N(C)C,potent inhibitor of protein phosphatase 2A
 14136,CMNPD14137,CN[C@@H](COC)[C@H](O)[C@H](O)C(=O)NCC[C@H](C)c1nc(/C=C/C[C@H]2O[C@@]3(C[C@@H](O)[C@@H]2C)O[C@H]([C@H](C[C@H](O)[C@H](C)[C@H](O)[C@H](C)/C=C(C)/C(C)=C/C=C/C(C)=C\C#N)OC)[C@H](OP(=O)(O)O)C3(C)C)co1,potent inhibitor of protein phosphatase 2A
-14137,CMNPD14138,COC(COS(=O)(=O)[O-])C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C[C@@H]21)C(C)C,inhibitor of serine protease factor VIIa and thrombin
-14138,CMNPD14139,COC(COS(=O)(=O)[O-])C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O)C[C@@H]21)C(C)C,inhibitor of serine protease factor VIIa and thrombin
-14139,CMNPD14140,COC(CO)C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O)C[C@@H]21)C(C)C,inhibitor of serine protease factor VIIa and thrombin
+14137,CMNPD14138,COC(COS(=O)(=O)[O-])C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C[C@@H]21)C(C)C,inhibitor of serine_protease factor VIIa and thrombin
+14138,CMNPD14139,COC(COS(=O)(=O)[O-])C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O)C[C@@H]21)C(C)C,inhibitor of serine_protease factor VIIa and thrombin
+14139,CMNPD14140,COC(CO)C(=O)NC(C(=O)N1[C@H](C(=O)NCCC2=CC[N+](=C(N)N)C2)C[C@@H]2C[C@H](O)[C@@H](O)C[C@@H]21)C(C)C,inhibitor of serine_protease factor VIIa and thrombin
 14140,CMNPD14141,C/C(=C\[C@H](C(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H]1N(C)C(=O)c2c(c3ccccc3n2C)C1(C)C)C(C)(C)C)C(=O)O,
 14141,CMNPD14142,C/C(=C\[C@H](C(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H]1[N+](C)=Cc2c(c3ccccc3n2C)C1(C)C)C(C)(C)C)C(=O)O,
 14142,CMNPD14143,C/C(=C\[C@H](C(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H]1N(C)Cc2c(c3ccccc3n2C)C1(C)C)C(C)(C)C)C(=O)O,potent antimitotic
@@ -16957,10 +16957,10 @@
 16955,CMNPD16956,NC(=O)c1c[nH]cc1Br,
 16956,CMNPD16957,O=C1NCCC(=O)c2c(Br)c[nH]c21,
 16957,CMNPD16958,O=C1NCCC(=O)c2c1[nH]c(Br)c2Br,moderately cytotoxic
-16958,CMNPD16959,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumor | immunosuppressive
+16958,CMNPD16959,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumour | immunosuppressive
 16959,CMNPD16960,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CNC(=O)c1cc(Br)c(Br)[nH]1)[C@H]1CN3C(=O)c4cc(Br)c(Br)n4[C@@H]4NC(=N)N[C@@]43[C@@H]12,
 16960,CMNPD16961,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CNC(=O)c1cc(Br)c(Br)[nH]1)[C@H]1CN3C(=O)c4[nH]c(Br)c(Br)c4[C@@H]4NC(=N)N[C@@]43[C@@H]12,inhibit neutrophil chemotaxis
-16961,CMNPD16962,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumor | immunosuppressive
+16961,CMNPD16962,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumour | immunosuppressive
 16962,CMNPD16963,NC1=N[C@]2(O)[C@H](N1)O[C@@H]1NC(N)=N[C@]13[C@@H]2[C@H](CNC(=O)c1cc(Br)c(Br)[nH]1)[C@@H](CNC(=O)c1cc(Br)c(Br)[nH]1)[C@@H]3Cl,
 16963,CMNPD16964,CO[C@@]12CCCN3C(=O)c4cc(Br)c(Br)n4[C@]31N=C(N)N2,
 16964,CMNPD16965,COc1ccc(C[C@@]23OC4(C=CC(=O)C=C4)C[C@@]2(O)N(C)C(=N)N3C)cc1,
@@ -18982,14 +18982,14 @@
 18980,CMNPD18981,CO[C@]12CCN(Cc3cc(O)c(O)c(Br)c3Br)[C@H]1NC(=O)N2,
 18981,CMNPD18982,Cn1cc(Br)c2cc(Br)ccc21,
 18982,CMNPD18983,Brc1cc2[nH]c(Br)c(-c3c(Br)[nH]c4cc(Br)c(Br)cc34)c2cc1Br,
-18983,CMNPD18984,COC1(C)C2CC2[C@@]2(C)CC[C@@H](Br)[C@@](C)(O)CC[C@@H](C(C)(C)Br)OC(=O)c3ccc(O)c(c3)C[C@H]12,moderate to strong antimicrobial | anticancer
-18984,CMNPD18985,C=C1CCC(C)=C2Cc3cc(ccc3O)C(=O)O[C@H](C(C)(C)O)CC[C@](C)(O)[C@H](Br)CCC12,moderate to strong antimicrobial | anticancer
-18985,CMNPD18986,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CCC2C(C)=CCC(C)=C2Cc2cc(ccc2O)C(=O)O1,moderate to strong antimicrobial | anticancer
-18986,CMNPD18987,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CC[C@@]2(C)C(=C(C)CC[C@@H]2Br)Cc2cc(ccc2O)C(=O)O1,moderate to strong antimicrobial | anticancer
-18987,CMNPD18988,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CC[C@@]2(C)[C@H](Cc3cc(ccc3O)C(=O)O1)C(C)=CC[C@@H]2Br,moderate to strong antimicrobial | anticancer
-18988,CMNPD18989,CC1=CC[C@H](Br)[C@@]2(C)CC[C@@H](Br)[C@@](C)(O)CC[C@@H](C(C)(C)Br)OC(=O)c3ccc(O)c(c3)C[C@H]12,moderate to strong antimicrobial | anticancer
-18989,CMNPD18990,C=C1CC[C@H](Br)[C@@]2(C)CC[C@@H](Br)[C@@]3(C)CC[C@H](OC(=O)c4ccc(O)c(c4)C[C@H]12)C(C)(C)O3,moderate to strong antimicrobial | anticancer
-18990,CMNPD18991,CC1=C2Cc3cc(ccc3O)C(=O)O[C@H]3CC[C@@](C)(OC3(C)C)[C@H](Br)CC[C@]2(C)[C@@H](Br)CC1,moderate to strong antimicrobial | anticancer
+18983,CMNPD18984,COC1(C)C2CC2[C@@]2(C)CC[C@@H](Br)[C@@](C)(O)CC[C@@H](C(C)(C)Br)OC(=O)c3ccc(O)c(c3)C[C@H]12,moderate to strong antimicrobial | antitumour
+18984,CMNPD18985,C=C1CCC(C)=C2Cc3cc(ccc3O)C(=O)O[C@H](C(C)(C)O)CC[C@](C)(O)[C@H](Br)CCC12,moderate to strong antimicrobial | antitumour
+18985,CMNPD18986,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CCC2C(C)=CCC(C)=C2Cc2cc(ccc2O)C(=O)O1,moderate to strong antimicrobial | antitumour
+18986,CMNPD18987,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CC[C@@]2(C)C(=C(C)CC[C@@H]2Br)Cc2cc(ccc2O)C(=O)O1,moderate to strong antimicrobial | antitumour
+18987,CMNPD18988,C=C(C)[C@@H]1CC[C@](C)(O)[C@H](Br)CC[C@@]2(C)[C@H](Cc3cc(ccc3O)C(=O)O1)C(C)=CC[C@@H]2Br,moderate to strong antimicrobial | antitumour
+18988,CMNPD18989,CC1=CC[C@H](Br)[C@@]2(C)CC[C@@H](Br)[C@@](C)(O)CC[C@@H](C(C)(C)Br)OC(=O)c3ccc(O)c(c3)C[C@H]12,moderate to strong antimicrobial | antitumour
+18989,CMNPD18990,C=C1CC[C@H](Br)[C@@]2(C)CC[C@@H](Br)[C@@]3(C)CC[C@H](OC(=O)c4ccc(O)c(c4)C[C@H]12)C(C)(C)O3,moderate to strong antimicrobial | antitumour
+18990,CMNPD18991,CC1=C2Cc3cc(ccc3O)C(=O)O[C@H]3CC[C@@](C)(OC3(C)C)[C@H](Br)CC[C@]2(C)[C@@H](Br)CC1,moderate to strong antimicrobial | antitumour
 18991,CMNPD18992,CCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO)[C@H](O)/C=C/CCCCCCCCCCCCCC(C)C,
 18992,CMNPD18993,CCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO)[C@H](O)/C=C/CCCCCCCCCCCCCCCCCC(C)C,
 18993,CMNPD18994,CCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)/C=C/CCCC(C)CCCCCCCCC,
@@ -19169,9 +19169,9 @@
 19167,CMNPD19168,CCCCCCCCC[C@@H]1C[C@@H]2CCc3c(C(=O)OCCCCNC(=N)N)c(CCCCC)nc([n+]32)N1,cytotoxic
 19168,CMNPD19169,CCCCCCCC[C@@H]1C[C@@H]2CC[C@H]3[C@@H](C(=O)OC(C)CCCCCCC[C@@H]4C[C@@H]5CC[C@@H]6C[C@H](C)NC(=N4)N65)[C@@H](C)N=C(N1)N23,cytotoxic
 19169,CMNPD19170,CCCCCCC[C@@H]1C[C@@H]2CCc3c(C(=O)O)c(C)nc([n+]32)N1,cytotoxic
-19170,CMNPD19171,N=C(N)NCCCCNC(=O)C1=NOC2(C=C(Br)C(=O)C(Br)=C2)C1,weakly inhibit serine protease factor XIa
-19171,CMNPD19172,N=C(N)NCCCCCNC(=O)C1=NOC2(C=C(Br)C(=O)C(Br)=C2)C1,weakly inhibit serine protease factor XIa
-19172,CMNPD19173,N=C(N)NCCCCNC(=O)C1=NO[C@@]2(C=CC(=O)C(Br)=C2)C1,weakly inhibit serine protease factor XIa
+19170,CMNPD19171,N=C(N)NCCCCNC(=O)C1=NOC2(C=C(Br)C(=O)C(Br)=C2)C1,weakly inhibit serine_protease factor XIa
+19171,CMNPD19172,N=C(N)NCCCCCNC(=O)C1=NOC2(C=C(Br)C(=O)C(Br)=C2)C1,weakly inhibit serine_protease factor XIa
+19172,CMNPD19173,N=C(N)NCCCCNC(=O)C1=NO[C@@]2(C=CC(=O)C(Br)=C2)C1,weakly inhibit serine_protease factor XIa
 19173,CMNPD19174,COc1c(Br)cc(C/C(=N\O)C(=O)NCCc2cc(Br)c(O)c(Br)c2)cc1Br,cytotoxic
 19174,CMNPD19175,COC1=C(Br)[C@H](O)[C@@]2(C=C1Br)CC(C(=O)NCCCOc1c(Br)cc(C(O)CNS(=O)(=O)O)cc1Br)=NO2,non-selective pyruvate phosphate dikinase (PPDK) inhibitor
 19175,CMNPD19176,COS(=O)CCNC(=O)/C(Cc1ccc(O)c(Br)c1)=N/O,
@@ -19281,9 +19281,9 @@
 19279,CMNPD19280,CC[C@@H](C(=O)C[C@@H](C)C1=C(O)C(=O)[C@@H]2[C@@H]3CC[C@H]4C[C@@H](O[C@@H]5O[C@H](C(=O)OC)[C@@H](O)[C@H](O)[C@H]5O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)CC[C@]4(C)[C@H]3CC[C@]12C)C(C)C,
 19280,CMNPD19281,COC(=O)[C@H]1O[C@@H](O[C@H]2CC[C@@]3(C)[C@@H](CC[C@H]4[C@H]5C(=O)C(O)=C([C@H](C)CC(=O)CC(C)C)[C@@]5(C)CC[C@@H]43)C2)[C@H](O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O,
 19281,CMNPD19282,COC(=O)[C@H]1O[C@@H](O[C@H]2CC[C@@]3(C)[C@@H](CC[C@H]4[C@H]5C(=O)C(O)=C([C@H](C)CC(=O)CC(C)C)[C@@]5(C)CC[C@@H]43)C2)[C@H](O)[C@@H](O)[C@@H]1O,
-19282,CMNPD19283,C=C1CCC(C)(/C=C/C(O)[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)O)[C@H]5C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]5(C)[C@H]4CC[C@]23C)C1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C,inhibit protein kinase C ζ (PKCζ)
-19283,CMNPD19284,C=C1CCC(C)(/C=C/C(O)[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)O)[C@H]5C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]5(C)[C@H]4CC[C@]23C)C1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C,inhibit protein kinase C ζ (PKCζ)
-19284,CMNPD19285,C[C@@H]([C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C)[C@H]1C[C@H]2[C@H](/C=C\[C@@H](C)[C@H]3CC[C@H]4[C@@H]5C[C@H](OS(=O)(=O)O)[C@H]6C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]6(C)[C@H]5CC[C@]34C)C(C)(C)C[C@@]2(C)O1,inhibit protein kinase C ζ (PKCζ)
+19282,CMNPD19283,C=C1CCC(C)(/C=C/C(O)[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)O)[C@H]5C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]5(C)[C@H]4CC[C@]23C)C1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C,inhibit protein kinase_C ζ (PKCζ)
+19283,CMNPD19284,C=C1CCC(C)(/C=C/C(O)[C@@H](C)[C@H]2CC[C@H]3[C@@H]4C[C@H](OS(=O)(=O)O)[C@H]5C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]5(C)[C@H]4CC[C@]23C)C1CC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C,inhibit protein kinase_C ζ (PKCζ)
+19284,CMNPD19285,C[C@@H]([C@H]1CC[C@H]2[C@@H]3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](O)[C@@H](OS(=O)(=O)O)C[C@]4(C)[C@H]3CC[C@]12C)[C@H]1C[C@H]2[C@H](/C=C\[C@@H](C)[C@H]3CC[C@H]4[C@@H]5C[C@H](OS(=O)(=O)O)[C@H]6C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]6(C)[C@H]5CC[C@]34C)C(C)(C)C[C@@]2(C)O1,inhibit protein kinase_C ζ (PKCζ)
 19285,CMNPD19286,C[C@H]1[C@@H](O)[C@@H](O)C[C@]2(C)C3=C(C[C@H](OS(=O)(=O)O)[C@@H]12)[C@@H]1CC[C@H]([C@H](C)[C@H]2C[C@@H]4C[C@@](O)(CC4(C)C)[C@H](CC[C@@H](C)[C@H]4CCC5=C6C[C@H](OS(=O)(=O)O)[C@H]7C[C@@H](O)[C@@H](OS(=O)(=O)O)C[C@]7(C)[C@H]6CC[C@@]54C)O2)[C@@]1(C)CC3,
 19286,CMNPD19287,C[C@@H]([C@H]1CC[C@H]2C3=C(CC[C@]12C)[C@@]1(C)C[C@H](OS(=O)(=O)O)[C@H](O)C[C@@H]1[C@@H](OS(=O)(=O)O)C3)[C@H]1C[C@@H]2C[C@@](C)(OC2(C)C)[C@H](CC[C@@H](C)[C@H]2CC[C@H]3C4=C(CC[C@]23C)[C@@]2(C)C[C@H](OS(=O)(=O)O)[C@H](O)C[C@@H]2[C@@H](OS(=O)(=O)O)C4)O1,
 19287,CMNPD19288,CC1=CC[C@H]2[C@H](CC[C@]2(C)O)C(C)(C)[C@@H]1CC[C@H]1[C@]2(C)CC[C@@H](O)O[C@H]2CC[C@@]1(C)O,
@@ -19909,7 +19909,7 @@
 19907,CMNPD19908,COc1ccc(C[C@@H]2NC(=O)/C(C)=C/C3CSC(=N3)[C@@H](C)[C@@H](O)C[C@H](C)C[C@@H](C(C)(C)C)OC(=O)[C@H](C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](C)N(C)C2=O)cc1,high potency to H-460 cells | solid tumour selectivity for HCT-116 and H125 cells
 19908,CMNPD19909,CC(C)C[C@@H]1C(=O)N[C@H]([C@@H](C)O)C(=O)N[C@H](C)[C@@H](C)C(=O)O[C@@H](Cc2ccccc2)C(=O)N(C)[C@@H](C(C)C)C(=O)N2CCC[C@H]2C(=O)N(C)[C@H](Cc2ccccc2)C2=N[C@@H](CS2)C(=O)N[C@H](C)C2=N[C@@H](CS2)C(=O)N1C,cytotoxic to HT29 and HeLa cells
 19909,CMNPD19910,CC[C@H]1NC(=O)[C@@H]2CSC(=N2)[C@H](Cc2ccccc2)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](Cc2ccccc2)OC(=O)[C@H](C)[C@@H](C)NC(=O)[C@@H]([C@@H](C)O)NC(=O)[C@@H](CC(C)C)N(C)C(=O)[C@@H]2CSC1=N2,cytotoxic to HT29 and HeLa cells
-19910,CMNPD19911,CC(C)C[C@@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCc2ccc(O)cc2)NC(=O)[C@H](O)CO)C(C)C)[C@@H](C)OC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)[C@@H]2[C@H](C)O[C@@H]3CC[C@H](NC1=O)C(=O)N23,serine protease inhibitor
+19910,CMNPD19911,CC(C)C[C@@H]1NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCc2ccc(O)cc2)NC(=O)[C@H](O)CO)C(C)C)[C@@H](C)OC(=O)[C@H](C(C)C)NC(=O)[C@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)[C@@H]2[C@H](C)O[C@@H]3CC[C@H](NC1=O)C(=O)N23,serine_protease inhibitor
 19911,CMNPD19912,C=CCCCC[C@@H]1OC(=O)[C@H](C(C)C)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](Cc2ccccc2)OC(=O)[C@H]([C@@H](C)CC)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@@H]1C,
 19912,CMNPD19913,CCCCCC[C@@H]1OC(=O)[C@H](C(C)C)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](Cc2ccccc2)OC(=O)[C@H]([C@@H](C)CC)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@@H]1C,
 19913,CMNPD19914,C#CCCC[C@@H]1OC(=O)[C@H](C(C)C)N(C)C(=O)[C@@H]2CCCN2C(=O)[C@H](Cc2ccccc2)OC(=O)[C@H]([C@@H](C)CC)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@@H]1C,
@@ -21146,7 +21146,7 @@
 21144,CMNPD21145,COc1c(O)cc(CO)cc1Br,antioxidant
 21145,CMNPD21146,CC(=O)/C=C/c1cc(O)c(O)cc1Br,antioxidant
 21146,CMNPD21147,O=C1NCCc2cc(Br)c(O)c(c2)Oc2cc(O)c(cc2Br)CCNC(=O)/C(=N/O)Cc2c(O)cc(Br)c(c2Br)Oc2cc(cc(Br)c2O)C/C1=N\O,cytoxic
-21147,CMNPD21148,O=C(O)C1Cc2c([nH]c3ccccc23)CN1Cc1ccc(O)cc1,anticancer agent
+21147,CMNPD21148,O=C(O)C1Cc2c([nH]c3ccccc23)CN1Cc1ccc(O)cc1,antitumour agent
 21148,CMNPD21149,CC(C)CCCCCCCCCCCCCCOC[C@H](O)COC1[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O,
 21149,CMNPD21150,O=C(O)CCCC#C/C=C/[C@H](O)[C@H](O)CC/C=C(Br)\C=C/Br,
 21150,CMNPD21151,O=C(O)CCCC#C/C=C/[C@@H](O)[C@@H](O)CC/C=C(Br)\C=C/Br,
@@ -24367,7 +24367,7 @@
 24365,CMNPD24366,CC(C)=CCC[C@]1(C)OC2=CC(=O)c3c(O)cc(O)cc3[C@@]23CC(=C(C)C)C[C@@H]13,
 24366,CMNPD24367,CC(C)=CCC[C@]1(C)OC2=CC(=O)c3c(cc(O)c(Cl)c3O)[C@@]23CC(=C(C)C)C[C@@H]13,
 24367,CMNPD24368,CC(C)=CCC[C@]1(C)[C@@H]2C(=O)c3c(O)cc(O)cc3[C@@]3(CC(=C(C)C)C[C@@H]13)C2=O,
-24368,CMNPD24369,O=c1c2ccccc2c(=O)c2c1sc1c(=O)c3ccccc3c(=O)c12,potent and selective antitumor activity
+24368,CMNPD24369,O=c1c2ccccc2c(=O)c2c1sc1c(=O)c3ccccc3c(=O)c12,potent and selective antitumour activity
 24369,CMNPD24370,C[C@H]1O[C@H](Oc2cc(/C=N/O)nc(-c3ccccn3)c2)[C@H](O)[C@@H](O)[C@@H]1O,mod. cytotox. HTCLs
 24370,CMNPD24371,C[C@H]1O[C@H](Oc2cc(/C=N/O)nc(-c3ccccn3)c2O)[C@H](O)[C@@H](O)[C@@H]1O,mod. cytotox. HTCLs
 24371,CMNPD24372,C[C@@H]1O[C@@H](Oc2cc(/C=N/O)nc(-c3ccccn3)c2O)[C@H](O)[C@H](O)[C@H]1O,mod. cytotox. HTCLs
@@ -30176,11 +30176,11 @@
 30174,CMNPD30175,CCCC(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N[C@@H]1C(=O)N[C@@H](CC(C)C)C(=O)N[C@H]2CC[C@@H](O)N(C2=O)[C@@H](Cc2ccccc2)C(=O)N(C)[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](C(C)C)C(=O)O[C@@H]1C)[C@H](C)O,potent inhib. of chymotrypsin and elastase enzymes (IC 50 = 240 - 290 nM).
 30175,CMNPD30176,CCCC(=O)N[C@@H](C)C(=O)N[C@H](C(=O)N[C@@H]1C(=O)N[C@@H](CC(C)C)C(=O)N[C@H]2CC[C@@H](O)N(C2=O)[C@@H](Cc2ccccc2)C(=O)N(C)[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](C(C)C)C(=O)O[C@@H]1C)[C@H](C)OC(=O)[C@H](C)NC(=O)CCC,potent inhib. of chymotrypsin and elastase enzymes (IC 50 = 220 - 890 nM).
 30176,CMNPD30177,C/C=C(\NC(=O)[C@H](C)NC(=O)CCC)C(=O)N[C@@H]1C(=O)N[C@@H](CC(C)C)C(=O)N[C@H]2CC[C@@H](O)N(C2=O)[C@@H](Cc2ccccc2)C(=O)N(C)[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](C(C)C)C(=O)O[C@@H]1C,potent inhib. of chymotrypsin and elastase enzymes (IC 50 = 350 - 620 nM).
-30177,CMNPD30178,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@H](O)COS(=O)(=O)O)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine protease trypsin (IC 50 = 160 nM). | Low tox. vs 2 HTCLs
-30178,CMNPD30179,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine protease trypsin (IC 50 = 190 nM). | Low tox. vs 2 HTCLs
-30179,CMNPD30180,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine protease trypsin (IC 50 = 72 nM). | Low tox. vs 2 HTCLs
-30180,CMNPD30181,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)[C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine protease trypsin (IC 50 = 1000 nM). | Low tox. vs 2 HTCLs
-30181,CMNPD30182,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine protease trypsin (IC 50 = 150 nM). | Low tox. vs 2 HTCLs
+30177,CMNPD30178,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@H](O)COS(=O)(=O)O)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine_protease trypsin (IC 50 = 160 nM). | Low tox. vs 2 HTCLs
+30178,CMNPD30179,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine_protease trypsin (IC 50 = 190 nM). | Low tox. vs 2 HTCLs
+30179,CMNPD30180,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine_protease trypsin (IC 50 = 72 nM). | Low tox. vs 2 HTCLs
+30180,CMNPD30181,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)[C@@H](C)CC)C(=O)N[C@@H](CCCCN)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine_protease trypsin (IC 50 = 1000 nM). | Low tox. vs 2 HTCLs
+30181,CMNPD30182,CC[C@@H](C)[C@H]1C(=O)N(C)[C@@H](Cc2ccc(OC)c(Br)c2)C(=O)N[C@@H]([C@@H](C)CC)C(=O)O[C@H](C)[C@H](NC(=O)[C@H](NC(=O)[C@@H](COS(=O)(=O)O)OC)C(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H]2CC[C@@H](O)N1C2=O,Inhib. of serine_protease trypsin (IC 50 = 150 nM). | Low tox. vs 2 HTCLs
 30182,CMNPD30183,CCCC(=O)NC(CC(=O)O)C(=O)NC1C(=O)NC(Cc2ccc(O)cc2)C(=O)NC2CCC(O)N(C2=O)C(Cc2ccccc2)C(=O)N(C)C(Cc2ccc(O)cc2)C(=O)NC(C(C)C)C(=O)OC1C,"IA vs thrombin, elastase, trypsin and protein phosphatase 1. | Activ. vs chymotrypsin, IC 50 = 0.26 μM. | IA vs 1 HTCL"
 30183,CMNPD30184,CCCC(=O)NC(CC(=O)O)C(=O)NC1C(=O)NC(CCCNC(=N)N)C(=O)NC2CCC(O)N(C2=O)C(Cc2ccccc2)C(=O)N(C)C(Cc2ccccc2)C(=O)NC(C(C)C)C(=O)OC1C,"IA vs thrombin, elastase, chymotrypsin, and protein phosphatase 1. | Low activ. vs trypsin. | IA vs 1 HTCL"
 30184,CMNPD30185,CC[C@H](C)[C@@H](O)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N(C)[C@@H](CC(C)C)C(=O)N[C@@H](C)C(=O)N(C)[C@H](Cc1ccccc1)C(=O)N1CCC[C@H]1C(=O)OC,"Inhib. of chymotrypsin, caspase 14, KLK7, IC 50 = 8.98, 50.3, 22.1 μM, resp."

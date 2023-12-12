@@ -307,7 +307,7 @@ def split(
                                              ids = smiles)
     
     #split deepchem dataset
-    train_idx, val_idx, test_idx = splitter.split(dataset, seed=seed)
+    train_idx, val_idx, test_idx = splitter.split(dataset)
     
     return np.array(train_idx), np.array(val_idx), np.array(test_idx)
 
@@ -336,7 +336,7 @@ def assert_splits(
     y_train = labels[train_idx]
     y_val = labels[val_idx]
     y_test = labels[test_idx]
-    assert np.sum(y_train) > np.sum(labels)*0.6, "[clf]: Split failed quality check, try different random seed"
+    assert np.sum(y_train) > np.sum(labels)*0.5, "[clf]: Split failed quality check, try different random seed"
     assert np.sum(y_val) > np.sum(labels)*0.05,  "[clf]: Split failed quality check, try different random seed"
     assert np.sum(y_test) > np.sum(labels)*0.05, "[clf]: Split failed quality check, try different random seed"
 

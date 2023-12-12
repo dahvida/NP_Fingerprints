@@ -1,0 +1,1001 @@
+,COMPOUND_ID,SMILES,BIOACTIVITY_IN_BRIEF,y
+339,CMNPD340,COc1cc(Br)c(-c2c(Br)[nH]c3ccc(Br)cc23)c2c(Br)c[nH]c12,,0
+523,CMNPD524,C=C1CC[C@@H]([C@H](C)CCC(=O)C(C)C)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+444,CMNPD445,Cc1cc(O)c(O)c2c1O[C@@]1(C2)[C@@H](C)CC[C@@H]2[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3CC[C@]21C,,0
+6029,CMNPD6030,COC(=O)CCCC#CC#C/C=C/CCCC/C=C\C=C\Br,antifungal,1
+6038,CMNPD6039,CC/C=C(C)/C=C/CCC[C@]1(OC)CC[C@@H]([C@@H](C)C(=O)O)OO1,antifungal,1
+269,CMNPD270,COC1=C(Br)[C@@H](O)[C@@](O)(CC#N)C=C1Br,,0
+366,CMNPD367,CC(C)=CCC/C(C)=C/CC[C@H](C=O)[C@@H]1CC[C@H](C=O)[C@@H]1C=O,antimicrobial,0
+23645,CMNPD23646,CC(C)=C[C@H]1c2c(C)ccc(C)c2[C@@H](O)[C@@H]1C(C)(C)O,antifungal,1
+140,CMNPD141,C=C1C(=O)O[C@H]2[C@H]3O[C@@H](C[C@@H]12)[C@](C)(O)CC/C=C(\C)CCC[C@H]3C,cytotoxicity,0
+226,CMNPD227,C/C1=C\[C@H](O)C[C@@H](C)/C=C/[C@@]2(C)CC[C@@H](C(C)(C)O)C2[C@@H](O)C1,,0
+51,CMNPD52,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/C(=C/Cl)C(Cl)Cl,,0
+358,CMNPD359,CC(=O)OC/C=C(/C=O)CCC1C(C)=CCCC1(C)C,,0
+1876,CMNPD1877,C[C@]1(Cl)C[C@](C)(/C=C/Cl)[C@H](Br)C[C@@H]1Cl,antifungal and molluscicidal activities and toxicity to brine shrimp,1
+259,CMNPD260,Oc1cc(O)c(Br)c(O)c1O,,0
+409,CMNPD410,CCOC(=O)CCCCCCCCc1oc(CC)cc1C,,0
+258,CMNPD259,CCOCc1cc(O)c(O)c(Br)c1Br,,0
+195,CMNPD196,[C-]#[N+]C(C(C)C)C1CCC2(C)CCCC(=C)C12,,0
+39,CMNPD40,CC(C)(Cl)[C@H](Br)CC1O[C@]1(C)/C=C/Br,,0
+303,CMNPD304,N=C1N[C@H]2[C@H](COC(=O)NS(=O)(=O)O)N(O)C(=N)N3CCC(O)(O)[C@]23N1,toxin,0
+451,CMNPD452,CC(C)=CC(=O)C/C(C)=C/CC/C(C)=C/CC/C(C)=C/CO,,0
+1,CMNPD2,[O-][S+]1CSSC1,antibiotic,0
+16797,CMNPD16798,CC1(C)[C@@H](Br)CC[C@](C)(O)[C@H]1C[C@@]1(C)[C@@H]2Cc3cc(C(=O)O)ccc3OC=C2CC[C@@H]1Br,modest antibacterial | antimalarial | antitumour | antifungal,1
+192,CMNPD193,CC1(C)CCC[C@]2(C)[C@@H]1CC[C@]1(C)Oc3ccc(O)cc3C[C@@H]21,,0
+217,CMNPD218,C=C1CC[C@@H]([C@H](C)CCC=C(C)C)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+281,CMNPD282,CC(C)=CCC/C(C)=C/Cc1cc(O)c(Br)cc1O,,0
+102,CMNPD103,C=C1CCC(Br)C(C)(C)C12CCC(C)(Cl)C(Br)C2,,0
+396,CMNPD397,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCc1cc(=O)c2c(O)cc(O)cc2o1,,0
+21856,CMNPD21857,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@H]7C[C@H](O)[C@]89C(=O)O[C@@](C)(CCCC(C)C)[C@@]8(O)CC[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](COS(=O)(=O)O)[C@H]1O,antifungal activity towards Cladosporium cucumerinum,1
+1712,CMNPD1713,CC(C)CCC[C@]1(C)OC(=O)[C@]23[C@@H](O)C=C4C(CCC5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](OS(=O)(=O)O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@]31O,antifungal,1
+2,CMNPD3,[O-][S+]1CSCS1,antibiotic,0
+331,CMNPD332,CO[C@@H](CC[C@H](C)C1O[C@@]23C[C@H](OC(=O)C[C@H](CO)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)[C@@H]1C)c1cc(O)c(Br)cc1Br,toxic,0
+44,CMNPD45,CC(=C/Br)/C=C/[C@H](Cl)[C@](C)(Cl)/C=C/Br,,0
+470,CMNPD471,CC(=O)CC/C=C(\C)CCC1=C(C)CC[C@H](O)C1(C)C,,0
+17955,CMNPD17956,N=C1NC(=O)[C@](NCCS(=O)(=O)O)([C@@H](CNC(=O)c2cc(Br)c(Br)[nH]2)C(=O)O)N1,antifungal,1
+23156,CMNPD23157,COC(=O)C[C@H](O)C[C@@H](O)C[C@H](O)/C=C/C=C/CCC[C@@H](C)O,antibacterial | antifungal,1
+12,CMNPD13,CC(Br)C=C(Br)Br,,0
+290,CMNPD291,C[C@]1(O)C(=O)N2c3c([nH]c(=O)[nH]c3=O)NC[C@@]2(O)[C@H](C(=O)O[C@H]2[C@H](O)[C@@H](O)[C@H](O)[C@H](O)[C@@H]2O)[C@]12C(=O)Nc1cc(Br)ccc12,toxin,0
+5528,CMNPD5529,CC(=O)CC[C@@H]1[C@](C)(CC[C@@]2(O)[C@H](C)CC[C@@H]3OC(C)(C)CCC[C@@]32C)CCC[C@@]1(C)C(=O)Cc1cc(OS(=O)(=O)O)ccc1OS(=O)(=O)O,antifungal,1
+239,CMNPD240,CC1=CC(=O)CC2(O)C3=C(C=CC12O)C(=O)c1c(O)cccc1C3=O,antibiotic,0
+11818,CMNPD11819,C=CCCCCCCCCC[C@@H](O)[C@H](C)N,antifungal,1
+4635,CMNPD4636,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8CC[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](COS(=O)(=O)O)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+14204,CMNPD14205,Oc1cccc2c1[nH]c1c(C3=C[C@]45CC/C=C\CCCCN6CC[C@@H]3[C@]3(C[C@@H]7/C=C\CCC[C@@H](O4)N7[C@H]35)C6)nccc12,potent antiinflammatory | antifungal | anti-HIV-1 agent,1
+291,CMNPD292,COC(CCC(C)C1O[C@]23CC(OC(=O)CC(C(C)O)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)C1C)c1cc(O)ccc1Br,toxin,0
+103,CMNPD104,CC(=O)[C@@H]1CC[C@]2(C1)C(C)=CC[C@@H](Br)C2(C)C,,0
+104,CMNPD105,CC1=CCC(Br)C(C)(C)C12CCC1(C)OC1C2,,0
+251,CMNPD252,Brc1c[nH]c2ccccc12,,0
+4260,CMNPD4261,C=C/C=C\[C@@H](C)C(OC(N)=O)[C@H](C)[C@@H](O)[C@H](C)C/C(C)=C\[C@@H](C)[C@H](O)[C@H](C)/C=C\[C@H](O)C[C@H]1OC(=O)[C@@H](C)[C@H](O)[C@@H]1C,cytotoxic | antifungal,1
+554,CMNPD555,CC(C)=CC/C=C(/C)C1CC=C(C)C23CCC(C)C2C13,,0
+598,CMNPD599,CCC(Br)(Br)c1oc(Br)c(Br)c(=O)c1Br,,0
+606,CMNPD607,C#C/C=C/C[C@H]1O/C(=C(/Br)CC)C/C=C\C[C@H]1Cl,,0
+497,CMNPD498,CC(C)=CCC[C@@H]1C(=O)O[C@H]2OC(=O)/C3=C/C/C=C(\C)CC[C@H]1[C@H]32,,0
+22715,CMNPD22716,C=C[C@@](C)(CC/C=C(\C)CC[C@]1(C)C(C=O)=CCC[C@H]1C)S(=O)(=O)CCNC(=N)N,antifungal,1
+4612,CMNPD4613,C[C@H](CO)C/C=C/[C@@H](C)[C@H]1C[C@@H](O)[C@@H]2[C@]1(C)CCC1[C@@]3(C)CC[C@H](O)CC3[C@@H](O)C[C@]12O,cytotoxic and antifungal,1
+34,CMNPD35,C=C=C/C=C/C1C2CC3O/C(=C(/Br)CC)C1C3O2,,0
+172,CMNPD173,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CCc1ccoc1,,0
+21,CMNPD22,C#C/C=C/C[C@@H](OC(C)=O)[C@H]1C/C=C\C[C@H](Br)[C@@H](CC)O1,,0
+209,CMNPD210,CC1=CC2=C(C(C)C)CC[C@H](C)C2CC1,,0
+516,CMNPD517,CC(C)=CCC[C@@H](C)[C@@H]1CC/C(C)=C/C2OC2/C(C)=C/[C@@H]1O,,0
+6148,CMNPD6149,CCC/C=[N+](\[O-])CCCCCCCCCCCCc1cccnc1,antifungal,1
+6524,CMNPD6525,CC(C)C(CC[C@@H](C)[C@H]1CCC2C3C(CC[C@@]21C)[C@@]1(C)CC[C@H](NCCCNCCCCN)CC1C[C@H]3O)OS(=O)(=O)O,antimicrobial | antifungal,1
+464,CMNPD465,C/C(=C\CCC(C)O)CCCC(C)CC(=O)CC(C)C,,0
+125,CMNPD126,CC(C)[C@@H]1CC=C[C@H]2[C@H]3[C@@](C)(C=CC(=O)[C@@]3(C)O)CC[C@]12CBr,,0
+6763,CMNPD6764,COc1ccc(/C=C/CCCC[C@H](C)[C@H](O)[C@@H](O)C2NC(=O)C[C@@H](O)CNC(=O)CNC(=O)[C@@H](Cc3c(C(=O)O)[nH]c4ccccc34)NC(=O)CN(C)C(=O)C[C@@]3(O)NC(=O)[C@H](O)[C@@H]3NC(=O)[C@H]2O)cc1,antifungal,1
+305,CMNPD306,CC1=CC(=O)O[C@H]2C[C@H]3O[C@H]4C[C@@H](C)[C@H]5O[C@H]6C[C@H]7O[C@@]8(C)C/C=C\[C@H]9O[C@H]%10C[C@H]%11O[C@H](CC(=O)CCl)C[C@H](O)[C@]%11(C)O[C@@H]%10C[C@@H]9O[C@@H]8C[C@]7(C)O[C@]6(C)CC[C@@H]5O[C@@H]4C[C@]3(C)O[C@H]12,toxin,0
+65,CMNPD66,C[C@@]1(/C=C/Cl)C[C@@](Br)(CCl)[C@H](Br)C[C@@H]1Cl,,0
+505,CMNPD506,CC(=O)OC1CC=C(C=O)C2(C=O)C(C(C)CCC=C(C)C)CCC12C,,0
+413,CMNPD414,C=CCCCCCCC[C@@H](O)[C@H]1C[C@H](O)[C@H](CCCCC)O1,,0
+531,CMNPD532,CC(=O)OC/C(=C\C=C\C(C)(O)COC(C)=O)[C@@H]1C[C@@H](OC(C)=O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+16961,CMNPD16962,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumor | immunosuppressive,1
+13419,CMNPD13420,CC#C/C=C\C=C\C[C@@H](O)/C(Br)=C(C)/C=C/C=C/C=C(/C)[C@@H](O)C(C)(C)C(N)=O,antifungal,1
+13165,CMNPD13166,CC(C)CC(=O)C[C@@H](C)[C@H]1CCC2C3C[C@H](O[C@@H]4O[C@H](C)[C@@H](O)[C@H](O[C@@H]5OC[C@@H](O[C@@H]6O[C@H](CO)[C@H](O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O)[C@H](O[C@@H]7O[C@H](CO)[C@H](O)[C@H](O)[C@H]7O)[C@H]6O)[C@H](O)[C@H]5O[C@@H]5O[C@H](C)[C@@H](O)[C@H](O)[C@H]5O)[C@H]4O)C4C[C@@H](OS(=O)(=O)O)CC[C@]4(C)C3=CC[C@@]21C,antifungal activity towards the plant pathogen Cladosporium cucumerinum,1
+522,CMNPD523,CC(C)=CCC[C@@H](C)[C@@H]1CCC(C)=C2CC=C(C)C2C1,,0
+10325,CMNPD10326,COC(=O)NC/C=C\c1nc(CC/C=C\C(=O)O[C@@H]2C[C@H]3C[C@H](OC)C[C@H]4CCC[C@@H](C[C@H](/C=C/CC(C)C)COC(=O)C[C@@H](C2)O3)O4)co1,antifungal and cytotoxic,1
+1711,CMNPD1712,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCCC(C)C)[C@@]8(O)CC[C@@]9(C)C7CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal,1
+4554,CMNPD4555,COC1SCCc2c1c(S(C)=O)cc(O)c2N(C)C,antifungal,1
+381,CMNPD382,CCCCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,,0
+24272,CMNPD24273,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@@H]7CC[C@]89C(=O)O[C@@](C)(C(O)CC=C(C)C)[C@H]8CC[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal | haemolytic | cytotoxic,1
+11821,CMNPD11822,CC/C=C\C/C=C\C/C=C\C/C=C\CC[C@@H](O)[C@H](C)NC(C)=O,antifungal,1
+17761,CMNPD17762,CC(C)C[C@H](O)C[C@@H](C)[C@H]1CC[C@@]2(C)[C@@H]3CC[C@H]4[C@](C)(COS(=O)(=O)O)[C@@H](OS(=O)(=O)O)CC[C@@]45C[C@@]35CC[C@]12C,Weak to modest cytotoxicity (31–6 µM) | significant antifungal properties,1
+157,CMNPD158,C=C1CCCC(C)C1(C)CCc1ccoc1,,0
+574,CMNPD575,C=C1CC[C@@H](O)[C@@]2(C)CCC3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+13199,CMNPD13200,C=C[C@@H]1O[C@]1(C)CC(C)/C(C)=C/C=C(C)\C=C(OC)/C(=C\C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+130,CMNPD131,C=C1[C@@H](O)C[C@H]2C[C@]3(C)[C@@H](O)CC(C)(C)[C@@H]3[C@@]12O,,0
+610,CMNPD611,C#C/C=C\C[C@H]1O/C(=C(/Br)CC)[C@H]2C=CC[C@@H]1O2,,0
+386,CMNPD387,C=C1CC[C@@H](Br)C(C)(C)C1Cc1cc(OC)c(Br)cc1O,,0
+607,CMNPD608,C#C/C=C\C[C@H]1O/C(=C(/Br)CC)C/C=C\C[C@H]1Cl,,0
+483,CMNPD484,C=C(C)[C@@H]1CC[C@@]2(C)[C@H](O)CCC(=C)[C@@H]2C1,,0
+96,CMNPD97,CC1(C)C(Br)=C[C@H]2O[C@@]2(C)[C@]12C[C@H](Br)[C@@](C)(Cl)C[C@@H]2O,,0
+3,CMNPD4,C1SSCSSS1,antibiotic,0
+185,CMNPD186,CC1=C(CC/C(C)=C/CO)C(C)(C)CCC1,,0
+6041,CMNPD6042,CC/C=C(C)/C=C/CCC[C@]1(OC)CC[C@H]([C@@H](C)C(=O)O)OO1,antifungal,1
+296,CMNPD297,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3C[C@@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+12389,CMNPD12390,CCC(C)[C@@H]1NC(=O)[C@H](C)NC(=O)[C@H](C(C)CC)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C)NC1=O,"moderate antifungal activity against C. albicans, T. rubrum and four crop-threatening fungi | moderate activity against the human gastric tumour BGC cell line",1
+437,CMNPD438,CC(C)=CCC[C@@](C)(O)[C@@H](O)CC/C(C)=C/CC[C@]1(C)C=Cc2cc(O)cc(C)c2O1,,0
+4906,CMNPD4907,Brc1ccc2c(-c3c[nH]c(-c4c[nH]c5cc(Br)ccc45)n3)c[nH]c2c1,cytotoxicity | antifungal,1
+446,CMNPD447,C/C(=C/Cc1cc(O)cc(C)c1O)CC(=O)C[C@@]1(C)CCC[C@@]1(C)C(=O)/C=C/C(C)(C)O,inhibitor of cell division,0
+35,CMNPD36,C#C/C=C\[C@H]1C2C3CC4O[C@](Br)(C2C4O3)[C@@]1(Br)CC,,0
+6682,CMNPD6683,C#CC(O)/C=C/CCCCCC#CC/C=C\CCCCCCCCCCC/C=C/C#CC(=O)O,antifungal,1
+6683,CMNPD6684,C#CC(O)/C=C/CCCCCC#CC/C=C\CCCCCCCCC/C=C\C#CC(=O)O,antifungal,1
+594,CMNPD595,CCCCCC(=O)C(I)=C(Br)Br,,0
+84,CMNPD85,CC1(C)[C@H](Br)C[C@@H]2OCC=C2[C@@H]1Br,,0
+597,CMNPD598,CCCCC1=C(Br)/C(=C/Br)OC1=O,,0
+16802,CMNPD16803,C=C1CC[C@@H]2[C@@](C)(CCC(Br)C(C)(C)Cl)[C@H](Br)CC[C@@]2(C)[C@@H]1Cc1cc(Br)cc(Br)c1O,modest antibacterial | antimalarial | antitumour | antifungal,1
+4838,CMNPD4839,C[C@@H]1[C@H]2O[C@H]2[C@H]2C[C@@H]3[C@@H](CC[C@H]4/C=C/C(=O)C5=C(O)NC(C5=O)C(O)CCNC(=O)/C=C\C[C@H]34)[C@@H]12,antifungal | cytotoxic,1
+10262,CMNPD10263,CC(N)C(O)CCCCCCCCCCCCCCC(=O)CCCCCCCC(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)C(N)CO,antifungal,1
+94,CMNPD95,CC1(Cl)CC2OC3(Br)C=C[C@@](C)(O)C2(CC1Br)C3(C)C,,0
+182,CMNPD183,C/C(=C\Cc1cc(O)ccc1O)CCc1c(C)cc(O)c(C=O)c1C,,0
+9446,CMNPD9447,CCCCCCCC[C@@H](C)[C@@H]1OC(=O)[C@H](CO)NC(=O)[C@@H](C(=O)c2c[nH]c3ccccc23)NC(=O)[C@@H](CCC(=O)O)NC(=O)[C@H]1C,antifungal,1
+61,CMNPD62,O=C[C@@H]1C[C@@](Br)(CCl)[C@H](Cl)C[C@@H]1Cl,,0
+4099,CMNPD4100,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCCC(C)C)[C@H]8CCC9C7CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal,1
+25,CMNPD26,C#C/C=C/CC1O[C@@H]2C[C@@H]1O[C@H](CC)[C@@H](Br)C[C@H]2OC(C)=O,,0
+14242,CMNPD14243,COc1ccc(Cc2[nH]c(=N)n(C)c2Cc2cc(OC)c(O)c(OC)c2)cc1,strongly antifungal,1
+85,CMNPD86,CC1(C)C(Cl)C(C(Cl)CBr)=CC[C@H]1Br,,0
+532,CMNPD533,C=C(C(O)/C=C/C(C)(O)COC(C)=O)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,antimicrobial,0
+399,CMNPD400,CCCCCCCCCCCCCC/C=C1\CC(=O)c2c(O)cc(O)cc2O1,,0
+21855,CMNPD21856,C=C(C)CCC[C@]1(C)OC(=O)[C@]23[C@@H](O)C[C@H]4C(=CC[C@H]5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](OS(=O)(=O)O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O[C@@H]7OC[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@]31O,antifungal activity towards Cladosporium cucumerinum,1
+6022,CMNPD6023,O=C(O)CCCC#CC#C/C=C\CCCCC#C/C=C/Br,antifungal,1
+5,CMNPD6,O=S1(=O)CSCSSC1,antibiotic,0
+13728,CMNPD13729,CC(=O)O[C@@H]1[C@H](O)[C@H]2[C@@H](CC=C3C[C@@H](O)CC[C@@]32C)[C@@H]2CC(O)[C@H](C(C)CCC(C)C(C)C)[C@@]12C,weak antifungal activity | weakly inhibit tyrosine kinase p56lck,1
+6738,CMNPD6739,O=C1NCC(c2c[nH]c3cc(Br)ccc23)N=C1c1c[nH]c2cc(Br)ccc12,antifungal,1
+326,CMNPD327,CC/C=C\C[C@H](O)[C@H](O)/C=C/[C@@H](O)CCCCCCCC(=O)O,,0
+198,CMNPD199,C=C1CCC[C@]2(C)CC[C@@H]([C@@H](NC=O)C(C)C)[C@H]12,,0
+379,CMNPD380,CCCCCCCCCCCCC/C=C/C(O)C(CO)NC(=O)CCCCCCCCCCCCCCCCCCCCCCC,,0
+6773,CMNPD6774,CCC[C@@H](NC(=O)C(O)C(C)CC)C(=O)N[C@H]1CCCNC(=O)[C@H](Cc2c[nH]c3ccc(O)cc23)NC(=O)/C=C/c2coc(n2)[C@H](C)NC(=O)C(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CCCN2C1=O,antifungal,1
+13171,CMNPD13172,C=C(C)CCC[C@]1(C)OC(=O)[C@]23CC=C4C(CCC5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](OS(=O)(=O)O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O[C@@H]7O[C@H](COS(=O)(=O)O)[C@@H](O)[C@H](O[C@@H]8O[C@H](COS(=O)(=O)O)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@H]31,cytotoxic | antifungal,1
+573,CMNPD574,C=C1CC[C@@H](O)[C@@]2(C)C[C@@H](OC(C)=O)C3=C(C(C)C)[C@@H](OC(C)=O)C[C@]3(C)C[C@]12O,,0
+512,CMNPD513,CC(C)=CCCC(C)(O)[C@@H]1CC/C(C)=C/CC/C(C)=C/[C@@H]1O,,0
+298,CMNPD299,N=C1N[C@H]2[C@H](COC(N)=O)N(O)C(=N)N3C[C@@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+416,CMNPD417,COC(/C=C(\C)CCC=C(C)C)C/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O,,0
+158,CMNPD159,CC1(C)CCC[C@]2(C)[C@H]3CC=C4C(=O)OC[C@H]4[C@]3(C)CC[C@@H]12,,0
+592,CMNPD593,C[As](C)(=O)CCO,,0
+13963,CMNPD13964,CC1CCCCCC(O)C(=O)C(OC(=O)c2ccccc2)CC(=O)O1,cytotoxic | moderately antifungal against a range of organisms | active against Micrococcus luteus,1
+498,CMNPD499,CC(=O)OC1OC(=O)[C@@H](CCC=C(C)C)[C@H]2CC/C(C)=C/C/C=C(/C=O)[C@H]12,,0
+19529,CMNPD19530,CO[C@H]([C@H](C)/C=C/N(C)C=O)[C@@H](C)C(=O)CC[C@H](C)[C@H](C[C@@H]1OC(=O)C[C@@H](O)CCC[C@H](O)[C@H](C)[C@H](OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC[C@H]1C)OC,potent in vitro antifungal activity,1
+391,CMNPD392,CCCC(O)C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)c1c(O)cc(O)cc1O,,0
+150,CMNPD151,C/C(=C\Cc1occc1C)Cc1cc(C)co1,,0
+622,CMNPD623,C#C/C=C/C[C@@H](OC(C)=O)[C@H]1C/C=C\C[C@@H](Br)[C@@H](CC)O1,,0
+369,CMNPD370,CC1=CCC[C@]23C[C@]24CC[C@]2(C)[C@@H]([C@H](C)CC(=O)CC(C)C)CC[C@@]2(C)C4CC[C@@H]13,ichthyotoxicity,0
+238,CMNPD239,CCCCCCCc1cc(O)c2ccccc2n1,antibiotic,0
+5323,CMNPD5324,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/C(C)COC(=O)CC(C)CC(=O)O)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](CC(O)CC8CC(C)C(C(C)CC(=O)O)O8)[C@@](C)(O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+121,CMNPD122,CC1(C)C/C(=C/[C@@H]2[C@H](O)C[C@]3(C)[C@@H](Br)CC[C@@](C)(O)[C@@H]23)CC[C@@H]1Br,,0
+417,CMNPD418,CC(C)=CCCC(CCC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O)C(=O)O,,0
+7357,CMNPD7358,CCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+27,CMNPD28,C#C/C=C/CC(O)C(O)C/C=C/C/C=C/CC,,0
+13,CMNPD14,O=C(C=C(Br)Br)C(Br)Br,,0
+630,CMNPD631,C#C/C=C\[C@H](Cl)[C@@H](O)[C@H]1C[C@H]2O[C@H]2C[C@H](Br)[C@@H](CC)O1,,0
+13727,CMNPD13728,CC(=O)O[C@@H]1C[C@H]2[C@@H](CC=C3C[C@@H](O)CC[C@@]32C)[C@@H]2CC[C@H](C(C)CC(O)C(C)C(C)C)[C@@]12C,weak antifungal activity,1
+539,CMNPD540,C=C(C)[C@H](O)CCC(=C)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+551,CMNPD552,CC(=O)O[C@H]1C[C@@H](/C(C)=C\CC=C(C)C)[C@@H]([C@H]2C(=O)C[C@H](O)[C@H]2C)[C@@H]1C=O,,0
+438,CMNPD439,COc1cc(C)c2c(c1)C=C[C@@](C)(CC(O)/C=C(\C)CCCC(C)C(=O)CC=C(C)C)O2,,0
+38,CMNPD39,CC(C)(Cl)[C@H](Br)C[C@@H](Br)[C@](C)(O)/C=C/Br,,0
+19623,CMNPD19624,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCC=C(C)C)[C@@]8(O)CC[C@@]9(C)[C@@H]7CC[C@H]6C5(C)C)OC[C@@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]6O)[C@H]5O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,moderate antifungal activities,1
+4631,CMNPD4632,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](OS(=O)(=O)O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8C(=O)C[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)OC[C@H]2O)O[C@H](CO)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+347,CMNPD348,CC(/C=C/C=C(\C=O)CC=O)=C\C=C\C(C)(C)O,toxic,0
+360,CMNPD361,CC(=O)O/C=C/C(=C/OC(C)=O)CC[C@@H]1C(C)=CC[C@@H]2C(C)(C)CCC[C@@]12C,,0
+14796,CMNPD14797,C=C/C=C/CC/C=C/C=C/C=C/CC/C=C/C(O)C(O)C1OC(C(O)C(O)C(=C)CCC(O)C2CC(O)C(O)C(C(O)C(O)/C=C(\C)CCC(O)CC(O)C(O)C(C)C(O)CCCC(O)CCCC(O)CCCC(O)/C=C/CC(O)/C=C/CC(O)COS(=O)(=O)O)O2)CC(O)C1O,"haemolytic against mouse erythrocytes, cytotoxic against P388 cells | antifungal towards Aspergillus niger to varying degrees",1
+22462,CMNPD22463,CCCCC(C)C/C(=C/[C@@]1(CC)OC(=O)C[C@@H]1O)CC,antifungal,1
+338,CMNPD339,Brc1ccc2[nH]c(Br)c(-c3c(Br)[nH]c4ccc(Br)cc34)c2c1,,0
+652,CMNPD653,C[C@@](Cl)(/C=C/Br)[C@@H](Cl)/C=C/C(Cl)(CCl)CBr,antifungal | molluscicidal activities | toxicity to brine shrimp,1
+16823,CMNPD16824,C[C@@H](N)[C@H](O)CCCCCCCC(=O)CCCCCCCCCCCCCC[C@@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)CO,"significant antifungal activity against the pathogenic, Fluconazole-resistant yeast, Candida glabrata",1
+5660,CMNPD5661,CC(C)/C=C/[C@@H](C)[C@H]1CCC2C3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21C,antifungal | antithrombin,1
+6042,CMNPD6043,CC/C=C/C=C/CCC[C@]1(OC)CC[C@H]([C@@H](C)C(=O)O)OO1,antifungal,1
+636,CMNPD637,CC[C@H]1O[C@H]2C[C@H](C=C=CBr)O[C@H]2C/C=C\[C@@H]1Br,,0
+12380,CMNPD12381,CC[C@H](C)[C@@H](O)[C@@H](C)[C@H](C/C=C/C=C\C(N)=O)OC(=O)/C=C/c1ccccc1,antifungal | potent in vitro activity against Candida albicans,1
+9445,CMNPD9446,C[C@@H]1CC(=O)O[C@H](C)Cc2cc(O)cc(O)c2C(=O)O[C@H](C)CC(=O)O[C@H](C)Cc2cc(O)cc(O)c2C(=O)O[C@H](C)CC(=O)O1,antifungal,1
+520,CMNPD521,CC(=O)O[C@H]1C[C@H]2[C@H](/C=C(/C)C(=O)/C=C/[C@]1(C)O)[C@]2(C)CCC=C(C)C,,0
+377,CMNPD378,CCCCCCCCCCCCC/C=C/C(O)C(CO)NC(=O)CCCCCCCCCCCCCCC,,0
+481,CMNPD482,CC1=C[C@H]2[C@H](C(C)C)CC[C@@H](C)[C@]2(O)CC1,,0
+635,CMNPD636,CC[C@H](Br)[C@H]1C/C=C\C[C@@H]2O[C@H](C=C=CBr)C[C@@H]2O1,,0
+8225,CMNPD8226,c1ccc2c(-c3c[nH]c(-c4c[nH]c5ccccc45)n3)c[nH]c2c1,antifungal,1
+540,CMNPD541,CC(C)=CC/C=C(/C)[C@@H]1CC[C@@]2(C=O)[C@@H]1[C@@H]1[C@H](C)CC[C@@]12O,,0
+6149,CMNPD6150,CCC/C=[N+](\[O-])CCCCCC/C=C\CCCCCCc1cccnc1,antifungal,1
+604,CMNPD605,C#C/C=C/C/C=C\C/C=C\CCCCC,,0
+392,CMNPD393,CC/C=C\C[C@H](O)/C=C/C=C\C/C=C\C/C=C\CCCC(=O)c1c(O)cc(O)cc1O,,0
+20073,CMNPD20074,CC/C=C/[C@@H](CC)CCC[C@@](CC)(CC(=O)CC)OC(C)=O,antifungal,1
+456,CMNPD457,CC(=O)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,,0
+627,CMNPD628,C#C/C=C\CC(Cl)[C@H]1C[C@@H](O)[C@H](O)/C=C\[C@@H](CC)O1,,0
+183,CMNPD184,C/C(=C\Cc1cc(O)ccc1O)CCc1c(C)c(O)c(O)c(C=O)c1C,,0
+271,CMNPD272,COc1c(Br)cc(O)c(CC(N)=O)c1Br,,0
+47,CMNPD48,CC(/C=C/[C@@H](Cl)[C@](C)(Cl)/C=C/Br)=C(Br)Br,,0
+19150,CMNPD19151,N=c1[nH]cc([C@H]2[C@H](CNC(=O)c3cc(Br)c(Br)[nH]3)[C@H](/C=C3\NC(N)=N\C3=N/CCS(=O)(=O)O)CN2C(=O)c2cc(Br)c(Br)[nH]2)[nH]1,antibacterial | antifungal,1
+187,CMNPD188,CC1=CCC[C@H]2[C@](C)(Cc3cc(O)ccc3O)[C@@H](C)CC[C@]12C,inhibit human immunodeficiency virus (HIV) in vitro,0
+578,CMNPD579,C=C1CC[C@@H](OC(C)=O)[C@@]2(C)C[C@@H](O)C3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+5666,CMNPD5667,CCCC(=O)N/C=C\C=C\C[C@@H]1OC(=O)/C=C(\C)[C@H](C)C[C@H]2O[C@H]2[C@@H]2CC[C@H]3O[C@@]4(CC[C@]3(C)O2)O[C@@H](CC(=O)[C@@H](C)CC1=O)C[C@@H]4C,antifungal | cytotoxic,1
+210,CMNPD211,C=C(C)C1CC[C@@]2(C)[C@H](O)CCC(=C)[C@@H]2C1,,0
+8185,CMNPD8186,C/C=C1/NC(=O)[C@@H]2Cc3ccc(O)c(c3)-c3nc[nH]c3C[C@H](NC(=O)[C@@H](CCC(N)=O)NC(=O)CNC(=O)[C@@H]([C@@H](O)CC(N)=O)NC1=O)C(=O)N[C@@H](C)[C@H](NC(=O)/C(=C\C)NC(=O)[C@@H](O)[C@@H](/C=C/C=C/CCCCCCCC)O[C@H]1OC[C@@H](O)[C@H](O)[C@@H]1O)C(=O)N[C@H]([C@@H](C)O)C(=O)N2,antifungal | cytotoxic,1
+620,CMNPD621,C#C/C=C/C[C@@H](Cl)[C@H]1C/C=C\C[C@@H](Br)[C@@H](CC)O1,,0
+156,CMNPD157,CC1CCCC(C)(C)/C1=C/Cc1ccoc1,,0
+5667,CMNPD5668,CCCC(=O)N/C=C\C=C\C[C@@H]1OC(=O)/C=C(\C)[C@@](C)(O)[C@H](OC(C)=O)[C@H]2O[C@H]2[C@@H]2CC[C@H]3O[C@@]4(CC[C@]3(C)O2)O[C@@H](CC(=O)[C@@H](C)CC1=O)C[C@@H]4C,antifungal | cytotoxic,1
+3789,CMNPD3790,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(I)c2)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+14953,CMNPD14954,CC1=C2Cc3cc(ccc3O)C(=O)OC(C)(C)[C@H](Br)CC[C@](C)(O)[C@H](Br)CC[C@]2(C)[C@@H](Br)CC1,antibacterial | antifungal,1
+601,CMNPD602,C#C/C=C\C/C=C\C/C=C\C/C=C\CC,,0
+383,CMNPD384,CCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,,0
+529,CMNPD530,C=C(C(O)/C=C/C(C)(C)O)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+4276,CMNPD4277,CC(C)=CCC/C(C)=C/CCC(C)/C=C/C(=O)NC[C@@H]1CC[N@+]2(C)CCCC[C@H]12,antifungal,1
+225,CMNPD226,C/C1=C\CC[C@@H](C)/C=C/[C@@]2(C)CC[C@@H](C(C)(C)O)[C@@H]2[C@@H](O)C1,,0
+166,CMNPD167,CC1=C(O)/C(=C/C(C)CC/C=C(\C)CCCc2coc(Cc3ccoc3)c2)OC1=O,,0
+288,CMNPD289,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3C[C@@H](O)C(O)(O)[C@]23N1,,0
+10103,CMNPD10104,CC(C)CCCCCCCCCCCCC(=O)OCC(O)COP(=O)(O)O[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@@H]1O,antifungal agent,1
+7354,CMNPD7355,CCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+22379,CMNPD22380,CC1=C(C)[C@@](C)(c2ccc(C=O)cc2)CC1,antibacterial | antifungal | antitumour,1
+70,CMNPD71,C=C1C[C@](C)(Cl)[C@H](Br)C[C@@H]1/C=C/Cl,,0
+15713,CMNPD15714,Cc1cc(O)cc(Oc2cc(C)c3c(c2)OC(C(C)(C)O)C3)c1,inhibit growth of A549 cells | moderate antibacterial | antifungal,1
+7515,CMNPD7516,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C(C)C)NC(=O)[C@@H](Cc2ccc(O)c(I)c2)N(C)C(=O)CNC(=O)[C@@H](C)C1,antifungal,1
+455,CMNPD456,CC(=O)CCC/C(C)=C/CC/C(C)=C/CO,,0
+319,CMNPD320,CCCCCCC[C@@H](C/C=C/CCC(=O)O)OC,,0
+98,CMNPD99,C=C1C[C@H](O)[C@H](Br)C(C)(C)[C@@]12CCC(C)=C(Cl)C2,,0
+337,CMNPD338,C=CC[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](CCCCC)OC)OC)OC)OC)OC)OC)OC)OC)OC)OC,,0
+14746,CMNPD14747,COC1OC[C@]2(C)c3c(ccc(C)c31)C(C)(C)[C@H]2O,modest growth inhibition of alga | antibacterial | antifungal,1
+639,CMNPD640,C#C/C=C\C[C@H]1O[C@@H](C(Br)C/C=C/CC)C[C@H]1OC(C)=O,,0
+534,CMNPD535,C=C(C(O)C(O)/C=C(/C)COC(C)=O)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+599,CMNPD600,CCC(=O)c1oc(Br)c(Br)c(=O)c1Br,,0
+6681,CMNPD6682,C#CC(O)/C=C/CCCCCC#CC/C=C\CCCCCCCCCCC/C=C\C#CC(=O)O,antifungal,1
+342,CMNPD343,COc1cc(Br)c(-n2cc(Br)c3cc(Br)ccc32)c2c(Br)c[nH]c12,,0
+14719,CMNPD14720,C/C=C/CCCCC(=O)[C@H](C)C(=O)N1CCC[C@@H]1CO,weak antifungal activity against Cryptococcus neoformans | antibacterial activity against Micrococcus luteus,1
+131,CMNPD132,CC(=O)OC(C)(C)[C@H]1C/C=C(\C)CCC2OC2(C)CC/C=C(\C)CC1,,0
+50,CMNPD51,C[C@@](Cl)(/C=C/Br)[C@@H](Cl)/C=C/C(=C\Cl)C(Cl)Cl,,0
+561,CMNPD562,C=C(C)[C@H]1CC[C@@]2(C)C[C@@H]3O[C@@]3(C)CC/C=C(\C)CC[C@H]12,antimicrobial,0
+4630,CMNPD4631,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8C(=O)C[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](CO)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+23114,CMNPD23115,C=C(C)CCC[C@](C)(O)[C@H]1C(=O)C[C@@]2(C)[C@@H]3CC[C@H]4C(C)(C)[C@@H](O[C@@H]5OC[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)[C@H](O)[C@H]5O[C@@H]5O[C@H](C)[C@@H](O[C@@H]6OC[C@@H](O)[C@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O)[C@H]7O)[C@H]6O)[C@H](O)[C@H]5O)CC[C@]4(C)C3=CC[C@]12C,antifungal,1
+23157,CMNPD23158,C[C@@H](O)CCC/C=C/C=C/[C@H](O)C[C@@H](O)C/C=C\C=C\C(=O)O,antibacterial | antifungal,1
+267,CMNPD268,CCCSC1(SCCC)C(Br)=CC(O)(CC(N)=O)C=C1Br,,0
+486,CMNPD487,C=C1C=C2[C@H](C(C)C)CC[C@@H](C)[C@@H]2CC1,,0
+62,CMNPD63,CC(=O)OC[C@]1(C)C[C@@](Br)(CCl)[C@H](Cl)C[C@@H]1Cl,,0
+371,CMNPD372,CC1=CCC[C@]23C[C@]24CC[C@]2(C)[C@@H]([C@H](C)CC(O)CC(C)C)CC[C@@]2(C)C4CC[C@@H]13,ichthyotoxicity,0
+234,CMNPD235,COc1cc(C)c(O)c(C[C@@H]2[C@H]3CCC(=C(C)C)[C@@H](CCC(=O)O)[C@@H]3CC[C@H]2C)c1,,0
+423,CMNPD424,CC(C)=CCCC(C)(O)/C=C/C/C(C)=C/CC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+617,CMNPD618,C#C/C=C\C[C@H]1O[C@@H]([C@H](Br)CC)C/C=C\C[C@H]1Cl,,0
+284,CMNPD285,C=C1CC[C@@H](Br)C(C)(C)[C@H]1Cc1cc(O)c(Br)cc1OC,,0
+585,CMNPD586,CCCCC1C=CCC=CC1,,0
+12606,CMNPD12607,CC(CCCCCC/C=C/C=C/c1ccccc1)C[C@]1(C)C[C@@](C)(CC(=O)O)OO1,antifungal activity,1
+419,CMNPD420,CC(C)=CCC/C(C=O)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O,,0
+509,CMNPD510,C=C1CC[C@H]([C@@H](C)CCC=C(C)C)[C@H]2C(C=O)=CC[C@@H]1C2OC(C)=O,,0
+385,CMNPD386,C=C1CC[C@@H](Br)C(C)(C)C1Cc1cc(O)c(Br)cc1O,,0
+4097,CMNPD4098,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCCC(C)(C)OC(C)=O)[C@H]8CCC9C7CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal,1
+15931,CMNPD15932,CC(C)C[C@H](NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@H](O)[C@H](O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@H](C)[C@H](O)[C@H](C)CC(C)C)[C@@H](C)[C@@H](C)C(N)=O)[C@@H](C)O)[C@@H](C)O)C(=O)N(C)[C@@H](CCC(N)=O)C(=O)O,antifungal,1
+63,CMNPD64,C[C@@]1(Cl)C[C@@](C)(Br)[C@H](/C=C/Cl)C[C@@H]1Cl,,0
+211,CMNPD212,C=C(C)C1CC[C@@]2(C)[C@H](O)CC=C(C)[C@@H]2C1,,0
+176,CMNPD177,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=CC1=O,,0
+533,CMNPD534,C=C(CCC=C(C)C)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+448,CMNPD449,C=CC(C)(C)c1ccc(O)c(CC=C(C)C)c1,,0
+289,CMNPD290,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3C[C@H](O)C(O)(O)[C@]23N1,,0
+503,CMNPD504,CC(=O)O[C@H]1C[C@H](C)[C@H]2C[C@H]2C2=C(COC2=O)[C@H]1[C@@H](C)CCC=C(C)C,,0
+11819,CMNPD11820,C=CCCCCCCC[C@@H](O)[C@H](C)N,antifungal,1
+283,CMNPD284,C=C1CC[C@@H](Br)C(C)(C)[C@H]1Cc1cc(O)c(Br)cc1O,,0
+255,CMNPD256,OCc1cc(O)c(O)c(Br)c1Br,antibiotic,0
+270,CMNPD271,COC1=C(Br)C2OC(=O)C[C@@]2(O)C=C1Br,,0
+19151,CMNPD19152,N=c1[nH]cc([C@@H](c2[nH]c(=N)[nH]c2/C=C/CNC(=O)c2cc(Br)c(Br)[nH]2)[C@H]2CN=C(c3cc(Br)c(Br)[nH]3)O2)[nH]1,antibacterial | antifungal,1
+30,CMNPD31,C#C/C=C\C[C@H]1OO/C(=C(/Br)CC)C/C=C\C[C@H]1Cl,,0
+13198,CMNPD13199,C=C[C@@H]1O[C@]1(C)CC(C)/C(C)=C/C=C(C)\C=C(OC)\C(=C\C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+12050,CMNPD12051,CC(C)=C1CC[N+]([O-])=C1CC(C)[C@H]1CCC2C3=CCC4[C@@H](O)[C@@H](N(C)C)CC[C@]4(C)C3CC[C@@]21C,moderate cytotoxicity | antifungal | nucleic acid-cleaving properties,1
+174,CMNPD175,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=CC1=O,,0
+8248,CMNPD8249,C[N+]1=CNC[C@]1(C)CC[C@@H](NC(=O)c1cc(Br)c[nH]1)C(=O)[O-],mildly antifungal,1
+175,CMNPD176,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=CC1=O,,0
+161,CMNPD162,CC(=O)O[C@H]1C[C@@H]2[C@@]3(C)CCCC(C)(C)[C@@H]3CC[C@@]2(C)[C@@H]2CC=C(C=O)[C@H](C=O)[C@@]12C,,0
+510,CMNPD511,C=C1C[C@H](C(C)=O)[C@H]([C@@H](C)CCC=C(C)C)[C@H]2C(C=O)=CC[C@@H]1C2OC(C)=O,,0
+395,CMNPD396,CCCCCCCCCCCCCCCC(=O)c1c(O)cc(O)cc1O,,0
+282,CMNPD283,COc1cc(Br)c(O)cc1C/C=C(\C)CCC=C(C)C,,0
+608,CMNPD609,C#C/C=C/C[C@H]1O/C(=C(/Br)CC)[C@H](O)/C=C\C[C@H]1Cl,,0
+530,CMNPD531,C=C(C(O)/C=C/C(C)(O)CO)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+13726,CMNPD13727,CC(=O)O[C@@H]1C[C@H]2[C@@H]([C@H](O)C=C3C[C@@H](O)CC[C@@]32CO)[C@@H]2CC[C@H]([C@H](C)[C@H]3C[C@]3(C)[C@H](C)C(C)C)[C@@]12C,weak antifungal activity,1
+8823,CMNPD8824,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)C[C@@]2(C)CCC[C@@]2(C)C(=O)/C=C/C(C)(C)O)c1,antifungal and antibacterial,1
+430,CMNPD431,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)/C=C(\C)CCC[C@@H](C)[C@H](O)CC=C(C)C)c1,,0
+499,CMNPD500,CC(C)=CCC[C@H](C)[C@H]1CC/C(C)=C/CCc2cocc21,,0
+500,CMNPD501,CC(C)=CCC[C@H](C)[C@H]1CC/C(C)=C\CCc2cocc21,,0
+22374,CMNPD22375,C=C1CC[C@@H](Br)C(C)(C)[C@@]12C=C[C@@](C)(O)CC2,antifungal,1
+439,CMNPD440,C/C(=C\CC/C(C)=C/Cc1cc(O)cc(C)c1O)CC/C=C(\C)CCC1OC1(C)C,,0
+5668,CMNPD5669,CCCC(=O)N/C=C\C=C\C[C@@H]1OC(=O)/C=C(\C)[C@@](C)(O)[C@H](O)[C@H]2O[C@H]2[C@@H]2CC[C@H]3O[C@@]4(CC[C@]3(C)O2)O[C@@H](CC(=O)[C@@H](C)CC1=O)C[C@@H]4C,antifungal | cytotoxic,1
+567,CMNPD568,C=C1CCC[C@@]2(C)C[C@@H](OC(C)=O)C3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+88,CMNPD89,Cc1cc2c(cc1Br)[C@]1(C)CC[C@H](C)[C@]1(C)O2,,0
+6021,CMNPD6022,O=C(O)CCCC#CC#CCCCCCCC#C/C=C\Br,antifungal,1
+542,CMNPD543,CC(C)=CC/C=C(/C)[C@@H]1CC[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@]12O,,0
+359,CMNPD360,CC(=O)O/C=C/C(=C/OC(C)=O)CC/C=C(\C)CC/C=C(\C)CCCC(C)C,,0
+168,CMNPD169,C/C(=C\CCC(C)CC(=O)O)CCCc1coc(Cc2ccoc2)c1,,0
+353,CMNPD354,CCCCCCCCCCCCCC(=O)OCC/C(=C/OC(C)=O)C(C/C=C(\C)C#CC=C(C)C)OC(C)=O,,0
+148,CMNPD149,CC1(C)CCC=C(/C=C/Cc2ccoc2)C1,,0
+541,CMNPD542,CC(C)=CC/C=C(/C)[C@@H]1CC[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+109,CMNPD110,CC1(C)O[C@](C)([C@H]2CC[C@@](C)(Br)[C@H](Cl)C2)[C@H](O)C[C@H]1Br,,0
+212,CMNPD213,C=C(C)C1CC[C@@]2(C)C(=O)CCC(=C)[C@@H]2C1,,0
+426,CMNPD427,COc1cc(C)c(O)c(C/C=C(\C)CC(O)/C=C(\C)CCCC(C)C(=O)CC=C(C)C)c1,,0
+7356,CMNPD7357,CCCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCC(C)C,cytotoxic | antifungal,1
+48,CMNPD49,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/C(=C)C(Cl)Cl,,0
+243,CMNPD244,OCc1cc(Br)c(O)c(Br)c1,,0
+5657,CMNPD5658,CC(C)C(C)/C=C/[C@@H](C)[C@H]1CCC2C3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21C,antifungal | antithrombin,1
+921,CMNPD922,CC/C=C/C(CC)C[C@]1(C)C[C@H](CC)[C@H](CC(=O)O)OO1,antifungal,1
+146,CMNPD147,CC(C)=CCC/C(C)=C/CCc1ccoc1,,0
+15610,CMNPD15611,CC(C)[C@H](/C=C/[C@@H](C)[C@H]1C[C@@H](O)[C@@H]2[C@]1(C)CC[C@@H]1[C@@]3(C)CC[C@H](OS(=O)(=O)O)C[C@@H]3[C@@H](O)C[C@]12O)O[C@@H]1OC[C@@H](O)[C@H](O)[C@H]1O,modestly antifungal,1
+14743,CMNPD14744,CO[C@H]1OC[C@@]2(C)[C@H](O)C(C)(C)[C@@H]3[C@@H](O)C[C@@H](C)[C@H]1[C@@]32O,modest growth inhibition of alga | antibacterial | antifungal,1
+472,CMNPD473,C=C(C)[C@@H](O)CC/C(C)=C/CC/C(C)=C/CCC(C)=O,,0
+23113,CMNPD23114,C=C(C)CCC[C@](C)(O)[C@H]1C(=O)C[C@@]2(C)[C@@H]3CC[C@H]4C(C)(C)[C@@H](O[C@@H]5OC[C@@H](O[C@@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@H]6O)[C@H](O)[C@H]5O[C@@H]5O[C@H](C)[C@@H](O[C@@H]6OC[C@@H](O)[C@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]7O)[C@H]6O)[C@H](O)[C@H]5O)CC[C@]4(C)C3=CC[C@]12C,antifungal,1
+435,CMNPD436,CC(C)=CCC/C(C)=C/C(O)C(O)/C(C)=C/CC[C@]1(C)CCc2cc(O)cc(C)c2O1,,0
+335,CMNPD336,C=CC[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](CCCCC)OC)OC)OC)OC)OC)OC)OC)OC,,0
+11107,CMNPD11108,CC(/C=C/c1ccccc1)=C\C=C\[C@H](C)[C@H](O)[C@@H](O)[C@H]1NC(=O)C[C@@H](O)CNC(=O)CNC(=O)/C(=C/c2c[nH]c3ccccc23)NC(=O)CN(C)C(=O)C[C@]2(O)NC(=O)C[C@H]2NC(=O)[C@H]1O,cytotoxic | antifungal,1
+421,CMNPD422,CC(C)=CCC/C(C)=C/C(O)C(O)/C(C)=C/CC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+515,CMNPD516,CC(C)=CCC[C@@H](C)[C@@H]1CC/C(C)=C/C=C\C(C)=C\[C@@H]1O,,0
+54,CMNPD55,C[C@@](Cl)(/C=C/Br)[C@H](Cl)/C=C/C(=C/Cl)C(Cl)Cl,,0
+264,CMNPD265,COC1(OC)C(Br)=CC(O)(CC(N)=O)C=C1Br,,0
+22457,CMNPD22458,CCCCC(C)CC(O)(/C=C(/CC)[C@@H](O)CC(=O)O)CC,antifungal,1
+514,CMNPD515,CC(C)=CCC[C@@H](C)[C@@H]1CC[C@@]2(C)C=COC=C(C)C2[C@@H]1O,,0
+367,CMNPD368,CC(C)=CCC/C(C)=C/[C@@H]1C[C@]1(C=O)[C@@H]1CC=C(C=O)[C@H]1C=O,inhibition of the growth of marine bacteria and fungi | inhibition of cell division in fertilized sea-urchin eggs | inhibition of the motility of sea-urchin sperm | ichthyotoxicity | inhibition of feeding by fish,0
+370,CMNPD371,CC(C)=CC(=O)C[C@@H](C)[C@H]1CC[C@@]2(C)C3CC[C@H]4C(C)=CCC[C@@]45C[C@@]35CC[C@]12C,ichthyotoxicity,0
+56,CMNPD57,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/C(=C\Cl)COC(C)=O,,0
+387,CMNPD388,OCc1cc(Br)c(O)c(O)c1Cc1ccc(O)c(Br)c1,antibacterial | toxic,0
+571,CMNPD572,C=C1CCC[C@@]2(C)CC=C3C(C(C)C)=CC[C@]3(C)C[C@]12O,,0
+78,CMNPD79,C=C(C)/C(=C/Br)CCC=C(C)C,,0
+244,CMNPD245,O=C1C(Br)=CC2(C=C1Br)Cc1cc(CO)cc(Br)c1O2,antifungal,1
+5321,CMNPD5322,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/C(C)CO)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](CC(O)CC8CC(C)C(C(C)CC(=O)O)O8)[C@@](C)(O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+273,CMNPD274,COc1c(Br)cc(CC(N)=O)cc1Br,,0
+24,CMNPD25,C#C/C=C/CC1O[C@@H]2C[C@H]1O[C@H](CC)[C@@H](Br)C[C@H]2O,,0
+135,CMNPD136,CC1=C2CC/C(C)=C/CC[C@]3(C)O[C@H]3CC/C(C)=C/[C@@H]2OC1=O,,0
+236,CMNPD237,Oc1c(Br)cc(Br)cc1-c1[nH]c(Br)c(Br)c1Br,antibiotic | cytotoxic | antimicrobial,0
+467,CMNPD468,CC(=O)CC/C=C(\C)CC/C=C(\C)CCC1OC1(C)C,,0
+406,CMNPD407,CCCCCCCCCCCC1Cc2cccc(O)c2C(=O)O1,anti-inflammatory,0
+4666,CMNPD4667,C=C/C=C/CC/C=C/C=C/C=C/CC/C=C/C(O)C(O)C1OC(C(O)C(O)C(=C)CCC(O)C2CC(O)C(O)C(C(O)C(O)/C=C(\C)CCC(O)CC(O)C(O)C(C)CC(O)C(O)C(C)CCC(O)CCCC(O)CCCC(O)CCCC(O)/C=C/CC(CO)OS(=O)(=O)O)O2)CC(O)C1O,antifungal,1
+528,CMNPD529,C=C(CC(O)C=C(C)C)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+13200,CMNPD13201,C=C[C@@H]1O[C@@]1(C)CC(C)/C(C)=C/C=C(C)\C=C(OC)/C(=C\C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+345,CMNPD346,CC(=O)O/C=C(/C=C/OC(C)=O)[C@H](C/C=C(\C)C#CC=C(C)C)OC(C)=O,antimicrobial | toxic to marine ciliates,0
+155,CMNPD156,CC1=CCC[C@@H](C)[C@@]1(C)CCc1ccoc1,,0
+22714,CMNPD22715,C=C[C@@](C)(CC/C=C(\C)CC[C@]1(C)C(CO)=CCC[C@H]1C)S(=O)(=O)CCNC(=N)N,antifungal,1
+14792,CMNPD14793,C=C/C=C/CC/C=C/C=C/C=C/CC/C=C/C(O)C(O)C1OC(C(O)C(O)C(=C)CCC(O)C2CC(O)C(O)C(C(O)C(O)/C=C(\C)CCC(O)CC(O)C(O)C(C)C(O)CCCC(O)CCCC(O)CCCC(O)/C=C/CC(O)/C=C/CC(O)CO)O2)CC(O)C1O,"haemolytic against mouse erythrocytes, cytotoxic against P388 cells | antifungal towards Aspergillus niger to varying degrees",1
+10310,CMNPD10311,C=C1C[C@](O)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](C[C@H](O)CCC/C=C/C=C/C(=O)O)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,antifungal | cytotoxic,1
+287,CMNPD288,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3CCC(O)(O)[C@]23N1,toxic,0
+219,CMNPD220,C=C1[C@@H](O)C[C@@H]([C@H](C)CCC=C(C)C)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+24269,CMNPD24270,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@@H]7CC[C@]89C(=O)O[C@@](C)(/C=C/C=C(C)C)[C@H]8[C@@H](OC(C)=O)C[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)OC[C@H]2O)O[C@H](CO)[C@H]1O,antifungal | haemolytic | cytotoxic,1
+7360,CMNPD7361,CCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+397,CMNPD398,CCCCCCCCCCCCCCCc1cc(=O)c2c(O)cc(O)cc2o1,,0
+12390,CMNPD12391,CCC(C)[C@@H]1NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)CC)NC(=O)[C@H](CC(C)C)NC1=O,"moderate antifungal activity against C. albicans, T. rubrum and four crop-threatening fungi | moderate activity against the human gastric tumour BGC cell line",1
+313,CMNPD314,COC1=CC(=O)N(C(=O)/C=C2\CC(O)(CO)C(=O)N2C)C1,,0
+17663,CMNPD17664,CCC[C@H]1C[C@H]2O[C@H]2/C=C/[C@@H](O)CC(=O)O1,significant antibacterial | antifungal,1
+2745,CMNPD2746,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,antifungal,1
+431,CMNPD432,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)/C=C(/C)CCC[C@@H](C)[C@@H](O)CC=C(C)C)c1,,0
+29,CMNPD30,C#C/C=C/CC12OC(C(Br)CC)CC1(Cl)C=CC2O,,0
+16991,CMNPD16992,O=C1NCCCOc2c(O)cc(c(Br)c2Br)C/C2=N\O[C@@H]3[C@H](Br)[C@@]4(C=C[C@@]3(O)C/C(=N\O)C(=O)NC[C@@H](O)[C@@H](O)[C@H](O)CNC2=O)Oc2cc(cc(Br)c2O4)C/C1=N\O,"antifungal to C. albicans and Erg6 mutant Saccharomyces cerevisiae, but not wild S. cerevisiae",1
+2480,CMNPD2481,COC(CC1OC(=O)CC(OC(N)=O)CC(C)CC(O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)C(C)CCC(=O)C(C)C(OC)C(C)/C=C/N(C)C=O,antifungal,1
+83,CMNPD84,CC1(C)[C@H](Cl)C[C@@H]2OCC=C2[C@@H]1Br,,0
+165,CMNPD166,CC1=C(O)/C(=C/C(C)CCC/C(C)=C/CCc2coc(Cc3ccoc3)c2)OC1=O,,0
+22406,CMNPD22407,O=C(NCc1c(Br)c(O)c(O)c(Br)c1Br)NCc1c(Br)c(O)c(O)c(Br)c1Br,antifungal activity,1
+5661,CMNPD5662,CC(CC[C@@H](C)[C@H]1C[C@H](O)C2C3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21C)C(C)(C)C,antifungal | antithrombin,1
+14752,CMNPD14753,C[C@@H]1C[C@H](O)C2=C3C1=COC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+390,CMNPD391,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)c1c(O)cc(O)cc1O,,0
+525,CMNPD526,CC(C)=CCC[C@@H](C)[C@@H]1CC[C@](C)(O)[C@@H]2CC=C(C)[C@H]2[C@@H]1O,antimicrobial,0
+92,CMNPD93,Cc1ccc([C@]2(C)CC[C@H](Br)C2(C)C)cc1,,0
+548,CMNPD549,CC(C)=CC/C=C(/C)[C@@H]1CC=C(C=O)[C@@H]1[C@H]1C(=O)C=C[C@H]1C,,0
+13201,CMNPD13202,C=C[C@@H]1O[C@@]1(C)CC(C)/C(C)=C/C=C(C)/C=C(OC)\C(=C/C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+180,CMNPD181,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(O)C=CC1O,,0
+17074,CMNPD17075,CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]1[C@@]23C[C@@H](O)[C@@]2(O)C[C@@H](OS(=O)(=O)O)CC[C@]12CO3,cytotoxic | antifungal to amphotericin-B-resistant Candida albicans,1
+10312,CMNPD10313,C=C1C[C@](O)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](C[C@H](O)CCC/C=C/C=C/C=C/C(=O)O)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,antifungal | cytotoxic,1
+68,CMNPD69,C[C@]1(Cl)C[C@@](C)(/C=C/Cl)[C@H](Br)C[C@H]1Cl,,0
+16796,CMNPD16797,CC1(C)[C@@H](Br)CC[C@](C)(O)[C@H]1C[C@@]1(C)[C@@H]2Cc3cc(C(=O)O)ccc3OCC2=CC[C@@H]1Br,modest antibacterial | antimalarial | antitumour | antifungal,1
+7544,CMNPD7545,CC(C)[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1ccc(Br)cc1)NC(=O)[C@@H](C)NC=O)C(=O)C[C@H](C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](CS(=O)(=O)O)C(=O)N[C@@H]1C(=O)N(C)[C@@H](CCC(N)=O)C(=O)N[C@H](Cc2ccccc2)C(=O)NC([C@@H](C)O)C(=O)N[C@@H](CC(N)=O)C(=O)N(C)CC(=O)O[C@@H]1C)C(C)(C)C,antifungal | cytotoxic,1
+501,CMNPD502,CC(=O)O[C@H]1C(=O)C2=C1CC/C=C(\C)CC[C@H]2[C@@H](C)CCC=C(C)C,,0
+138,CMNPD139,C=C(C)[C@H]1CCC2=C[C@@H](C[C@]3(C)O[C@H]3c3cc(C(=O)OC)c(o3)C1)OC2=O,,0
+487,CMNPD488,CC(C)[C@@H]1CC[C@]2(C)O[C@@]3(C)CC[C@H]2[C@H]1C3,,0
+17,CMNPD18,CCC[C@@H](OC(C)=O)C1=C(Br)/C(=C/Br)OC1=O,antimicrobial | antifungal,1
+11106,CMNPD11107,CC(/C=C/c1ccccc1)=C\C=C\[C@H](C)[C@H](O)[C@@H](O)[C@H]1NC(=O)C[C@@H](O)CNC(=O)CNC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)CN(C)C(=O)C[C@]2(O)NC(=O)C[C@H]2NC(=O)[C@H]1O,cytotoxic | antifungal,1
+67,CMNPD68,CC1=C(/C=C/Cl)C[C@H](Br)[C@](C)(Cl)C1,,0
+2301,CMNPD2302,C/C1=C\[C@H](C)C[C@H](C)OC(=O)C[C@H](c2ccc(O)cc2)NC(=O)[C@@H](Cc2c(Br)[nH]c3ccccc23)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,insecticidal | antifungal,1
+201,CMNPD202,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]1[C@@H](CCC2(C)N=C=S)C1(C)C,,0
+12051,CMNPD12052,CC(C)=C1CCN=C1CC(C)[C@H]1CCC2C3=CCC4C(=O)[C@@H](N(C)C)CC[C@]4(C)C3CC[C@@]21C,moderate cytotoxicity | antifungal | nucleic acid-cleaving properties,1
+154,CMNPD155,CC1CCCC2(C)c3occc3CCC12C,,0
+2435,CMNPD2436,Cc1cc(Br)c([C@]2(C)CC[C@@H]3C[C@@]32C)cc1O,ichthyotoxic | antibacterial | antifungal,1
+468,CMNPD469,C=C1CC[C@H](O)C(C)(C)[C@@H]1CC/C(C)=C/CCC(C)=O,,0
+41,CMNPD42,CC(=O)O/C(C)=C/CC=C(C)C,,0
+122,CMNPD123,C/C(=C/CO)CC[C@H]1[C@]2(C)CC[C@@H](Br)C(C)(C)[C@H]2CC[C@@]1(C)O,,0
+10330,CMNPD10331,CO[C@H]1C/C=C/c2nc(co2)-c2nc(co2)-c2nc(co2)[C@@H](OC)[C@@H](C)C(=O)/C=C/C[C@H](O)CC(=O)O[C@@H](C[C@H](OC)[C@@H](C)CCC(=O)[C@H](C)[C@H](OC(C)=O)[C@H](C)/C=C/N(C)C=O)[C@@H]1C,antifungal | cytotoxic,1
+6778,CMNPD6779,CC(/C=C/c1ccccc1)=C\[C@H](O)[C@@H]1CC(=O)N[C@@H](CO)C(=O)N[C@@H]2Cn3cc([n+]([C@H]4OC[C@@H](O)[C@@H](O)[C@@H]4O)c3)C[C@H](NC(=O)CCC[C@@H](C(=O)[O-])NC(=O)[C@H](O)CNC(=O)[C@H]([C@@H](C)c3ccc(Br)cc3)NC(=O)[C@H]([C@@H](O)C(N)=O)NC(=O)[C@H](CC(N)=O)NC2=O)C(=O)N[C@@H]([C@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc2ccccc2)C(=O)N1,antifungal,1
+221,CMNPD222,CC(C)=CCC[C@H](C)[C@@H]1CC[C@@]2(C)C=CC=C(C)[C@H]2[C@@H]1O,,0
+115,CMNPD116,CC1=CCC2(CC1)C(C)=CC[C@@H](Br)C2(C)C,,0
+919,CMNPD920,CC(/C=C/c1ccccc1)C/C=C/C(C)CC1(C)CC(C)(CC(=O)O)OO1,antifungal,1
+6741,CMNPD6742,c1ccc2c(-c3cnc(-c4c[nH]c5ccccc45)[nH]3)c[nH]c2c1,antifungal,1
+450,CMNPD451,CC1(C)CCC[C@]2(C)[C@@H]1CC[C@](C)(O)[C@H]2Cc1cc(O)ccc1O,antimicrobial,0
+2437,CMNPD2438,Cc1cc(Br)c([C@]2(C)CC=CC2(C)C)cc1O,ichthyotoxic | antibacterial | antifungal,1
+580,CMNPD581,CC1=C(CC/C(C)=C/CCc2ccoc2)C(C(C)C)CC1=O,,0
+4098,CMNPD4099,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCC=C(C)C)C8CCC9C7CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal,1
+629,CMNPD630,C#C/C=C/[C@@H]1O[C@H]2C[C@@H]1O[C@H](CC)[C@@H](Br)C[C@@H]2Cl,,0
+577,CMNPD578,C=C1[C@@H](O)CC[C@@]2(C)CC[C@]3(O)O[C@@]12C[C@@]3(C)CCC(=O)C(C)C,,0
+638,CMNPD639,C#C/C=C/C[C@H]1O[C@@H](C(Br)C/C=C/CC)C[C@H]1OC(C)=O,,0
+521,CMNPD522,C=C1CC[C@@H]([C@H](C)CCC=C(C)C)C[C@@H]2C(C)=CC[C@@H]12,,0
+344,CMNPD345,CC(=O)O/C=C/C(=C/OC(C)=O)CC/C=C(\C)CCC=C(C)C,,0
+101,CMNPD102,C=C1CC[C@H](Br)C(C)(C)[C@]12CC[C@](C)(Cl)[C@@H](Br)C2,,0
+11878,CMNPD11879,CC/C=C/C=C/C=C/CCCCCCCC[C@@]1(C)C[C@](C)(CC(=O)O)OO1,moderately antifungal,1
+459,CMNPD460,CC(=O)CC/C=C(\C)CCC/C(C)=C/C(=O)C=C(C)C,,0
+20,CMNPD21,CCC[C@@H](OC(C)=O)C1=C(Br)[C@@](CBr)(OC)OC1=O,antimicrobial | antifungal,1
+398,CMNPD399,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CC/C=C1\CC(=O)c2c(O)cc(O)cc2O1,,0
+616,CMNPD617,C#C/C=C/C[C@H]1O[C@@H]([C@H](Br)CC)C/C=C\C[C@H]1Cl,,0
+6,CMNPD7,CN(C)C1CSSC1,insecticidal | neurotoxic,0
+320,CMNPD321,C=C(CNC)C/C(=C\C(=O)N1CC(OC)=CC1=O)OC,,0
+224,CMNPD225,CC(=O)O[C@H]1C/C(C)=C/CC[C@@H](C)/C=C/[C@@]2(C)CC[C@@H](C(C)(C)O)[C@H]12,,0
+205,CMNPD206,[C-]#[N+][C@]1(C)CC[C@H](C(C)C)[C@@H]2C=C(C)CC[C@@H]21,,0
+13185,CMNPD13186,CCC(O)CC1CCC(C(C)C(=O)OC(C)CC2CCC(C(C)C(=O)O)O2)O1,antibacterial | antifungal,1
+256,CMNPD257,O=S(=O)(O)Oc1cc(CO)c(Br)c(Br)c1OS(=O)(=O)O,,0
+310,CMNPD311,COC1=CC(=O)N(C(=O)/C=C2\C=C(CO)C(=O)N2C)C1,,0
+14753,CMNPD14754,C[C@@H]1CC=C2[C@@H]3[C@H]1CC(O)[C@@]3(C=O)CC2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+605,CMNPD606,C#C/C=C\C[C@H]1O/C(=C(/Br)CC)C[C@H]2O[C@H]2C[C@H]1Cl,,0
+436,CMNPD437,Cc1c(O)cc2c(c1C)O[C@](C)(CCCC(C)CCCC(C)CCCC(C)C)CC2,,0
+6205,CMNPD6206,CC1=CCC[C@@H](C)[C@]1(C)CC/C(C)=C/C(=O)NC1CCCNC1=O,antifungal,1
+71,CMNPD72,C/C(=C/Cl)[C@H](Cl)C/C(Cl)=C(/C)[C@H](O)CBr,,0
+14793,CMNPD14794,C=CCC/C=C/C=C/C=C/CC/C=C/C(O)C(O)C1OC(C(O)C(O)C(=C)CCC(O)C2CC(O)C(O)C(C(O)C(O)/C=C(\C)CCC(O)CC(O)C(O)C(C)CC(O)C(CO)CCC(O)CCCC(O)/C=C/CC(O)/C=C/CC(O)CO)O2)CC(O)C1O,"haemolytic against mouse erythrocytes, cytotoxic against P388 cells | antifungal towards Aspergillus niger to varying degrees",1
+4908,CMNPD4909,Brc1ccc2c(-c3c[nH]c(-c4c[nH]c5ccccc45)n3)c[nH]c2c1,cytotoxicity | antifungal,1
+36,CMNPD37,C#C/C=C\[C@H]1C2C3CC4O[C@](Br)(C2C4O3)[C@]1(Br)CC,,0
+361,CMNPD362,CC(=O)O/C=C/C(=C/OC(C)=O)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,inhibit the growth of two marine bacteria,0
+13170,CMNPD13171,C=C(C)CCC[C@]1(C)OC(=O)[C@]23CC=C4C(CCC5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](OS(=O)(=O)O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O[C@@H]7O[C@H](COS(=O)(=O)O)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@H]31,cytotoxic | antifungal,1
+18496,CMNPD18497,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(C(=O)CCC(C)C)[C@@]8(O)CC[C@@]9(C)[C@@H]7CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,modest antifungal properties,1
+14748,CMNPD14749,Cc1ccc2c3c1COC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+354,CMNPD355,C=C1CCCC(C)(C)[C@@H]1CCC(/C=C/OC(C)=O)=C\OC(C)=O,,0
+7358,CMNPD7359,CCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+477,CMNPD478,C=C1CCC23[C@@H]([C@@H]12)[C@H](C(C)C)CC[C@H]3C,,0
+7359,CMNPD7360,CCCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+10313,CMNPD10314,C=C1C[C@](O)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](CC(=O)CCCCC/C=C/C=C/C(=O)O)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,antifungal | cytotoxic,1
+552,CMNPD553,CC(=O)OC1C[C@@H](/C(C)=C\CC=C(C)C)[C@@H]([C@H]2C(=O)C=C[C@H]2C)C1CO,,0
+432,CMNPD433,COc1cc(C)c(O)c(C/C=C(\C)CC(O)/C=C(\C)CCCC(C)C(=O)C(O)C=C(C)C)c1,,0
+14203,CMNPD14204,C1=C(c2nccc3c2[nH]c2ccccc23)[C@@H]2CCN3CCCC/C=C\CC[C@]14O[C@@H]1CCC/C=C\[C@H]5C[C@@]2(C3)[C@H]4N51,potent antiinflammatory | antifungal | anti-HIV-1 agent,1
+4287,CMNPD4288,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(Cl)c2)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+57,CMNPD58,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/[C@@](C)(Cl)CBr,,0
+22461,CMNPD22462,CCCCC(CC)C/C(=C\[C@@]1(CC)OC(=O)C[C@@H]1O)CC,antifungal,1
+15611,CMNPD15612,C[C@H](/C=C/[C@@H](C)[C@H]1C[C@@H](O)[C@@H]2[C@]1(C)CC[C@@H]1[C@@]3(C)CC[C@H](O[C@@H]4OC[C@@H](O)[C@H](O)[C@H]4O)C[C@@H]3[C@@H](O)C[C@]12O)[C@H](C)C(=O)NCCS(=O)(=O)O,modestly antifungal,1
+58,CMNPD59,C=C[C@@](C)(Cl)[C@@H](Br)/C=C/[C@@](C)(Cl)CBr,,0
+15933,CMNPD15934,C/C=C(\NC(=O)[C@@H](NC(=O)[C@H](O)[C@H](O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@H](C)[C@H](O)[C@H](C)CC(C)C)[C@@H](C)[C@@H](C)C(N)=O)C(=O)N[C@@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)O)[C@@H](C)O,antifungal,1
+502,CMNPD503,CC(=O)O[C@@H]1C(=O)C2=C1CC/C=C(\C)CC[C@H]2[C@@H](C)CCC=C(C)C,,0
+463,CMNPD464,C/C(=C/C(=O)CC(C)C)CCC/C(C)=C/CCC(C)O,,0
+545,CMNPD546,CC(=O)O[C@@H]1C[C@@H](/C(C)=C\CC=C(C)C)[C@@H]([C@H]2C(=O)C=C[C@H]2C)[C@@H]1C=O,,0
+77,CMNPD78,C=C(C)C(=C)CCC=C(C)C,,0
+200,CMNPD201,[C-]#[N+]C1(C)CC[C@@H]2[C@H]([C@@H]3[C@H](C)CC[C@H]31)C2(C)C,,0
+9,CMNPD10,CCCCCCCC(C/C=C/CCC(=O)N(C)C/C(Cl)=C/[C@@]12O[C@@H]1C[C@H](OC(C)=O)[C@H](C)C2=O)OC,,0
+365,CMNPD366,CC(C)=CCC/C(C)=C/CC/C(C=O)=C\CCc1ccoc1,antimicrobial,0
+476,CMNPD477,CC1=CCC23[C@@H]([C@@H]12)[C@H](C(C)C)CC[C@H]3C,,0
+80,CMNPD81,C=CC(Cl)(CBr)CCC(Br)C(C)(C)Cl,,0
+20059,CMNPD20060,C[C@@H](CCCCc1ccccc1)CCC[C@@H](C)C[C@]1(C)C[C@](C)(CC(=O)O)OO1,antifungal,1
+142,CMNPD143,C=C1C(=O)O[C@H]2[C@H](OC(C)=O)[C@@H](C)CCC/C(C)=C/CC[C@@]3(C)O[C@@H]3C[C@@H]12,,0
+21019,CMNPD21020,COC(=O)c1cc(C)cc2oc3cccc(O)c3c(=O)c12,antifungal,1
+507,CMNPD508,CC(=O)OC1C2(C=O)C(C=O)=CC[C@@]1(C)CCC2[C@H](C)CCC=C(C)C,,0
+16915,CMNPD16916,C1=C/Cc2ccc[n+](c2)CCCCCCCC/C=C/Cc2ccc[n+](c2)CCCCCCCC/1,antibacterial and antifungal (C. albicans),1
+596,CMNPD597,CCCCCC(=O)/C(Br)=C(/Br)I,,0
+538,CMNPD539,C=C(C)[C@@H](O)CCC(=C)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+13417,CMNPD13418,CC#C/C=C\C=C\C[C@@H](O)/C=C(C)/C=C/C=C\C=C(\C)[C@@H](O)C(C)(C)C(N)=O,antifungal,1
+3143,CMNPD3144,C=C1CC(O)C2OC1C(=O)OC(C1(O)OCCC(C)C1C)/C=C\CC(O)C(O)C(=C)C1CCC(O1)C1C=CCC(O1)C1CCC(=C)C3(CC(C)C(=C)C2O3)O1,antifungal,1
+127,CMNPD128,C=C1CCC[C@]2(C)CCC[C@H](C(=C)C)C12,,0
+82,CMNPD83,CC1(C)[C@H](Cl)C[C@@H]2OCC=C2[C@H]1Br,,0
+8726,CMNPD8727,CC(=O)OC(C)(C)CCC[C@]1(C)OC(=O)[C@]23[C@@H](O)C=C4C(CCC5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](OS(=O)(=O)O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@H]31,antifungal,1
+11119,CMNPD11120,COc1ccc(Cc2nc(N)[nH]c2Cc2ccc(OC)cc2)cc1,antifungal | inhibit nitric oxide synthase,1
+5659,CMNPD5660,CC(C)CCC[C@@H](C)[C@H]1CCC2C3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21C,antifungal | antithrombin,1
+23,CMNPD24,C#C/C=C\C[C@@H]1O[C@@H](C(Br)CC)C[C@@H]2O[C@H]1C[C@@H]2Br,,0
+394,CMNPD395,CC/C=C\C/C=C\C=C\[C@H](O)C/C=C\CCCCC(=O)c1c(O)cc(O)cc1O,,0
+147,CMNPD148,CC(/C=C/Cc1ccoc1)=C\C=C\C(C)C,,0
+164,CMNPD165,CC1=C(O)/C(=C/[C@@H](C)CCC[C@H](C)/C=C/C=C(\C)CCCc2ccoc2)OC1=O,,0
+558,CMNPD559,C/C1=C\CC[C@H](C)/C=C/[C@]2(C)CC[C@H](C(C)(C)O)[C@H]2CC1,antimicrobial,0
+4633,CMNPD4634,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8C(=O)C[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](COS(=O)(=O)O)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+252,CMNPD253,Clc1c[nH]c2cc(Br)ccc12,,0
+45,CMNPD46,CC(=C/Br)/C=C/[C@@H](Cl)[C@](C)(Cl)/C=C/Br,,0
+190,CMNPD191,C=C1CCC2C(C)(C)CCC[C@@]2(C)[C@]1(C)Cc1cc(O)ccc1O,,0
+537,CMNPD538,C=C(C/C=C/C(C)(C)O)[C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+393,CMNPD394,CC/C=C\C/C=C\C/C=C\C/C=C\CCCCC(=O)c1c(O)cc(O)cc1O,,0
+3869,CMNPD3870,CC1=CC[C@H]2C(C)(C)CCC[C@]2(C)C1C[C@H](OS(=O)(=O)[O-])[C@H](C)CCCc1ccoc1.C[N+](C)=C(N)N,antifungal,1
+443,CMNPD444,Cc1cc(O)cc2c1C[C@@]1(O2)[C@@H](C)CC[C@@H]2[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3CC[C@]21C,,0
+504,CMNPD505,CC(C)=CCCC(C)C1CCC2(C)C(O)CC=C(C=O)C12C=O,,0
+254,CMNPD255,COC(=O)C1=c2\[nH]c3ccccc3\c2=C\C(C(=O)OC)=c2\[nH]c3ccccc3\c2=C\1,,0
+357,CMNPD358,C=C1CCCC(C)(C)C1CCC1=CC(O)OC1=O,,0
+73,CMNPD74,CC1=C(Cl)C[C@@H](/C(C)=C\Cl)OC1=O,,0
+297,CMNPD298,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3C[C@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+17075,CMNPD17076,CC(C)C/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@]1(C)CC[C@H]1[C@@]23C[C@@H](O)[C@@]2(O)C[C@@H](OS(=O)(=O)O)CC[C@]12CO3,cytotoxic | antifungal to amphotericin-B-resistant Candida albicans,1
+173,CMNPD174,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CCc1ccoc1,,0
+37,CMNPD38,C#C/C=C\[C@H](Cl)C(O)[C@@H]1C[C@@H]2O[C@@H]2C[C@@H](Br)[C@H](CC)O1,,0
+623,CMNPD624,C#C/C=C\CC(Cl)C1C/C=C\CC(Br)C(CC)O1,,0
+87,CMNPD88,Cc1ccc([C@]2(C)CC[C@@H]3C[C@@]32C)c(O)c1,,0
+279,CMNPD280,Nc1ncc(/C=C/CNC(=O)c2cc(Br)c(Br)[nH]2)[nH]1,,0
+527,CMNPD528,C=C([C@@H]1C[C@@H](O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12)[C@@H]1O[C@@H]1[C@@H]1OC1(C)C,potent inhibitor of cell division,0
+23154,CMNPD23155,CO[C@@H]1/C=C/[C@H](O)C[C@@H](O)C/C=C\C=C\[C@@H](O)C/C=C/C=C\C(=O)O[C@H](C)CCC[C@@H]1O,antibacterial | antifungal,1
+611,CMNPD612,C#C/C=C/CC1O/C(=C(\Br)CC)C[C@H]2O[C@H]2C[C@H]1Cl,,0
+491,CMNPD492,CC(C)=CCC[C@H](C)[C@@H]1CC/C(C)=C/C/C=C2/C(=O)OC[C@@H]21,,0
+4907,CMNPD4908,Brc1ccc2c(-c3nc(-c4c[nH]c5ccccc45)c[nH]3)c[nH]c2c1,cytotoxicity | antifungal,1
+920,CMNPD921,CC(/C=C/c1ccccc1)C/C=C/C(C)C[C@]1(C)C[C@H](C)[C@H](CC(=O)O)OO1,antifungal,1
+197,CMNPD198,C=C1CCC[C@]2(C)CC[C@@H](CC(C)C)[C@H]12,,0
+405,CMNPD406,CCCCCCCCCCCCCc1cccc(O)c1,anti-inflammatory,0
+579,CMNPD580,C=C1C[C@@H]2OC(C)(C)[C@@H]3CC[C@](C)(C[C@H]4[C@H](C)CC[C@@H]14)[C@@H]23,,0
+52,CMNPD53,C=C[C@@](C)(Cl)[C@H](Cl)/C=C/C(=C/Cl)C(Cl)Cl,,0
+376,CMNPD377,CCCCCCCCCCCCC/C=C/C(O)C(CO)NC(=O)CCCCCCCCCCCCC,,0
+583,CMNPD584,C=C[C@@H]1CC=C[C@@H]1/C=C\CC,,0
+12608,CMNPD12609,CC/C=C/C(CC)C/C=C/[C@@]1(CC)C[C@H](CC)[C@@H](CC(=O)O)OO1,moderate antifungal activity,1
+473,CMNPD474,CC(=O)CC/C=C(\C)CC/C=C(\C)C1CCC(C)(C)O1,,0
+7351,CMNPD7352,CCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+14582,CMNPD14583,CCCCCCCCC[C@@H](O)[C@H](C)N,antifungal,1
+159,CMNPD160,CC(=O)O[C@H]1C[C@@H]2[C@@]3(C)CCCC(C)(C)[C@@H]3CC[C@@]2(C)[C@@H]2CC=C3C(=O)O[C@@H](O)[C@@H]3[C@@]12C,,0
+153,CMNPD154,C=C1OC(O)C=C1CCC1C(=C)C=CCC1(C)C,,0
+11935,CMNPD11936,O=C1C=C(Br)C(=O)N1,antifungal,1
+372,CMNPD373,COC(=O)/C1=C/c2c([nH]c3ccccc23)/C(C(=O)OC)=C\c2c1[nH]c1ccccc21,plant growth regulator,0
+7543,CMNPD7544,CC(C)[C@@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1ccc(Br)cc1)NC(=O)[C@@H](C)NC=O)C(=O)C[C@H](C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](CS(=O)(=O)O)C(=O)N[C@@H]1C(=O)N(C)[C@@H](CCC(N)=O)C(=O)N[C@H](Cc2ccccc2)C(=O)NC([C@@H](C)O)C(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)O[C@@H]1C)C(C)(C)C,antifungal | cytotoxic,1
+132,CMNPD133,CC(=O)CCC(=O)C1(C)CCC(=O)O1,,0
+11820,CMNPD11821,CCCCCCCC/C=C\C[C@@H](O)[C@H](C)N,antifungal,1
+13786,CMNPD13787,CCCCCCCCC[C@H](CC(=O)NCCCN)N1CC(=O)N(O)[C@@H](Cc2ccccc2)C1=O,antifungal,1
+13729,CMNPD13730,CC(=O)O[C@@H]1[C@H]2[C@@H](CC=C3C[C@@H](O)CC[C@@]32C)[C@@H]2CC(O)[C@H](C(C)CCC(C)C(C)C)[C@@]2(C)[C@@H]1O,weak antifungal activity | weakly inhibit tyrosine kinase p56lck,1
+13998,CMNPD13999,CC(C)CC(=O)C[C@@H](C)[C@H]1CC[C@@]2(C)[C@H]3CC[C@H]4[C@](CO)(COS(=O)(=O)O)C(=O)CC[C@@]45C[C@@]35CC[C@]12C,potent antifungal activity against the marine algal pathogen Lindra thallasiae,1
+5322,CMNPD5323,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/C(C)COC(=O)CC(C)CC(=O)O)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](CC(O)CC8CC(C)C(C(C)CC(=O)O)O8)[C@@H](O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+14744,CMNPD14745,Cc1ccc2c3c1C(=O)OC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+119,CMNPD120,CC(=O)[C@H]1CC[C@@H]2[C@@H]1[C@H](C(C)C)CC[C@@]2(C)O,,0
+300,CMNPD301,N=C1N[C@H]2[C@H](COC(=O)NS(=O)(=O)O)NC(=N)N3C[C@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+6040,CMNPD6041,CC/C=C/C=C/CCC[C@]1(OC)CC[C@@H]([C@@H](C)C(=O)O)OO1,antifungal,1
+9444,CMNPD9445,C[C@@H]1Cc2cc(O)cc(O)c2C(=O)O[C@H](C)CC(=O)O[C@H](CO)CC(=O)O[C@H](C)Cc2cc(O)cc(O)c2C(=O)O[C@H](C)CC(=O)O1,antifungal,1
+6023,CMNPD6024,O=C(O)CCCC#CC#C/C=C\CCCCC#C/C=C\Br,antifungal,1
+11105,CMNPD11106,C[C@@H](/C=C/C=C/C=C/c1ccccc1)[C@H](O)[C@@H](O)[C@H]1NC(=O)C[C@@H](O)CNC(=O)CNC(=O)/C(=C/c2c[nH]c3ccccc23)NC(=O)CN(C)C(=O)C[C@]2(O)NC(=O)C[C@H]2NC(=O)[C@H]1O,cytotoxic | antifungal,1
+90,CMNPD91,C=C1CC[C@@](C)(c2ccc(C)cc2O)[C@H]1C,antibiotic,0
+6039,CMNPD6040,CC/C=C(C)\C=C\CCC[C@]1(OC)CC[C@@H]([C@@H](C)C(=O)O)OO1,antifungal,1
+4204,CMNPD4205,C=C(/C=C/[C@@H](Cl)[C@](C)(Cl)/C=C/Br)CCl,antifungal | molluscicidal | toxicity to brine shrimp,1
+422,CMNPD423,CC(C)=CCC/C(C)=C/C(O)C/C(C)=C/CC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+14952,CMNPD14953,CC1=C2Cc3cc(ccc3O)C(=O)O[C@H](C(C)(C)Br)CC[C@](C)(O)[C@H](Br)CC[C@]2(C)[C@@H](Br)CC1,antibacterial | antifungal | anti-HIV active | cytotoxic to several human tumour cell lines by specific induction of apoptosis,1
+235,CMNPD236,Cc1cc(Oc2c(O)cc(C)c3c2CC2[C@]4(C)CC[C@H]5C(C)(C)[C@@H](O)CC[C@]5(C)C4CC[C@]2(C)O3)cc2c1O[C@@]1(C)CCC3[C@@](C)(CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C)C1C2,,0
+352,CMNPD353,CCCCCC/C=C/CCCCCCCC(=O)OCC/C(=C/OC(C)=O)C(C/C=C(\C)C#CC=C(C)C)OC(C)=O,,0
+207,CMNPD208,[C-]#[N+][C@]1(C)[C@H](C)C[C@@H]2C[C@H](C)C3CC[C@](C)([N+]#[C-])C4CC[C@H]1C2[C@H]34,,0
+4288,CMNPD4289,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(I)c2)N(C)C(=O)CNC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+619,CMNPD620,C#C/C=C/C[C@@H]1O[C@H](/C=C/C)C/C=C\C[C@@H]1Cl,,0
+484,CMNPD485,C=C(C)[C@@H]1CC[C@@]2(C)C(=O)CCC(=C)[C@@H]2C1,,0
+14750,CMNPD14751,C[C@@H]1C[C@H](O)[C@@H]2C3=C1[C@@H](O)OC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+564,CMNPD565,C=C1CC[C@@H](OC(C)=O)[C@@]2(C)CC=C3C(C(C)C)=CC[C@]3(C)C[C@]12O,,0
+631,CMNPD632,C#C/C=C\[C@@H](Cl)C1C2CC3O/C(=C(/Br)CC)C1C3O2,apoptotic,0
+6774,CMNPD6775,CCC(C)C(O)C(=O)N[C@H](CC(C)C)C(=O)N[C@H]1CCCNC(=O)[C@H](Cc2c[nH]c3ccc(O)cc23)NC(=O)/C=C/c2coc(n2)[C@H](C)NC(=O)C(=O)[C@H](CC(C)C)NC(=O)[C@@H]2CCCN2C1=O,antifungal,1
+59,CMNPD60,C[C@@]1(/C=C/Cl)C[C@@](Br)(CCl)[C@H](Cl)C[C@@H]1Cl,,0
+134,CMNPD135,C/C1=C\CC/C(C)=C/[C@H](O)C(C(C)(C)O)CC/C(C)=C/CC1,,0
+461,CMNPD462,CC(=O)CC/C=C(\C)CC/C=C(\C)CC(=O)CC(C)C,,0
+16798,CMNPD16799,C=C1CC[C@H](Br)C(C)(C)[C@@H]1CC[C@@]1(C)[C@@H]2Cc3cc(C(=O)O)ccc3OC=C2CC[C@@H]1Br,modest antibacterial | antimalarial | antitumour | antifungal,1
+322,CMNPD323,CCCCCCCC(C)CC(C/C=C/CCC(=O)NC(COC)C(O)C1=CC(C)C(O)C(C)(C)C1=O)OC,,0
+349,CMNPD350,CCCCCCCC/C=C/CCCCCCCC(=O)OCC/C(=C/OC(C)=O)C(C/C=C(\C)C#CC=C(C)C)OC(C)=O,,0
+355,CMNPD356,CC(=O)O/C=C/C(=C/OC(C)=O)CC[C@@H]1C(C)=CCCC1(C)C,,0
+240,CMNPD241,Cc1cc(O)c2c(O)c3c(cc2c1)C(=O)c1c(O)cccc1C3=O,,0
+141,CMNPD142,C=C1C(=O)O[C@H]2[C@H]3O[C@@](C)(CC/C=C(\C)CCC[C@H]3C)[C@@H](O)C[C@@H]12,cytotoxicity,0
+215,CMNPD216,C/C(=C\CO)CCC[C@H](C)CCC[C@H](C)CCCC(C)C,,0
+223,CMNPD224,CC(=O)OC1CC(C)C2CC2C2=C(COC2=O)C1C(C)CCC=C(C)C,,0
+332,CMNPD333,CO[C@@H](CC[C@H](C)C1O[C@@]23C[C@H](OC(=O)C[C@H]([C@@H](C)O)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)[C@@H]1C)c1cc(O)c(Br)cc1Br,toxic,0
+587,CMNPD588,C=C/C=C\[C@H]1C=CC[C@H]1C=C,,0
+6737,CMNPD6738,O=C1NC(c2c[nH]c3cc(Br)ccc23)CN=C1c1c[nH]c2cc(Br)ccc12,antifungal,1
+213,CMNPD214,CC(=O)CCC/C(C)=C/CC/C(C)=C/COC(C)=O,,0
+2792,CMNPD2793,CC(C)=CCC[C@](C)(N)[C@H]1CC=C(C)CC1,antibacterial | antifungal,1
+11879,CMNPD11880,C[C@@]1(CCCCCCCCCc2ccc(O)cc2)C[C@]2(C)OC(=O)C[C@@H]2OO1,moderately antifungal,1
+356,CMNPD357,C=C1CCCC(C)(C)C1CC/C(C=O)=C\C=O,,0
+117,CMNPD118,CC(C)=C[C@@H]1CC[C@]2(C)[C@@H](Br)CC[C@@](C)(O)[C@@H]12,,0
+302,CMNPD303,N=C1N[C@H]2[C@H](COC(=O)NS(=O)(=O)O)NC(=N)N3CCC(O)(O)[C@]23N1,toxin,0
+11489,CMNPD11490,CC(C)[C@@H](C)[C@@]1(C)C[C@@H]1[C@@H](C)C1CCC2C3C[C@@H](O)[C@@]4(O)C[C@@H](O)CC[C@]4(C)C3[C@H](O)C[C@@]21C,antifungal agent,1
+14747,CMNPD14748,CCOC1OC[C@]2(C)c3c(ccc(C)c31)C(C)(C)[C@H]2O,modest growth inhibition of alga | antibacterial | antifungal,1
+350,CMNPD351,CCCCC/C=C/C/C=C/CCCCCCCC(=O)OCC/C(=C/OC(C)=O)C(C/C=C(\C)C#CC=C(C)C)OC(C)=O,,0
+364,CMNPD365,CC(=O)O/C=C/C(=C/OC(C)=O)CC/C=C(/C=O)CC/C=C(\C)CCC=C(C)C,,0
+325,CMNPD326,CCCCCCCC(=O)[C@H](C)C(=O)N[C@H](Cc1ccc(OC)cc1)C(=O)N[C@H](C(N)=O)C(C)C,,0
+301,CMNPD302,N=C1N[C@H]2[C@H](COC(=O)NS(=O)(=O)O)NC(=N)N3C[C@@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+16799,CMNPD16800,CC(C)=CCC/C(C)=C/CC/C(C)=C/CCC1=CCc2cc(C(=O)O)ccc2OC1,modest antibacterial | antimalarial | antitumour | antifungal,1
+5212,CMNPD5213,CCCCCC/C=C\C=C\C(C)N,cytotoxic | antifungal,1
+16958,CMNPD16959,N=C1N[C@@H](O)[C@@]2(N1)[C@@H](Cl)[C@H](CN)[C@@H]1CN3C(=O)c4cccn4[C@@H]4NC(=N)N[C@@]43[C@@H]12,antifungal | antitumor | immunosuppressive,1
+12483,CMNPD12484,CCCCCCC[C@@H]1CC(=O)N[C@@H](C(C)C)C(=O)N[C@H]([C@@H](O)C(C)C)C(=O)N[C@@H](C)C(=O)N[C@H]([C@H](O)C(C)C)C(=O)N[C@H](CCC(N)=O)C(=O)N(C)[C@@H](C(C)CC)C(=O)N[C@H]([C@@H](O)CO)C(=O)N[C@@H](C(C)O)C(=O)N2C[C@H](O)C[C@H]2C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](C(C)O)C(=O)N1,antifungal activity against fluconazole-resistant C. albicans,1
+568,CMNPD569,C=C1CC[C@@H](O)[C@@]2(C)CC=C3C(C(C)C)=CC[C@]3(C)C[C@]12O,,0
+4632,CMNPD4633,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8CC[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](CO)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+6208,CMNPD6209,CC1=CC(=O)CC(C)(CC[C@]2(C)C(C)=CCC[C@H]2C)O1,antifungal,1
+489,CMNPD490,C=C1CC[C@@H](C(C)CCC=C(C)C)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+575,CMNPD576,C=C1[C@@H](O)CC[C@@]2(C)CCC3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+519,CMNPD520,CC(=O)O[C@@H]1C[C@H]2[C@H](/C=C(/C)C(=O)/C=C/[C@]1(C)O)[C@]2(C)CCC=C(C)C,,0
+14787,CMNPD14788,CCC/C(Br)=C/C=C/CC[C@H]1C[C@@H]1CCC(=O)O,modest antifungal,1
+445,CMNPD446,CC1=CC(=O)C(=O)C2=C1O[C@@]1(C2)[C@@H](C)CC[C@@H]2[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3CC[C@]21C,toxic ichthyotoxin,0
+69,CMNPD70,CC1=C(Br)C[C@@H](Br)[C@](C)(/C=C/Cl)C1,,0
+546,CMNPD547,CC(C)=CC/C=C(/C)[C@@H]1C[C@@H](O)[C@@H](C=O)[C@@H]1[C@H]1C(=O)C=C[C@H]1C,,0
+615,CMNPD616,C#C/C=C\C[C@@H]1O/C(CCC)=C\C=C/C[C@@H]1Cl,,0
+12378,CMNPD12379,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7C[C@H](O)[C@]89C(=O)O[C@@](C)(CCCC(C)C)[C@@]8(O)CC[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](CO)[C@H]1O,potent antifungal activity towards the pathogen Cladosporium cucumerinum,1
+553,CMNPD554,CC(=O)OCC1C(OC(C)=O)C[C@@H](/C(C)=C\CC=C(C)C)[C@H]1[C@H]1C(=O)C=C[C@H]1C,,0
+403,CMNPD404,CCCCCCCCCCCCCc1cc(O)cc(O)c1,,0
+16801,CMNPD16802,C=C1CC[C@@H]2[C@@](C)(CCC=C(C)C)[C@H](Br)CC[C@@]2(C)[C@@H]1Cc1cc(C(=O)O)cc(Br)c1O,modest antibacterial | antimalarial | antitumour | antifungal,1
+12391,CMNPD12392,CCC(C)[C@@H]1NC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)CC)NC(=O)[C@H](C(C)C)NC1=O,"moderate antifungal activity against C. albicans, T. rubrum and four crop-threatening fungi | moderate activity against the human gastric tumour BGC cell line",1
+218,CMNPD219,CC(C)=CCC[C@@H](C)[C@@H]1CC=C2CO[C@@H]3C=C(C)[C@@H]([C@@H]1O)[C@H]23,,0
+100,CMNPD101,C=C1C[C@H](O)[C@@H](Br)C(C)(C)[C@@]12CC[C@@](C)(Br)[C@H](Cl)C2,,0
+6025,CMNPD6026,O=C(O)CCCC#CC#C/C=C/CC/C=C\C#C/C=C/Br,antifungal,1
+9829,CMNPD9830,CC(=O)O[C@@H]1C[C@]2(C)C3CC[C@@]4(C)C(CC[C@@H]4[C@H](C)[C@@H]4O[C@H]4[C@@H](C)C(C)C)C3=CCC2[C@H](OS(=O)(=O)O)[C@H]1O,antifungal activity against Saccharomyces cervisiae A364A and its mutants at 0.1 mg per disk,1
+363,CMNPD364,CC(=O)OC=C(COC(C)=O)CC(=O)CC(C)CCC/C(C)=C/CCC(/C=C/OC(C)=O)=C\OC(C)=O,,0
+401,CMNPD402,CCCCC/C=C\C/C=C\C/C=C\CCCCc1cc(O)cc(O)c1,,0
+97,CMNPD98,CC1(C)[C@@]2(C[C@H](Br)[C@@](C)(Cl)C[C@@H]2O)[C@]2(C)O[C@@H]2C2O[C@]21Br,,0
+24270,CMNPD24271,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@@H]7CC[C@]89C(=O)O[C@@](C)(C(CC=C(C)C)OC(C)=O)[C@H]8CC[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)OC[C@H]2O)O[C@H](CO)[C@H]1O,antifungal | haemolytic | cytotoxic,1
+231,CMNPD232,C/C(=C\CC[C@]1(C)CCc2cc(O)cc(C)c2O1)CC/C=C(\C)CCC1OC1(C)C,,0
+565,CMNPD566,C=C1CC[C@@H](OC(C)=O)[C@@]2(C)C[C@@H](OC(C)=O)C3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+151,CMNPD152,CC1(C)CC=CC2=Cc3occc3C=C1C2,,0
+517,CMNPD518,CC(C)=CCC[C@@]1(C)[C@H]2/C=C(/C)C(=O)C[C@H]3O[C@]3(C)CC[C@@H]21,,0
+247,CMNPD248,Oc1c(Br)cc(Cc2cc(Br)c(O)c(Br)c2)cc1Br,,0
+440,CMNPD441,COc1cc(C)c(O)c(C[C@]2(C)[C@H]3CCC(=C(C)C)[C@@H](CCC(=O)O)[C@]3(C)CC[C@H]2C)c1,,0
+13997,CMNPD13998,CC(=O)OC[C@@]1(COS(=O)(=O)O)C(=O)CC[C@]23C[C@]24CC[C@]2(C)[C@@H]([C@H](C)CC(=O)CC(C)C)CC[C@@]2(C)[C@H]4CC[C@@H]13,potent antifungal activity against the marine algal pathogen Lindra thallasiae,1
+40,CMNPD41,CC(=O)[C@H](Br)C[C@@H](Br)C(C)(C)Cl,,0
+590,CMNPD591,C[As](C)(=O)C[C@@H]1CC[C@H](OCC(O)CS(=O)(=O)O)O1,,0
+334,CMNPD335,COc1cc2c([nH]c3ccc(Cl)cc32)c(-c2ccccc2)c1C,,0
+294,CMNPD295,N=C1N[C@H]2[C@H](COC(N)=O)NC(=N)N3CCC(O)(O)[C@]23N1,toxin,0
+110,CMNPD111,CC1(C)O[C@](C)([C@H]2CC[C@](C)(Cl)[C@@H](Br)C2)[C@H](O)C[C@H]1Br,,0
+22458,CMNPD22459,CCCCC(C)C/C(=C/[C@]1(CC)OC(=O)C[C@@H]1O)CC,antifungal,1
+5213,CMNPD5214,CCCCCCCC/C=C\C=C\C(C)N,cytotoxic | antifungal,1
+19,CMNPD20,CCC[C@@H](OC(C)=O)C1=C(Br)/C(=C/I)OC1=O,antimicrobial | antifungal,1
+10998,CMNPD10999,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/[C@@H](C)CO)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](C[C@H](O)C[C@@H]8C[C@@H](C)[C@@H]([C@@H](C)CC(=O)O)O8)[C@](C)(O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+6270,CMNPD6271,C=C(C)C(CC)CC[C@@H](C)[C@@]1(O)[C@H](O)[C@@H](O)C2C3CC[C@H]4C[C@H](O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21CO.NCCc1ccccc1,antifungal | cytotoxic,1
+7355,CMNPD7356,CCCCCCCCCCCCCCCCCCCC[C@@H](O)C(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCC(C)C,cytotoxic | antifungal,1
+22483,CMNPD22484,C/C(Cl)=C/C=C/C=C/C=C/C=C/C(O)=C1\C(=O)C(CC(N)=O)N(C2OCC(O)C(O)C2OC2OCC(OC3OC(C)C(O)C3O)C(O)C2O)C1=O,antifungal,1
+124,CMNPD125,C=C[C@](C)(O)CC[C@]1(O)[C@@H](C)CC[C@@H]2C(C(C)(C)OO)=CC[C@]21C,,0
+2744,CMNPD2745,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@H](Cc2ccc(O)c(I)c2)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,antifungal,1
+634,CMNPD635,CC[C@H](Br)[C@H]1C/C=C\C[C@@H]2O[C@@H](C=C=CBr)C[C@@H]2O1,,0
+6432,CMNPD6433,CCCCCCC/C=C/CC[C@@H](O)CN,antifungal,1
+15932,CMNPD15933,C/C=C(\NC(=O)[C@@H](NC(=O)[C@H](O)[C@H](O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](C)NC(=O)[C@H](C)[C@H](O)[C@H](C)CC(C)C)[C@@H](C)[C@@H](C)C(N)=O)C(=O)N[C@@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)N[C@@H](CC(C)C)C(=O)N(C)[C@@H](CCC(N)=O)C(=O)N[C@@H](C(=O)N(C)[C@@H](C)C(=O)O)[C@H](OC)c1ccc(O)cc1)[C@@H](C)O,antifungal,1
+589,CMNPD590,C[As](C)(=O)C[C@@H]1CC[C@H](OCC(O)CO)O1,,0
+6030,CMNPD6031,COC(=O)CCCC#CC#CCCCCCC/C=C\C=C\Br,antifungal,1
+323,CMNPD324,CCCCCCC/C(C)=C/C(C/C=C/CCC(=O)O)OC,,0
+569,CMNPD570,C=C1CC[C@@H](O)[C@@]2(C)CC=C3[C@](C)(CC[C@]3(O)C(C)C)C[C@]12O,,0
+11360,CMNPD11361,CC1=C[C@]2(O)[C@@H](C(C)C)CC=C(C)[C@@H]2CC1,antifungal,1
+199,CMNPD200,C=C1CCC[C@]2(C)CC[C@@H](C=C(C)C)[C@H]12,,0
+581,CMNPD582,CC/C=C\[C@H]1C=CCC=CC1,pheromone,0
+582,CMNPD583,C=C/C=C/C=C\CC,,0
+31,CMNPD32,C#C/C=C\C[C@H]1OO/C(C(Br)CC)=C\C=C/C[C@H]1Cl,,0
+321,CMNPD322,CCCCCCCC(C)CC(C/C=C/CCC(=O)NC(COC)C(O)[C@H]1C(=O)C(C)(C)[C@@H](O)[C@@H](C)[C@H]1O)OC,,0
+330,CMNPD331,CO[C@@H](CC[C@H](C)C1O[C@@]23C[C@H](OC(=O)C[C@H](CO)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)[C@@H]1C)c1cc(O)ccc1Br,toxic,0
+106,CMNPD107,CC1=CC[C@@]2(C)C(=C(C)C(=O)[C@@H](O)[C@@H]2C)CC1,,0
+373,CMNPD374,CCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)CCCCCCCCCCCCCC,,0
+624,CMNPD625,C#C/C=C\[C@H](Cl)[C@@H](O)[C@H]1C/C=C(/Cl)C[C@H](Br)[C@@H](CC)O1,,0
+410,CMNPD411,CCCCc1cc(C)c(CCCCCCCCC(=O)OCC)o1,,0
+378,CMNPD379,CCCCCCCCCCCCC/C=C/C(O)C(CO)NC(=O)CCCCCCCCCCCCCCCCCCCCC,,0
+327,CMNPD328,CCCCCCCCC[C@@]1(CO)CC[C@@H](C)C(=O)O1,antimicrobial,0
+13202,CMNPD13203,C=C[C@@H]1O[C@]1(C)CC(C)/C(C)=C/C=C(C)/C=C(OC)\C(=C/C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+3264,CMNPD3265,C1=C/[C@H]2[C@@H]3CCCC[C@H]3C[C@H]2NCCCN[C@@H]2C[C@@H]3CCCC[C@H]3[C@@H]2/C=C/1,antifungal,1
+11097,CMNPD11098,C=C1C[C@@H]2C[C@@H]3C[C@H](O)C[C@@H](O3)c3coc(n3)/C=C/C[C@H]3O[C@@H](/C(C)=C/c4coc(C[C@]5(O)C[C@H](OC)C[C@H]([C@H](O)/C=C(C)/C=C/[C@@H](C/C=C/Br)OC)O5)n4)[C@H](C)[C@@H](OC(=O)/C=C\C[C@@H](C1)O2)[C@H]3C,antifungal | cytotoxic,1
+5658,CMNPD5659,C=CCCC[C@@H](C)[C@H]1CCC2C3C[C@H](OS(=O)(=O)O)[C@H]4C[C@H](OS(=O)(=O)O)[C@@H](OS(=O)(=O)O)C[C@]4(C)C3CC[C@@]21C,antifungal | antithrombin,1
+11877,CMNPD11878,CC/C=C/C=C/C=C/CCCCCCCC[C@]1(C)C[C@](C)(CC(=O)O)OO1,moderately antifungal,1
+3756,CMNPD3757,COCC(OC)C(=O)OC(CCC(C)C(CC1OC(=O)CC(O)C/C=C/C(=O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)OC)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,antifungal | cytotoxic,1
+95,CMNPD96,CC1(Cl)CC2OC3(Br)[C@H](O)[C@H]4O[C@@]4(C)C2(CC1Br)C3(C)C,,0
+55,CMNPD56,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/C(C=O)=C\Cl,,0
+508,CMNPD509,C=C1CC[C@H]([C@@H](C)CCC=C(C)C)[C@H]2C(C=O)=CC[C@@H]1C2O,,0
+412,CMNPD413,CCCCc1cc(C)c(CCCCCCCCC(=O)O)o1,,0
+229,CMNPD230,C=C1CCC[C@@]2(C)[C@H](OC(C)=O)C=C3[C@](C)(CC[C@]3(O)C(C)C)C[C@]12O,cytotoxic | markedly inhibit growth of the P-388 leukemia,0
+10,CMNPD11,CCCCCCCC(C/C=C/CCC(=O)N(C)C/C(Cl)=C/[C@@]12O[C@@H]1CC=C(C)C2=O)OC,,0
+10104,CMNPD10105,CC(C)CCCCCCCCCCCC(=O)OCC(O)COP(=O)(O)O[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@@H]1O,antifungal agent,1
+12607,CMNPD12608,CC(CCCCCC/C=C/C=C/c1ccccc1)C[C@]1(C)C[C@](C)(CC(=O)O)OO1,antifungal activity,1
+241,CMNPD242,Oc1c(Br)cccc1Br,,0
+186,CMNPD187,CC12CC[C@H]3[C@]4(C)CC[C@H]5C(C)(C)CCC[C@]5(C)[C@H]4CC[C@]3(C)C1Cc1c(O)cc(O)c(O)c12,,0
+227,CMNPD228,C[C@H]1/C=C/[C@@]2(C)CC[C@@H](C(C)(C)O)C2[C@@H](O)C[C@](C)(O)/C=C/C1,,0
+336,CMNPD337,C=CC[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](C[C@@H](CCCCC)OC)OC)OC)OC)OC)OC)OC)OC)OC,,0
+362,CMNPD363,CC(=O)OC=C(COC(C)=O)CC(=O)C/C(C)=C/CC/C(C)=C/CCC(/C=C/OC(C)=O)=C\OC(C)=O,,0
+535,CMNPD536,C=C(C(O)/C=C/[C@](C)(O)CO)[C@@H]1CC(=O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+566,CMNPD567,C=C1CC[C@@H](O)[C@@]2(C)C[C@@H](OC(C)=O)C3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+143,CMNPD144,C=C1C[C@@H]2O[C@@H](C3C2[C@](C)(OC(C)=O)[C@@H](OC(C)=O)C[C@@H]3C(C)C)[C@](C)(OC(C)=O)CC[C@@H]1OC(C)=O,,0
+10982,CMNPD10983,CC[C@H](C)[C@@H]1NC(=O)CNC(=O)c2csc(n2)[C@H](C(C)(C)O)OC(=O)C(C)(C)[C@H](CCCC(C)(Cl)Cl)OC(=O)c2csc1n2,cytotoxic | antifungal,1
+626,CMNPD627,C#C/C=C/CC(Cl)[C@H]1C[C@@H](O)[C@H](O)/C=C\[C@@H](CC)O1,,0
+15930,CMNPD15931,CC(C)C[C@@H](C)[C@@H](O)[C@@H](C)C(=O)N[C@H](C)C(=O)N[C@@H](CCCNC(=N)N)[C@@H](O)[C@@H](O)C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](CCCNC(=N)N)C(=O)O)[C@@H](C)O)[C@@H](C)O)[C@@H](C)[C@@H](C)C(N)=O,antifungal,1
+23153,CMNPD23154,C[C@@H]1CCC[C@@H](O)/C=C/[C@@H]2O[C@@H]2C[C@@H](O)C/C=C\C=C\[C@@H](O)C/C=C/C=C\C(=O)O1,antibacterial | antifungal,1
+340,CMNPD341,COc1cc(Br)c(-c2c[nH]c3ccc(Br)cc23)c2c(Br)c[nH]c12,,0
+136,CMNPD137,C=C1C(=O)OC2C[C@@]3(C)O[C@@H]3CC/C(C)=C/CC/C(C)=C/C[C@@H]12,,0
+429,CMNPD430,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)/C=C(\C)CCC[C@@H](C)[C@@H](O)C(=O)C=C(C)C)c1,,0
+593,CMNPD594,CCCCC(Br)(Br)[C@H]1O[C@@H]1Br,,0
+32,CMNPD33,C#C/C=C\C[C@@H]1O[C@H](C/C=C(/Br)CC)[C@H](Br)C[C@@H]1Cl,,0
+191,CMNPD192,CC1=CCC2C(C)(C)CCC[C@@]2(C)[C@@H]1Cc1cc(O)ccc1O,,0
+11960,CMNPD11961,C[N+]1=CN[C@H](C(=O)[O-])C[C@@]1(C)COC(=O)c1cc(Br)c[nH]1,antifungal | cytotoxic,1
+2438,CMNPD2439,CC(=O)Oc1cc([C@]2(C)CC=CC2(C)C)c(Br)cc1C,ichthyotoxic | antibacterial | antifungal,1
+434,CMNPD435,COc1cc(C)c(O)c(C/C=C(\C)CC/C=C(\C)CC[C@H](O)[C@](C)(O)CCC=C(C)C)c1,,0
+368,CMNPD369,C=C(C)[C@@H](O)CC/C(C)=C/CC/C(C)=C/CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,,0
+193,CMNPD194,CC1(C)CCC[C@]2(C)[C@H]3Cc4cc(O)ccc4O[C@]3(C)CC[C@@H]12,,0
+482,CMNPD483,C=C(C)[C@@H]1CC[C@@]2(C)[C@H](O)CC=C(C)[C@@H]2C1,,0
+572,CMNPD573,C=C1CC[C@@H](O)[C@@]2(C)C[C@@H](O)C3=C(C(C)C)CC[C@]3(C)C[C@]12O,,0
+9652,CMNPD9653,CCC[C@@H]1NC(=O)CNC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@H](C)O)NC(=O)[C@H](CCC(N)=O)NC(=O)C(C(C)C(C)Cl)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](C)NC(=O)CC(O)C(NC(=O)[C@@H](CC(C)C)NC=O)C(C)OC1=O,antifungal,1
+237,CMNPD238,CCCCCc1cc(O)c2ccccc2n1,antibiotic,0
+6028,CMNPD6029,COC(=O)CCCC#CC#C/C=C\CCCC/C=C\C=C/Br,antifungal,1
+285,CMNPD286,CC(C)=CCC/C(C)=C/C(=O)c1cc(O)c(Br)cc1O,,0
+10309,CMNPD10310,C=C1C[C@](OC)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](C[C@H](O)CCCCO)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,antifungal | cytotoxic,1
+6209,CMNPD6210,CC(=O)/C=C(\O)[C@H]1C(C)=CC[C@H]2C(C)(C)CCC[C@]12C,antifungal,1
+8247,CMNPD8248,C[N+]1=CNC[C@]1(C)CC[C@H](NC(=O)c1cc(Br)c[nH]1)C(=O)[O-],mildly antifungal,1
+108,CMNPD109,Cc1cc(C)c2c(c1C)C[C@H](Br)[C@@](C)(Cl)CC2,,0
+20854,CMNPD20855,CC[C@H](C)[C@H]1C(=O)N2c3ccccc3[C@]3(O)C[C@H]4C(=O)N[C@@H](c5nc6ccccc6c(=O)n54)N1[C@@H]23,antifungal activity against C. albicans,1
+137,CMNPD138,C=C1C(=O)O[C@]2(C)CC[C@@H]1C[C@@H]1O[C@@]1(C)CC/C=C(\C)CC[C@@H]2O,,0
+474,CMNPD475,CC(=O)CC/C=C(\C)CCC(=O)C1(C)CCC1C(C)C,,0
+576,CMNPD577,C=C1CC[C@@H](O)[C@@]2(C)CCC3=C(C(C)C)CC[C@]3(C)C[C@H]12,,0
+7352,CMNPD7353,CCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+3995,CMNPD3996,C[C@]1(Cl)C[C@](C)(Br)[C@@H](/C=C/Cl)C[C@H]1Br,antifungal | molluscicidal | toxicity to brine shrimp,1
+490,CMNPD491,CC(C)=CCC[C@H](C)[C@H]1CC/C(C)=C/C/C=C(/C=O)[C@@H]1C=O,,0
+262,CMNPD263,Oc1ccc(Br)cc1Oc1ccc(Br)cc1,antimicrobial,0
+591,CMNPD592,C[As](C)(=O)C[C@@H]1CC[C@H](OCC(O)COP(=O)(O)OCC(O)CO)O1,,0
+20072,CMNPD20073,CC/C=C/[C@H](CC)C/C(=C/[C@]1(CC)C[C@@](/C=C/C(=O)O)(CC)OO1)CC,antifungal,1
+10332,CMNPD10333,C/C(Cl)=C/C=C/C(Cl)=C/C=C/C=C/C=C/C=C/C(O)=C1\C(=O)[C@H](CC(N)=O)N([C@@H]2OC[C@@H](O)[C@H](O)[C@H]2O[C@@H]2OC[C@@H](O[C@@H]3O[C@H](C)[C@@H](O)[C@@H]3O)[C@@H](O)[C@@H]2O)C1=O,antifungal activity,1
+64,CMNPD65,CC1=C(/C=C/Cl)C[C@H](Cl)[C@](C)(Cl)C1,,0
+11056,CMNPD11057,C[C@@H](N)[C@H](O)CCCCCCCCCCCCCCC(=O)CCCCCCC[C@@H](O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)[C@@H](N)CO,antifungal agent,1
+181,CMNPD182,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(O)C=CC1O,,0
+21883,CMNPD21884,CCC(C)CCCCCCCCC1CC(=O)N[C@@H](CC(N)=O)C(=O)N[C@H](Cc2ccc(O)cc2)C(=O)N[C@H](CC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N2CCC[C@H]2C(=O)N[C@H](CC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1,antifungal,1
+9497,CMNPD9498,C=C1CCC2C(C)(C)CCC[C@@]2(C)[C@@H]1Cc1cc(O)ccc1O,antifungal,1
+184,CMNPD185,COc1cc(C)c(CC/C(C)=C/CC2=CC(=O)C=CC2=O)c(C)c1C,,0
+114,CMNPD115,C=CC(C)(O)CCC1=C(C)CC[C@H](Br)C1(C)C,,0
+13725,CMNPD13726,CC(=O)O[C@@H]1C[C@H]2[C@@H]([C@H](O)C=C3C[C@@H](O)CC[C@@]32C)[C@@H]2CC[C@H]([C@H](C)[C@H]3C[C@]3(C)[C@H](C)C(C)C)[C@@]12C,weak antifungal activity,1
+220,CMNPD221,CC(C)=CCC[C@@H](C)[C@@H]1CC[C@@]2(C)C=COC=C(C)[C@H]2[C@@H]1O,,0
+24273,CMNPD24274,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@@H]7CC[C@]89C(=O)O[C@@](C)(C(CC=C(C)C)OC(C)=O)[C@H]8CC[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](COS(=O)(=O)O)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal | haemolytic | cytotoxic,1
+621,CMNPD622,C#C/C=C/C[C@@H](Cl)[C@H]1CC=CC[C@@H]([C@H](Br)CC)O1,,0
+312,CMNPD313,COCC1(O)C/C(=C\C(=O)N2CC(OC)=CC2=O)N(C)C1=O,,0
+314,CMNPD315,C=C1C/C(=C\C(=O)N2CC(OC)=CC2=O)N(C)C1=O,,0
+214,CMNPD215,CC(C)=CCC/C(C)=C/C(O)C/C(C)=C/CC/C(C)=C/CO,,0
+145,CMNPD146,C=C1/C=C\[C@H](OC(C)=O)[C@@]2(C)[C@@H](OC(C)=O)C[C@@H](OC(C)=O)[C@@](C)(OC(C)=O)[C@@H]2[C@H](OC(C)=O)[C@]2(O)[C@@H](C)C(=O)O[C@H]2[C@H]1Cl,,0
+407,CMNPD408,C=C(COCC(O)COC(=O)CCCCCCCCCCCCCCCCCCC)C(=O)O,,0
+6027,CMNPD6028,O=C(O)CCCC#CC#CCCCC/C=C/C#C/C=C\Br,antifungal,1
+162,CMNPD163,CC1=C(O)/C(=C/C(C)CCC/C(C)=C/CC/C(C)=C/CCc2ccoc2)OC1=O,,0
+341,CMNPD342,COc1cc(Br)c(-c2c(Br)[nH]c3ccc(Br)cc23)c2cc[nH]c12,,0
+194,CMNPD195,C=C1CC[C@@H]2C(C)(C)CCC[C@@]2(C)[C@@H]1Cc1cc(C(=O)O)ccc1O,,0
+253,CMNPD254,COc1c(Br)cc2cc[nH]c2c1Br,,0
+149,CMNPD150,C/C(=C\C(=O)OCc1ccoc1)CC/C=C(\C)Cc1cc(C)co1,,0
+307,CMNPD308,CCCOP(=S)(N/N=C(C)/C(C)=N/O)OCCC,,0
+11104,CMNPD11105,C[C@@H](/C=C/C=C/C=C/c1ccccc1)[C@H](O)[C@@H](O)[C@H]1NC(=O)C[C@@H](O)CNC(=O)CNC(=O)[C@@H](Cc2c[nH]c3ccccc23)NC(=O)CN(C)C(=O)C[C@]2(O)NC(=O)C[C@H]2NC(=O)[C@H]1O,cytotoxic | antifungal,1
+2953,CMNPD2954,Cc1cc2c(cc3c(C)ccc1-3)C(C)CO2,antitumour | antifungal,1
+89,CMNPD90,C=C1CC[C@@](C)(c2cc(Br)c(C)cc2O)[C@H]1C,antibiotic,0
+343,CMNPD344,Brc1ccc2c(c1)c(Br)c(Br)n2-c1c(Br)[nH]c2ccc(Br)c(Br)c12,,0
+4290,CMNPD4291,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(Cl)c2)N(C)C(=O)CNC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+299,CMNPD300,N=C1N[C@H]2[C@H](COC(N)=O)N(O)C(=N)N3C[C@H](OS(=O)(=O)O)C(O)(O)[C@]23N1,toxin,0
+555,CMNPD556,CC(C)=CC/C=C(/C)C1CCC(C)(O)C23CC[C@H](C)C2C13,,0
+562,CMNPD563,C=C(C)[C@H]1CC(=O)[C@@]2(C)C/C=C(\C)CC/C=C(\C)CC[C@H]12,antimicrobial,0
+452,CMNPD453,CC(C)=CC(=O)C/C(C)=C/CC/C(C)=C/CCC1(C)OC1CO,,0
+295,CMNPD296,N=C1N[C@H]2[C@H](COC(N)=O)N(O)C(=N)N3CCC(O)(O)[C@]23N1,toxin,0
+637,CMNPD638,CC/C=C/C[C@@H](Br)[C@H]1C[C@H]2O[C@H](C=C=CBr)C[C@H]2O1,,0
+76,CMNPD77,CO[C@@]1(C(Br)Br)O[C@H](/C(C)=C\Cl)CC(Cl)=C1C,,0
+318,CMNPD319,CCCCCCC[C@@H](C/C=C/CCC(=O)N(C)C/C(=C/Cl)C/C(=C\C(=O)N1CC(OC)=CC1=O)OC)OC,,0
+3755,CMNPD3756,COC(CC1OC(=O)CC(O)C/C=C/C(=O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)C(C)CCC(=O)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,antifungal | cytotoxic,1
+4289,CMNPD4290,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)CNC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+6836,CMNPD6837,OCCc1c[nH]c2ccccc12,antifungal,1
+449,CMNPD450,CC(C)=CCC/C(C)=C/CC/C(C)=C/Cc1cc(O)ccc1O,antimicrobial,0
+16794,CMNPD16795,CC(C)=CCC/C(C)=C/C[C@@]1(C)[C@@H]2Cc3cc(C(=O)O)ccc3OCC2=CC[C@@H]1Br,modest antibacterial | antimalarial | antitumour | antifungal,1
+74,CMNPD75,CC(=C/Cl)/C=C/C(Cl)=C(/C)C(=O)C(Br)Br,,0
+14749,CMNPD14750,C[C@@H]1C[C@H](O)[C@@H]2C(=C1C=O)[C@@](C)(CO)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+460,CMNPD461,CC(=O)CC/C=C(\C)CC/C=C(\C)CC(=O)C=C(C)C,,0
+4244,CMNPD4245,CCCCC(CC)CC(C)CC1(CC)C=C(CC)C(CC(=O)O)OO1,cytotoxic | antifungal,1
+12379,CMNPD12380,CC[C@H](C)[C@@H](OC(=O)/C=C/c1ccccc1)[C@@H](C)[C@@H](O)C/C=C/C=C\C(N)=O,antifungal | potent in vitro activity against Candida albicans,1
+18,CMNPD19,CCC[C@@H](OC(C)=O)C1=C(Br)/C(=C\Br)OC1=O,antimicrobial | antifungal,1
+14751,CMNPD14752,C[C@@H]1CCC2=C3C1=COC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+3740,CMNPD3741,CCCCCC/C=C/C=C/C[C@@H](O)[C@H](C)N,antifungal,1
+16990,CMNPD16991,O=C1NCCCOc2c(O)cc(c(Br)c2Br)C/C2=N\O[C@@H]3[C@H](Br)[C@@]4(C=C[C@@]3(O)C/C(=N\O)C(=O)NC[C@@H](O)[C@H](O)[C@H](O)CNC2=O)Oc2cc(cc(Br)c2O4)C/C1=N\O,"antifungal to C. albicans and Erg6 mutant Saccharomyces cerevisiae, but not wild S. cerevisiae",1
+3739,CMNPD3740,CCCCCC/C=C/C=C/C[C@H](O)[C@H](C)N,antifungal,1
+308,CMNPD309,O=P(NC1CCCCCCC1)(Oc1ccccc1)Oc1ccccc1,,0
+488,CMNPD489,C=C1/C=C/[C@H](C(C)C)CCC(=C)[C@@H](OC(C)=O)CC1,,0
+442,CMNPD443,Cc1cc(O)cc2c1O[C@@]1(C2)[C@@H](C)CC[C@@H]2[C@@]3(C)CC[C@H](O)C(C)(C)[C@@H]3CC[C@]21C,,0
+570,CMNPD571,C=C1CC[C@@H](OC(C)=O)[C@@]2(C)CC=C3[C@](C)(CC[C@]3(O)C(C)C)C[C@]12O,,0
+170,CMNPD171,C/C(=C\CCc1ccoc1)C[C@@H](O)C[C@H](C)CCCc1ccoc1,,0
+628,CMNPD629,C#C/C=C\C[C@@H]1O[C@@H](CC)[C@@H](Br)C/C=C\C[C@@H]1Cl,,0
+22455,CMNPD22456,CCCCC(C)CC(O)(/C=C(/CC)[C@@H](O)CC(=O)OC)CC,antifungal,1
+13420,CMNPD13421,CC#C/C=C\C=C\C[C@@H](O)/C(Br)=C(C)/C=C/C=C\C=C(\C)[C@@H](O)C(C)(C)C(N)=O,antifungal,1
+14205,CMNPD14206,O=CC1=C[C@@]23CC/C=C\CCCCN4CC[C@@H]1[C@@]1(C4)C[C@]4(CCC(=O)CCCN4[C@H]12)O3,potent antiinflammatory | antifungal | anti-HIV-1 agent,1
+16800,CMNPD16801,C=C1CC[C@@H]2[C@@](C)(CCC=C(C)C)[C@H](Br)CC[C@@]2(C)[C@@H]1Cc1cc(C(=O)O)ccc1O,modest antibacterial | antimalarial | antitumour | antifungal,1
+496,CMNPD497,CC(C)=CCC[C@H](C)[C@H]1[C@@H](O)C/C(C)=C/C/C=C(/C=O)[C@@H]1C=O,antimicrobial,0
+518,CMNPD519,CC(C)=CCC[C@@]1(C)[C@H]2/C=C(/C)C(=O)/C=C/[C@](C)(O)CC[C@@H]21,,0
+3775,CMNPD3776,CC[C@@H]1C=CCC[C@]2(C[C@H]3CC[C@H]4[C@@H](C(=O)OCCCCCCCCCCCCCCCC(=O)N(CCCN)CCCCN)[C@@]5(CCC[C@H](C)O5)N=C(N2)N34)O1,antitumour | antiviral | antifungal,1
+21108,CMNPD21109,CCCCCCCCCC/C=C(C)/C(C=O)=C\CCCCCCCCCCCCCC,antifungal,1
+346,CMNPD347,CC(=O)O/C=C(/C=C/OC(C)=O)C(C/C=C(C)/C=C/C=C(C)C)OC(C)=O,toxic,0
+4552,CMNPD4553,COc1c(OC)c(S(C)=S)c2c(c1N(C)C)CCSC2=S,antifungal,1
+107,CMNPD108,CC1=CC[C@@]2(C)C(=C(C)C(=O)[C@@H](Cl)[C@@H]2C)CC1,,0
+418,CMNPD419,CC(C)=CCC/C(=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O)C(=O)O,,0
+317,CMNPD318,CCCC(=O)N[C@H]1CCOC1=O,,0
+12381,CMNPD12382,CC(C)CCCCCC(=O)N[C@H](CO)C(=O)N[C@H](Cc1ccc(O)cc1)C(=O)O,antifungal,1
+447,CMNPD448,CC(C)=CCC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+588,CMNPD589,C=C/C=C/C=C\C/C=C\CC,,0
+3786,CMNPD3787,C/C1=C\[C@H](C)C[C@H](C)OC(=O)C[C@H](c2ccc(O)cc2)NC(=O)C(Cc2c(Br)[nH]c3ccccc23)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,antifungal,1
+15,CMNPD16,CCCCC(Br)(Br)C(=O)CI,,0
+458,CMNPD459,CC(=O)CC/C=C(\C)CCCC(C)CC(=O)CC(C)C,,0
+228,CMNPD229,C=C1CCC[C@@]2(C)[C@H](O)C=C3[C@](C)(CC[C@]3(O)C(C)C)C[C@]12O,cytotoxic | markedly inhibit growth of the P-388 leukemia,0
+16,CMNPD17,CCCCC1(Br)OC1C(Br)Br,,0
+169,CMNPD170,C/C(=C\CCc1ccoc1)CC/C=C(\C)CCCc1ccoc1,,0
+14795,CMNPD14796,C=CCC/C=C/C=C/C=C/CC/C=C/[C@@H](O)[C@H](O)[C@@H]1O[C@@H]([C@H](O)[C@H](O)C(=C)CC[C@@H](O)[C@H]2C[C@@H](O)[C@@H](O)[C@H]([C@@H](O)[C@H](O)/C=C(\C)CC[C@H](O)C[C@H](O)[C@H](O)[C@@H](C)C[C@H](O)[C@@H](O)CCCCC[C@@H](O)CCC[C@@H](O)/C=C/C[C@@H](O)/C=C/C[C@H](O)COS(=O)(=O)O)O2)C[C@@H](O)[C@H]1O,"haemolytic against mouse erythrocytes, cytotoxic against P388 cells | antifungal towards Aspergillus niger to varying degrees",1
+17954,CMNPD17955,N=C1N[C@H]2N(CCS(=O)(=O)O)[C@H](CNC(=O)c3cc(Br)c(Br)[nH]3)C[C@@]2(O)N1,antifungal,1
+10999,CMNPD11000,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/[C@@H](C)COC(=O)C[C@@H](C)CC(=O)O)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](C[C@H](O)C[C@@H]8C[C@@H](C)[C@@H]([C@@H](C)CC(=O)O)O8)[C@H](O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+479,CMNPD480,CC(C)[C@@H]1CC[C@@H](C)C23CC[C@@](C)(O)[C@@H]2[C@@H]13,,0
+388,CMNPD389,CC(=O)Oc1cc(OC(C)=O)c(Oc2cc(OC(C)=O)c(Oc3cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c3Oc3cc(OC(C)=O)c(Oc4cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c4Oc4cc(OC(C)=O)c(Oc5cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c5Oc5cc(OC(C)=O)c(Oc6cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c6Oc6cc(OC(C)=O)c(Oc7cc(OC(C)=O)c(OC(C)=O)c(OC(C)=O)c7)c(OC(C)=O)c6)c(OC(C)=O)c5)c(OC(C)=O)c4)c(OC(C)=O)c3)c(OC(C)=O)c2)c(OC(C)=O)c1,,0
+22459,CMNPD22460,CCCCC(C)C/C(=C\[C@@]1(CC)OC(=O)C[C@@H]1O)CC,antifungal,1
+233,CMNPD234,COc1cc(C)c2c(c1)C[C@H]1[C@]3(C)CC[C@H]4C(C)(C)[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]1(C)O2,,0
+245,CMNPD246,OCc1cc(Br)c(O)c(Cc2cc(Br)c(O)c(Br)c2)c1,,0
+328,CMNPD329,CCCCC[C@@H](O)C[C@H](O)CCC/C=C/Cl,,0
+0,CMNPD1,C1SCSS1,antibiotic,0
+351,CMNPD352,CCCCCCCCCCCCCCCC(=O)OCC/C(=C/OC(C)=O)C(C/C=C(\C)C#CC=C(C)C)OC(C)=O,,0
+91,CMNPD92,Cc1ccc([C@]2(C)CC[C@@H](Br)C2(C)C)cc1,,0
+46,CMNPD47,CC(/C=C/[C@H](Cl)[C@](C)(Cl)/C=C/Br)=C(Br)Br,,0
+8,CMNPD9,CCCCCCCCCCCCCCCCC(=O)/C=C/Cl,,0
+11000,CMNPD11001,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/[C@@H](C)COC(=O)C[C@@H](C)CC(=O)O)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](C[C@H](O)C[C@@H]8C[C@@H](C)[C@@H]([C@@H](C)CC(=O)O)O8)[C@](C)(O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+15026,CMNPD15027,COC(/C=C/CCCCCCCCCCCC[C@@H](O[C@H]1O[C@@H](CO)[C@@H](O)[C@@H](O)[C@@H]1O)[C@@H](C)N)CCCCCCCC1NCCc2cc(O)c(O)cc21,antifungal against Candida glabrata,1
+276,CMNPD277,O=C(O)c1cc(Br)c(Br)[nH]1,,0
+292,CMNPD293,COC(CCC(C)C1O[C@]23CC(OC(=O)CC(C(C)O)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)C1C)c1cccc(O)c1,toxin,0
+14,CMNPD15,CCCCC(Br)(Br)C(=O)C(Br)Br,,0
+19617,CMNPD19618,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7=C[C@H](O)[C@]89C(=O)O[C@@](C)(CCC=C(C)C)[C@H]8CC[C@@]9(C)[C@@H]7CC[C@H]6C5(C)C)OC[C@@H](O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,broad-spectrum antifungal activity,1
+7,CMNPD8,CCCCCCCCCCCCCCCC[C@@]1(OC)C=C[C@@H](CC(=O)OC)OO1,,0
+526,CMNPD527,C=C1CC[C@@H](C(C)(O)CCC=C(C)C)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+612,CMNPD613,C#C/C=C\CC1O/C(=C(\Br)CC)C[C@H]2O[C@H]2C[C@H]1Cl,,0
+19155,CMNPD19156,O=C1NC(=O)/C(=C/[C@@H](O)CNC(=O)c2cc(Br)c(Br)[nH]2)N1,weakly antifungal,1
+265,CMNPD266,CCOC1(OC)C(Br)=CC(O)(CC(N)=O)C=C1Br,,0
+11959,CMNPD11960,NC1=NC23[C@H](N1)c1c([nH]c(Br)c1Br)C(=O)N2C[C@H](Cl)[C@@H]3O,antifungal | cytotoxic,1
+9046,CMNPD9047,CC(C)=CCC/C(C)=C/CCC(C)/C=C/C(=O)NC[C@@H]1CC[N@+]2(C)CCCC[C@H]12,antifungal,1
+7542,CMNPD7543,CC(C)[C@H](CC(=O)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1ccc(Br)cc1)NC(=O)[C@@H](C)NC=O)C(C)C)C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](CS(=O)(=O)O)C(=O)N[C@@H]1C(=O)N(C)[C@@H](CCC(N)=O)C(=O)N[C@H](Cc2ccccc2)C(=O)NC([C@@H](C)O)C(=O)N[C@@H](CC(N)=O)C(=O)N(C)CC(=O)O[C@@H]1C,antifungal | cytotoxic,1
+10375,CMNPD10376,CCCCCCCCCCCCCCC(=O)O[C@@H](c1cnco1)c1nc([C@H](O)C[C@H](O)[C@H](O)[C@H](C)O)co1,antifungal agent,1
+4553,CMNPD4554,COc1c(OC)c(S(C)=S)c2c(c1N(C)C)CCSC2(OC)C(C)=O,antifungal,1
+60,CMNPD61,C=C1C[C@@](C)(/C=C/Cl)[C@@H](Cl)C[C@H]1Cl,,0
+10311,CMNPD10312,C=C1C[C@](O)([C@H](O)C(=O)N[C@H]2OCO[C@H]3[C@@H]2O[C@H](CC(=O)CCC/C=C/C=C/C(=O)O)C(C)(C)[C@@H]3OC)O[C@H](C)[C@@H]1C,antifungal | cytotoxic,1
+10173,CMNPD10174,CCCCCCCCCCC[C@]1(CO)CCCC(=O)O1,toxic and antifungal,1
+278,CMNPD279,N#Cc1cc(Br)c(Br)[nH]1,,0
+23681,CMNPD23682,CS(=O)Cc1c(Br)c(O)c(O)c(Br)c1Br,antifungal,1
+249,CMNPD250,Oc1c(Br)cc(Oc2c(O)c(Br)c(Oc3cc(Br)c(O)c(Br)c3Br)c(O)c2Br)c(Br)c1Br,,0
+20896,CMNPD20897,CC(=O)O[C@H]1C[C@H]2[C@@H]3[C@@H](O)[C@@H](O)[C@H]4C[C@@H](O)CC[C@]4(C)[C@H]3[C@@H](O)C[C@]2(C)[C@H]1[C@H](C)/C=C/C(C)C(C)C,antifungal | selectively cytotoxic to three HTCLs,1
+23155,CMNPD23156,COC(=O)CCC(=O)O[C@@H]1/C=C/C=C\C[C@H](O)C[C@@H](O)/C=C/C=C/CCC[C@@H](C)OC(=O)/C=C\C=C\C1,antibacterial | antifungal,1
+123,CMNPD124,C=C[C@](C)(O)CC[C@]1(O)[C@@H](C)CC[C@@H]2C(C)(C)[C@H](Br)CC[C@]21C,,0
+4243,CMNPD4244,CC/C=C/C(CC)CC(C)CC1(CC)C=C(CC)C(CC(=O)O)OO1,cytotoxic | antifungal,1
+16795,CMNPD16796,CC(C)=CCC/C(C)=C/C[C@@]1(C)[C@@H]2Cc3cc(C(=O)O)ccc3OC=C2CC[C@@H]1Br,modest antibacterial | antimalarial | antitumour | antifungal,1
+544,CMNPD545,C=C(CCC=C(C)C)[C@@H]1CC[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@]12O,,0
+116,CMNPD117,C=C[C@@]1(C)CC[C@@]2(O1)C(C)=CC[C@H](C)[C@H]2C,,0
+433,CMNPD434,COc1cc(C)c(O)c(C/C=C(\C)CC(O)/C=C(\C)CC/C=C(\C)C(O)CC=C(C)C)c1,,0
+384,CMNPD385,CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,,0
+93,CMNPD94,C=C1CC[C@@](C)(c2ccc(C)cc2)[C@H]1C,,0
+311,CMNPD312,COC1=CC(=O)N(C(=O)/C=C2/C=C(CO)C(=O)N2C)C1,,0
+506,CMNPD507,CC(C)=CCC[C@@H](C)C1CC[C@]2(C)CC=C(C=O)C1(C=O)C2O,,0
+277,CMNPD278,NC(=O)c1cc(Br)c(Br)[nH]1,,0
+471,CMNPD472,CC(=O)CC/C=C(\C)CC[C@H]1C(C)(C)[C@@H]2CC[C@@]1(C)O2,,0
+309,CMNPD310,C=CC(C)(CCC=C(C)C)c1ccc2c3c(c[nH]c13)C[C@@H](CO)NC(=O)[C@H](C(C)C)N2C,,0
+614,CMNPD615,C#C/C=C\C[C@H]1O/C(=C(\Br)CC)C/C=C\C[C@H]1Cl,,0
+17664,CMNPD17665,CC1CC(=O)c2c(CO)coc2C1,significant antibacterial | antifungal,1
+420,CMNPD421,CC(C)=CCC/C(C)=C/C(O)C(O)/C(C)=C/CC/C(C)=C/CC1=CC(=O)C(C)=C(C)C1=O,,0
+10334,CMNPD10335,CO[C@@H]1[C@H](O[C@@H]2CO[C@@H](O[C@@H]3[C@@H](O)[C@H](O)CO[C@H]3N3C(=O)/C(=C(O)/C=C/C=C/C=C/C=C/C=C(Cl)/C=C/C=C/C=C(/C)Cl)C(=O)C3CC(N)=O)[C@@H](O)[C@@H]2O)O[C@H](C)[C@H]1O,antifungal activity,1
+26,CMNPD27,C#C/C=C/CC1O[C@@H]2C[C@H]1O[C@@H](C(Br)CC)C[C@H]2Br,,0
+22463,CMNPD22464,CCC1=C[C@@](CC)(C/C(=C/[C@H](O)CC)CC)O/C1=C\C(=O)OC,antifungal,1
+120,CMNPD121,CC1(C)C[C@@]2(CC[C@H]1Br)O[C@@H]2[C@@H]1C2[C@@](C)(O)CC[C@@H](Br)[C@]2(C)C[C@H]1O,,0
+118,CMNPD119,C=C1CCC(C(C)C)/C=C/[C@](C)(O)CCC1O,,0
+19528,CMNPD19529,CO[C@H]([C@H](C)/C=C/N(C)C=O)[C@@H](C)C(=O)CC[C@H](C)[C@H](C[C@@H]1OC(=O)C[C@@H](OC(N)=O)C[C@H](C)C[C@H](O)[C@H](C)[C@@H](O)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/C[C@H](O)[C@H]1C)OC,potent in vitro antifungal activity,1
+204,CMNPD205,[C-]#[N+][C@@H]1[C@H]2[C@H](C)CCC[C@]2(C)CC[C@H]1C(=C)C,,0
+8172,CMNPD8173,CC(C)[C@H](NC(=O)[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@H](Cc1ccc(Br)cc1)NC(=O)[C@@H](C)NC=O)C(C)C)C(=O)N[C@H](Cc1c[nH]c2ccccc12)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@H](COS(=O)(=O)O)C(=O)N[C@@H]1C(=O)N(C)[C@@H](CCC(N)=O)C(=O)N[C@H](Cc2ccccc2)C(=O)NCC(=O)N[C@H](CC(N)=O)C(=O)O[C@@H]1C,antifungal | cytotoxic,1
+411,CMNPD412,CCc1cc(C)c(CCCCCCCCC(=O)O)o1,,0
+20058,CMNPD20059,C[C@@H](CCCCc1ccccc1)CCC[C@@H](C)C[C@]1(C)C[C@H](C)[C@H](CC(=O)O)OO1,antifungal,1
+5210,CMNPD5211,C=CCCCCCC/C=C\C=C\C(C)N,cytotoxic | antifungal,1
+144,CMNPD145,C=C1C[C@@H](OC(C)=O)/C=C(/C)CC[C@@H]2C(C(OC(C)=O)[C@@H](C=C(C)C)OC(C)=O)=CO[C@H](OC(C)=O)[C@@H]12,,0
+222,CMNPD223,CC(C)=CCC[C@H](C)[C@@H]1CC/C(C)=C/CC/C=C/[C@@H]1O,,0
+4045,CMNPD4046,CCCCCCCCCC(CC(=O)NCCN)N1CC(=O)N(O)C(Cc2ccccc2)C1=O,antifungal,1
+427,CMNPD428,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)/C=C(\C)CCCC(C)C(=O)CC=C(C)C)c1,,0
+453,CMNPD454,CC(C)=CC(O)C/C(C)=C/CC/C(C)=C/CC/C(C)=C/CO,,0
+469,CMNPD470,CC(=O)CC/C=C(\C)CC[C@@H]1C(C)=CC[C@H](O)C1(C)C,,0
+5211,CMNPD5212,C=CCCCCCC/C=C/C=C/C(C)N,cytotoxic | antifungal,1
+1921,CMNPD1922,COC1CC(C)OC(CCC(C)C(O)C(C)C2OC(=O)/C=C/C(C)=C/CC(O)CC3C=CCC(CC(OC)C(C)C(O)CC(O)C2C)O3)C1,"antibacterial and antifungal, cytotoxic",1
+329,CMNPD330,CO[C@@H](CC[C@H](C)C1O[C@@]23C[C@H](OC(=O)C[C@H](CO)OC(=O)C[C@](O)(O2)[C@H](C)CC3(C)C)[C@@H]1C)c1cccc(O)c1,toxic,0
+11936,CMNPD11937,O=C1NC(=O)C(Br)=C1Br,antifungal,1
+315,CMNPD316,COCC1=C/C(=C/C(=O)N2CC(OC)=CC2=O)N(C)C1=O,,0
+559,CMNPD560,C=C(C)[C@H]1CC(=O)[C@@]2(C)C[C@@H]3O[C@@]3(C)CC/C=C(\C)CC[C@H]12,antimicrobial,0
+260,CMNPD261,Oc1cc(Cc2c(O)c(Br)c(O)c(Br)c2O)c(Br)c(Br)c1O,,0
+42,CMNPD43,C[C@](Cl)(/C=C/[C@H](Cl)[C@](C)(Cl)/C=C/Br)C(Br)Br,,0
+543,CMNPD544,CC(=O)O[C@]12CC[C@@H](C)[C@H]1[C@@H]1[C@H](/C(C)=C\CC=C(C)C)C[C@H](O)[C@@]12C,,0
+19622,CMNPD19623,C=C(C)CCC[C@]1(C)OC(=O)[C@]23[C@@H](O)C=C4[C@@H](CC[C@H]5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC[C@@H]31,moderate antifungal activities,1
+23111,CMNPD23112,C=C(C)CCC[C@]1(C)OC(=O)[C@]23CC=C4[C@@H](CC[C@H]5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@H](CO)[C@@H](O[C@@H]7OC[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC(=O)[C@@H]31,antifungal,1
+28,CMNPD29,C#C/C=C\C[C@H]1O/C(=C(/Br)CC)[C@H](O)/C=C\C[C@H]1Cl,antiviral,0
+625,CMNPD626,C#C/C=C\[C@H](Cl)[C@@H](OC(C)=O)[C@H]1C/C=C(/Cl)C[C@H](Br)[C@@H](CC)O1,,0
+9045,CMNPD9046,CC(C)=CCC[C@@H](C)/C=C/C=C(\C)C(=O)NC[C@@H]1CC[N@+]2(C)CCCC[C@H]12,antifungal | cleave both single- and double-stranded RNA,1
+261,CMNPD262,Oc1ccc(Oc2c(O)cc(Br)c(Br)c2Br)c(Br)c1,antimicrobial,0
+475,CMNPD476,CC1=CC[C@H]2C(C)(CC[C@H]3C(C)(C)[C@@H](O)CC[C@]23C)O1,,0
+20814,CMNPD20815,CC1(C)OC(=O)C=C[C@]2(C)[C@@H]3C[C@@]4(C)C(=O)[C@]5(C)C[C@@H]6C(=O)OC[C@@]64O[C@@]3(CC[C@@H]12)C5,antifungal (Neurospora crassa),1
+428,CMNPD429,COc1cc(C)c(O)c(C/C=C(\C)CC(=O)/C=C(/C)CCCC(C)C(=O)CC=C(C)C)c1,,0
+5888,CMNPD5889,C/C=C1\NC(=O)[C@H](Cc2ccccc2)NC(=O)C(C(C)C)NC(=O)[C@@H](C(C)CC)NC(=O)C(NC(=O)[C@H](NC(=O)[C@H](CCCN)NC(=O)[C@H]2CCCN2C(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CCCC(C)C)C(C)C)C(C)O)C(C)C)C(C)C)C(C)CC)C(C)OC(=O)C(C(C)C)NC1=O,cytotoxic | antiviral | antifungal,1
+524,CMNPD525,C=C1CC[C@@H]([C@H](C)CC[C@@H](O)C(C)(C)O)[C@@H](O)[C@@H]2C(C)=CC[C@@H]12,,0
+128,CMNPD129,C[C@@H]1CC[C@@H]2[C@@]3(C)C[C@H]3CC(C)(C)C[C@]12O,,0
+494,CMNPD495,CC(C)=CCC[C@H](C)[C@@H]1CC/C(C)=C/C/C=C2/CO[C@@H](O)[C@@H]21,,0
+266,CMNPD267,COC1(N=[N+]=[N-])C(Br)=CC(O)(CC(N)=O)C=C1Br,,0
+286,CMNPD287,NC1=N[C@H](O)[C@H]2[C@H]3O[C@]4(O)O[C@@H]([C@@H](O)[C@@]2(N1)[C@@H]4O)[C@]3(O)CO,toxic,0
+12382,CMNPD12383,CCC(C)CCCCC(=O)N[C@H](CO)C(=O)N[C@H](Cc1ccc(O)cc1)C(=O)O,antifungal,1
+2718,CMNPD2719,COC(CC1OC(=O)CC(O)C/C=C/C(=O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CCC1C)C(C)CCC(=O)C(C)C(C/C=C/N(C)C=O)OC,significant antifungal,1
+603,CMNPD604,C#C/C=C\C/C=C\C/C=C\CCCCC,,0
+11124,CMNPD11125,CONCC(C)CCCCCCCCCCc1cccnc1,moderately active antifungal agent,1
+8166,CMNPD8167,COC(=O)NC/C=C\c1nc(CC/C=C\C(=O)O[C@@H]2C[C@H]3C[C@H](OC)C[C@@H]4CCC[C@@H](C[C@H](/C=C/CC(C)C)OC(=O)C[C@@H](C2)O3)O4)co1,antifungal | cytotoxic,1
+216,CMNPD217,CC1=CCCC(C)(C)C1CC/C(C)=C/CC/C(C)=C/CO,,0
+14954,CMNPD14955,CC1=C2Cc3cc(ccc3O)C(=O)O[C@H](C(C)(C)O)CC[C@]3(C)O[C@H]3C/C=C(\C)C2CC1,antibacterial | antifungal,1
+333,CMNPD334,COc1cc2c([nH]c3ccccc32)c(-c2ccccc2)c1C,,0
+547,CMNPD548,CC(C)=CC/C=C(/C)[C@@H]1C[C@H](O)[C@@H](C=O)[C@@H]1[C@H]1C(=O)C=C[C@H]1C,,0
+457,CMNPD458,CC(=O)CC/C=C(\C)CCC/C(C)=C\C(=O)CC(C)C,,0
+188,CMNPD189,COc1ccc(OC)c(C[C@@]2(C)C3=C(CC[C@@H]2C)C(C)(C)CCC3)c1,,0
+75,CMNPD76,CC(/C=C\C(Cl)=C(\C)C(=O)C(Br)Br)=C/Cl,,0
+23746,CMNPD23747,CC[C@@H]1C[C@@]2(CC)O/C(=C\C(=O)OC)[C@@]3(CC)[C@H](CC)[C@@H]1[C@@H]23,antifungal,1
+2794,CMNPD2795,CC(C)=CCC[C@](C)(N)[C@H]1CC=C(C)CC1,antibacterial | antifungal,1
+24271,CMNPD24272,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)[C@@H]7CC[C@]89C(=O)O[C@@](C)(C(CC=C(C)C)OC(C)=O)[C@H]8CC[C@@]9(C)C7=CC[C@H]6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)O[C@H](CO)[C@H]2O)O[C@H](CO)[C@H]1O,antifungal | haemolytic | cytotoxic,1
+293,CMNPD294,CC(=O)CC(=O)C1=C(C)CC(O)CC1(C)C,antimicrobial,0
+640,CMNPD641,C#C/C=C/C[C@H]1O[C@@H](C(Br)C/C=C/CC)C[C@H]1O,,0
+632,CMNPD633,C#C/C=C\[C@@H](Cl)C1C2CC3O/C(=C(\Br)CC)C1C3O2,apoptotic,0
+112,CMNPD113,C=CC(C)(O)CCC1C(C)=CC[C@H](Br)C1(C)C,,0
+167,CMNPD168,C/C(=C\CCc1coc(Cc2ccoc2)c1)CCCC(C)CC(=O)O,,0
+232,CMNPD233,Cc1cc(O)cc2c1O[C@@]1(C)CC[C@@H]3[C@@]4(C)CC[C@H](O)C(C)(C)[C@@H]4CC[C@@]3(C)[C@@H]1C2,,0
+4627,CMNPD4628,C[C@H](CO)CCC[C@@H](C)[C@H]1[C@@H](O)[C@H](O)C2[C@@]3(O)C(CC[C@@]21C)[C@@]1(C)CC[C@H](O)[C@H](O)C1[C@H](O)[C@H]3O,antifungal,1
+15786,CMNPD15787,C=CCCCCCCCCCC/C=C/C(O)C(O)[C@@H]1O[C@@H](C(O)C(O)C(=C)CCC(O)[C@@H]2O[C@@H](C(O)C(O)/C=C(\C)CC(O)C(O)C(O)CC(O)C(O)C(O)C(C)CC(O)C(O)CC(C)/C=C/CCC(O)CC(=O)CC(O)CCCCC(O)CCCC(O)CO)[C@H](O)[C@H](O)[C@@H]2O)C[C@@H](O)[C@H]1O,potent antifungal activity against Aspergillus niger | antiprotozoan activity against Trichomonas foetus,1
+242,CMNPD243,Oc1c(Br)cc(Br)cc1Br,,0
+13418,CMNPD13419,CC#C/C=C\C=C\C[C@@H](O)/C=C(C)/C=C/C=C/C=C(\C)[C@@H](O)C(C)(C)C(N)=O,antifungal,1
+10162,CMNPD10163,CO[C@@H]1O[C@@H](C)C(OC[C@@]23C[C@H]4C(CC[C@H]4C)[C@@]4(C=O)C[C@@H]2C=C(C(C)C)[C@@]34C(=O)O)[C@@H](O)[C@@H]1OC(=O)/C(C)=C\[C@@H]1O[C@H]1[C@H]1O[C@H]1C,potent antifungal,1
+374,CMNPD375,CCCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)CCCCCCCCCCCCCC,,0
+203,CMNPD204,[C-]#[N+][C@@H]1C(C(C)C)CC[C@@H](C)[C@@]12C=C(C)CC2,,0
+560,CMNPD561,C=C(C)[C@H]1C[C@@H](O)[C@@]2(C)C[C@@H]3O[C@@]3(C)CC/C=C(\C)CC[C@H]12,antimicrobial,0
+105,CMNPD106,C[C@H]1C(=O)[C@@H](Br)[C@H](C)[C@@]2(C)C[C@@H](Br)[C@@]3(C)CC[C@]132,,0
+382,CMNPD383,CCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,,0
+316,CMNPD317,COCC1=C/C(=C\C(=O)N2CC(OC)=CC2=O)N(C)C1=O,,0
+415,CMNPD416,CC(C)=CCC/C(C)=C/C(O)C(O)/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O,,0
+465,CMNPD466,C/C(=C\CCC(C)O)CC/C=C(\C)CC(=O)CC(C)C,,0
+17662,CMNPD17663,CCC[C@H]1C[C@H]2O[C@H]2/C=C/C=C\C(=O)O1,significant antibacterial | antifungal,1
+3785,CMNPD3786,CC(/C=C/c1ccc(Br)cc1)=C\[C@H](O)[C@@H]1CC(=O)N[C@@H](CO)C(=O)N[C@@H]2Cn3cnc(c3)C[C@H](NC(=O)C[C@H](O)C[C@@H](C(=O)O)NC(=O)CCNC(=O)[C@H](Cc3ccc(Br)cc3)NC(=O)[C@H]([C@@H](O)C(N)=O)NC(=O)[C@H](CC(N)=O)NC2=O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](Cc2ccccc2)C(=O)N1,antifungal | cytotoxicity,1
+22460,CMNPD22461,CCCCC(CC)C/C(=C/[C@@]1(CC)OC(=O)C[C@@H]1O)CC,antifungal,1
+404,CMNPD405,CCCCCCCCCCCCCc1cccc(O)c1C(=O)O,anti-inflammatory,0
+196,CMNPD197,C=C1CCC[C@]2(C)CC[C@@H]([C@@H](N=C=S)C(C)C)[C@H]12,,0
+485,CMNPD486,Cc1ccc2c(c1)[C@H](C(C)C)CC[C@H]2C,,0
+550,CMNPD551,CC(=O)O[C@H]1CC(=O)[C@H]([C@H]2[C@H](C=O)[C@H](O)C[C@H]2/C(C)=C\CC=C(C)C)[C@@H]1C,,0
+441,CMNPD442,Cc1cc(O)cc2c1O[C@@]1(C)CC[C@H]3[C@@](C)(CC[C@H]4C(C)(C)[C@@H](O)CC[C@]34C)[C@H]1C2,,0
+304,CMNPD305,C=C(C=O)C[C@@H]1C[C@H](O)[C@]2(C)O[C@@H]3C[C@@H]4O[C@@H]5C[C@]6(C)O[C@]7(C)CC[C@@H]8O[C@@H]9C[C@]%10(C)O[C@@H]%11C(C)=CC(=O)O[C@H]%11C[C@H]%10O[C@H]9C[C@@H](C)[C@H]8O[C@H]7C[C@H]6O[C@@]5(C)C/C=C\[C@H]4O[C@H]3C[C@H]2O1,toxin,0
+454,CMNPD455,CC(C)=CC(=O)C/C(C)=C/CC1OC1(C)/C=C/C/C(C)=C/CO,,0
+609,CMNPD610,C#C/C=C/C[C@H]1O/C(=C(/Br)CC)[C@H]2C=CC[C@@H]1O2,,0
+7353,CMNPD7354,CCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1NC(C)=O)[C@H](O)[C@H](O)CCCCCCCCCCCCC(C)C,cytotoxic | antifungal,1
+86,CMNPD87,Cc1cc(O)c([C@]2(C)CC[C@@H]3C[C@@]32C)cc1Br,antibiotic,0
+602,CMNPD603,C#C/C=C/C/C=C\C/C=C\C/C=C\CC,,0
+99,CMNPD100,C=C1C[C@@H](O)[C@H](Br)C(C)(C)[C@]12CC[C@](C)(Cl)[C@@H](Br)C2,,0
+49,CMNPD50,C=C[C@@](C)(Cl)[C@@H](Cl)/C=C/C(=C\Cl)C(Cl)Cl,,0
+8184,CMNPD8185,C/C=C1/NC(=O)[C@@H]2Cc3ccc(O)c(c3)-c3nc[nH]c3C[C@H](NC(=O)[C@@H](CCC(N)=O)NC(=O)CNC(=O)[C@@H]([C@@H](O)CC(N)=O)NC1=O)C(=O)N[C@@H](C)[C@H](NC(=O)/C(=C\C)NC(=O)[C@@H](O)[C@@H](/C=C/C=C/CCCCCCC)O[C@H]1OC[C@@H](O)[C@H](O)[C@@H]1O)C(=O)N[C@H]([C@@H](C)O)C(=O)N2,antifungal | cytotoxic,1
+6207,CMNPD6208,COc1cc(/C=C(\C)CC[C@]2(C)C(C)=CCC[C@H]2C)oc(=O)c1,antifungal,1
+280,CMNPD281,NC1=N[C@H]2n3c(cc(Br)c3Br)C(=O)N3CCC[C@]23N1,,0
+53,CMNPD54,C[C@@](Cl)(/C=C/Br)[C@@H](Cl)/C=C/C(=C/Cl)C(Cl)Cl,,0
+5529,CMNPD5530,CC1=C(Cc2cc(OS(=O)(=O)O)ccc2OS(=O)(=O)O)[C@]2(C)CCC[C@@](C)(CC[C@@]3(O)[C@H](C)CC[C@@H]4OC(C)(C)CCC[C@@]43C)[C@H]2CC1,antifungal,1
+4,CMNPD5,C1SCSSCS1,antibiotic,0
+618,CMNPD619,C#C/C=C/C[C@@H]1O[C@@H]([C@@H](Br)CC)C[C@H](OC(C)=O)[C@@H](Cl)C[C@@H]1Cl,,0
+6954,CMNPD6955,CC(C)CCC[C@@H](C)[C@H]1CC[C@@H]([C@@H]2C[C@@H](O)[C@H]3C[C@@H](O)[C@@H](O)C[C@]3(CO)C2=O)[C@]1(C)CCO,antifungal,1
+4291,CMNPD4292,C/C1=C\[C@H](C)C[C@H](C)OC(=O)[C@H](C)NC(=O)[C@@H](Cc2ccc(O)c(Br)c2)N(C)C(=O)[C@H](C)NC(=O)[C@@H](C)C1,cytotoxic | antifungal,1
+8183,CMNPD8184,C/C=C1/NC(=O)[C@@H]2Cc3ccc(O)c(c3)-c3nc[nH]c3C[C@H](NC(=O)[C@@H](CCC(N)=O)NC(=O)CNC(=O)[C@@H]([C@@H](O)CC(N)=O)NC1=O)C(=O)N[C@@H](C)[C@H](NC(=O)/C(=C\C)NC(=O)[C@@H](O)[C@@H](/C=C/C=C/CCCCCC)O[C@H]1OC[C@@H](O)[C@H](O)[C@@H]1O)C(=O)N[C@H]([C@@H](C)O)C(=O)N2,antifungal | cytotoxic,1
+584,CMNPD585,C=C[C@@H]1CC=CC[C@H]1/C=C/C,,0
+4898,CMNPD4899,NCCCOc1c(Br)cc(CCNC(=O)C(Cc2cc(Br)c(OCCCN)c(Br)c2)=NO)cc1Br,antifungal | antineoplastic,1
+402,CMNPD403,CCCCCCCCCCCCCCCc1cc(O)cc(O)c1,,0
+380,CMNPD381,CCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)CCCCCCCCCCCCCCC,,0
+81,CMNPD82,C=CC(Cl)(CBr)CCC(Cl)C(C)(C)Br,,0
+22,CMNPD23,C#C/C=C\C[C@@H]1O[C@@H](C(Br)CC)C[C@@H](Br)[C@H]2C[C@@H]1O2,,0
+13196,CMNPD13197,C=C[C@H]1O[C@]1(C)CC(C)/C(C)=C/C=C(C)\C=C(OC)\C(=C/C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+4634,CMNPD4635,CO[C@@H]1[C@@H](O)[C@H](O[C@@H]2[C@@H](OS(=O)(=O)O)[C@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@H]4[C@H](O[C@H]5CC[C@]6(C)C7CC[C@]89C(=O)O[C@@](C)(CC(=O)CC(C)C)[C@H]8C(=O)C[C@@]9(C)C7=CCC6C5(C)C)OC[C@@H](OS(=O)(=O)O)[C@@H]4O)O[C@@H]3C)OC[C@H]2O)O[C@H](COS(=O)(=O)O)[C@H]1O,"cytotoxicity, antifungal, and antiprotozoal activities",1
+818,CMNPD819,Oc1c(O)c(Br)c(COCc2c(Br)c(O)c(O)c(Br)c2Br)c(Br)c1Br,antifungal,1
+6206,CMNPD6207,CC1=CCC[C@@H](C)[C@]1(C)CC/C(C)=C/C(=O)NC1CCCCNC1=O,antifungal,1
+79,CMNPD80,C=C(Cl)C(Cl)(CBr)CCC(Cl)C(C)(C)Br,,0
+177,CMNPD178,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=CC1=O,,0
+493,CMNPD494,CC(=O)OC[C@H]1/C(C=O)=C\C/C=C(\C)CC[C@@H]1[C@@H](C)CCC=C(C)C,,0
+152,CMNPD153,Cc1ccc2c(c1C)Cc1occc1CC2,,0
+250,CMNPD251,Clc1c[nH]c2ccccc12,,0
+8000,CMNPD8001,C/C1=C\[C@@H](C)C/C=C/[C@H]2[C@@H]3O[C@]3(C)[C@@H](C)[C@H]3[C@H](Cc4c[nH]c5ccccc45)NC(=O)[C@]32C(=O)/C=C/C(=O)[C@@H]1O,antifungal | weakly inhibit microtubule assembly,1
+495,CMNPD496,COC1O[C@@H](OC)[C@H]2/C1=C\C/C=C(\C)C[C@H](OC(C)=O)[C@H]2[C@@H](C)CCC=C(C)C,,0
+16803,CMNPD16804,C=C1CC[C@@H]2[C@@](C)(CCC(Cl)C(C)(C)Br)[C@H](Br)CC[C@@]2(C)[C@@H]1Cc1cc(Br)cc(Br)c1O,modest antibacterial | antimalarial | antitumour | antifungal,1
+111,CMNPD112,C=CC(C)(O)CCC1C(=C)CC[C@H](Br)C1(C)C,,0
+12459,CMNPD12460,CCC(C)/C=C(\C)C(=O)CC1(O)CC(=O)c2c(O)cc(O)cc2C1,"antifungal in vitro against C. albicans, T. rubrum and A. niger",1
+6764,CMNPD6765,COc1ccc(/C=C/CCCC[C@H](C)[C@H](O)[C@@H](O)C2NC(=O)C[C@@H](O)CNC(=O)CNC(=O)[C@@H](Cc3c(C(=O)O)[nH]c4ccccc34)NC(=O)CN(C)C(=O)C[C@@]3(O)NC(=O)C[C@@H]3NC(=O)[C@H]2O)cc1,antifungal,1
+3757,CMNPD3758,COC(C)C(=O)OC(CCC(C)C(CC1OC(=O)CC(O)C/C=C/C(=O)C(C)C(OC)c2coc(n2)-c2coc(n2)-c2coc(n2)/C=C/CC(OC)C1C)OC)C(C)C(OC(C)=O)C(C)/C=C/N(C)C=O,antifungal | cytotoxic,1
+189,CMNPD190,COc1ccc(OC)c(C[C@]2(C)[C@@H](C)CC[C@@]3(C)[C@H]2CC[C@@H](O)[C@@]3(C)O)c1,,0
+600,CMNPD601,C=C1C(Br)=C(Br)[C@H](O)[C@H]1O,,0
+248,CMNPD249,Oc1c(Br)cc(Oc2c(O)c(Br)c(Br)c(O)c2Br)c(Br)c1Br,,0
+549,CMNPD550,CC(=O)O[C@@H]1CC(=O)[C@H]([C@H]2C(C=O)=CC[C@H]2/C(C)=C\CC=C(C)C)[C@@H]1C,,0
+462,CMNPD463,CC(=O)CC/C=C(\C)CCC/C(C)=C/C(=O)CC(C)C,,0
+6193,CMNPD6194,COC(=O)/C=C(\C)CC[C@]1(C)C(C)=CCC[C@H]1C,antifungal,1
+11,CMNPD12,CC(Br)C(=O)CBr,,0
+246,CMNPD247,O=Cc1cc(Br)c(O)c(Br)c1,,0
+480,CMNPD481,CC1=C[C@H]2[C@H](C(C)C)CC[C@@H](C)[C@@]2(O)CC1,,0
+7984,CMNPD7985,CO[C@H]1C[C@H](CC[C@H](C)[C@H](C)[C@H](C)[C@H]2OC(=O)/C=C/C(C)=C/C[C@H](O)C[C@@H]3C=CC[C@@H](C[C@H](OC)[C@@H](C)[C@@H](O)C[C@@H](O)[C@H](C)[C@@H]([C@@H](C)[C@@H](O)[C@@H](C)CC[C@H]4C[C@H](OC)C[C@H](C)O4)OC(=O)/C=C/C(C)=C/C[C@H](O)C[C@@H]4C=CC[C@@H](C[C@H](OC)[C@@H](C)[C@@H](O)C[C@@H](O)[C@@H]2C)O4)O3)O[C@@H](C)C1,antifungal | cytotoxin,1
+400,CMNPD401,CC/C=C\C/C=C\C/C=C\C/C=C\CCCCc1cc(O)cc(O)c1,,0
+66,CMNPD67,C[C@@]1(Cl)C[C@@](C)(Br)[C@H](/C=C/Cl)C[C@@H]1Br,,0
+389,CMNPD390,Oc1cc(O)cc(O)c1,,0
+492,CMNPD493,CC(=O)OC[C@H]1/C(C=O)=C\C/C=C(\C)C[C@H](O)[C@@H]1[C@@H](C)CCC=C(C)C,,0
+5320,CMNPD5321,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/C(C)CO)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](CC(O)CC8CC(C)C(C(C)CC(=O)O)O8)[C@@H](O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+9828,CMNPD9829,CC(=O)O[C@@H]1C[C@]2(C)C3CC[C@@]4(C)C(CC[C@@H]4[C@H](C)[C@@H]4O[C@H]4[C@H](C)C(C)C)C3=CCC2[C@H](OS(=O)(=O)O)[C@H]1O,antifungal activity against Saccharomyces cervisiae A364A and its mutants at 0.1 mg per disk,1
+633,CMNPD634,C#C/C=C/C[C@@H]1O[C@@H]1C[C@H](Br)[C@H]1C[C@H](Br)[C@@H](CC)O1,,0
+478,CMNPD479,CC1=C[C@@H]2C(=C(C)CC[C@H]2C(C)C)CC1,,0
+13197,CMNPD13198,C=C[C@@H]1O[C@@]1(C)CC(C)/C(C)=C/C=C(C)\C=C(OC)\C(=C\C(=O)OC)OC,antifungal antibiotic | active against the phytopathogenic fungus Phytophthora capsici,1
+14745,CMNPD14746,Cc1ccc2c3c1C(O)OC[C@@]3(C)[C@H](O)C2(C)C,modest growth inhibition of alga | antibacterial | antifungal,1
+306,CMNPD307,C=C(CO)C[C@@H]1C[C@H](O)[C@]2(C)O[C@@H]3C[C@@H]4O[C@@H]5C[C@]6(C)O[C@]7(C)CC[C@@H]8O[C@@H]9C[C@]%10(C)O[C@@H]%11C(C)=CC(=O)O[C@H]%11C[C@H]%10O[C@H]9C[C@@H](C)[C@H]8O[C@H]7C[C@H]6O[C@@]5(C)C/C=C\[C@H]4O[C@H]3C[C@H]2O1,ichthyotoxin,0
+23112,CMNPD23113,C=C(C)CCC[C@]1(C)OC(=O)[C@]23CC[C@@H]4C(=CC[C@H]5C(C)(C)[C@@H](O[C@@H]6OC[C@@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O[C@@H]6O[C@H](C)[C@@H](O[C@@H]7OC[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](OC)[C@H]8O)[C@H]7O)[C@H](O)[C@H]6O)CC[C@]45C)[C@]2(C)CC(=O)[C@@H]31,antifungal,1
+178,CMNPD179,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cc(O)ccc1O,analgesic,0
+536,CMNPD537,C=C(C(O)/C=C/[C@@](C)(O)CO)[C@@H]1CC(=O)[C@@]2(C)[C@@H]1[C@@H]1[C@H](C)CC[C@@H]12,,0
+230,CMNPD231,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC[C@]1(C)CCc2cc(O)cc(C)c2O1,,0
+5241,CMNPD5242,O=C1c2nccc(O)c2-c2nc3ccccc3c3ccnc1c23,cytotoxic | antifungal,1
+10333,CMNPD10334,CO[C@@H]1[C@H](O[C@@H]2CO[C@@H](O[C@@H]3[C@@H](O)[C@H](O)CO[C@H]3N3C(=O)/C(=C(O)/C=C/C=C/C=C/C=C/C=C(Cl)/C=C/C=C(/C)Cl)C(=O)[C@@H]3CC(N)=O)[C@@H](O)[C@@H]2O)O[C@H](C)[C@H]1O,antifungal activity,1
+586,CMNPD587,C=C/C=C\C1C=CCC=CC1,,0
+129,CMNPD130,C[C@@H]1CO[C@@]2(O)CCC3=C[C@@H](O)C[C@H](C)[C@@]3(C)[C@@H]12,,0
+4550,CMNPD4551,COc1c(OC)c(S(C)=S)c2c(c1N(C)C)CCSC2OC,antifungal,1
+556,CMNPD557,C/C1=C\CC[C@H](C)/C=C/[C@]2(C)CC[C@H](C(C)(C)O)[C@H]2[C@H](O)C1,antimicrobial,0
+263,CMNPD264,NC(=O)CC1(O)C=C(Br)C(=O)C(Br)=C1,antibiotic | antimicrobial,0
+272,CMNPD273,O=C1NCC(COc2c(Br)cc(C3CNC(=O)O3)cc2Br)O1,,0
+613,CMNPD614,C#C/C=C/C[C@H]1O/C(=C(\Br)CC)C/C=C\C[C@H]1Cl,,0
+126,CMNPD127,CC(C)[C@@H]1CC=C[C@H]2[C@H]3[C@](C)(CC[C@]12CBr)[C@@H](Br)CC[C@@]3(C)O,,0
+163,CMNPD164,CC1=C(O)/C(=C/C(C)CC/C=C(\C)CC/C=C(\C)CCCc2ccoc2)OC1=O,antibiotics,0
+33,CMNPD34,C#C/C=C\C(Cl)C1C2CC3O/C(=C(/Br)CC)C1C3O2,,0
+595,CMNPD596,CCCCC(Cl)C(=O)C(I)=C(Br)Br,,0
+23644,CMNPD23645,Cc1ccc(C)c(/C=C/C(C)(C)O)c1/C=C/C(C)(C)O,antifungal,1
+466,CMNPD467,C/C(=C\CCC(C)O)CCC/C(C)=C/C(=O)CC(C)C,,0
+179,CMNPD180,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(O)C=CC1O,,0
+15915,CMNPD15916,C/C(=C/C(=O)O)CC/C=C\[C@@H](C)CC[C@H](O)C/C=C/C(=O)c1csc(=O)[nH]1,antifungal,1
+14794,CMNPD14795,C=CCC/C=C/C=C/C=C/CC/C=C/C(O)C(O)C1OC(C(O)C(O)C(=C)CCC(O)C2CC(O)C(O)C(C(O)C(O)/C=C(\C)CCC(O)CC(O)C(O)C(C)CC(O)CC(C)/C=C(\C)CC(O)CC(C)CC(O)C3CC(O)C(O)C(CC(O)CC(O)COS(=O)(=O)O)O3)O2)CC(O)C1O,"haemolytic against mouse erythrocytes, cytotoxic against P388 cells | antifungal towards Aspergillus niger to varying degrees",1
+6024,CMNPD6025,O=C(O)CCCC#CC#CCCCC/C=C/C#C/C=C/Br,antifungal,1
+4551,CMNPD4552,COc1c(OC)c(S(C)=S)c2c(c1N(C)C)CCSC2=O,antifungal,1
+10997,CMNPD10998,C=C1C[C@H]2O[C@@H]3[C@@H](C[C@]2(C)O[C@@H]1C/C(C)=C/[C@@H](C)CO)O[C@H]1C[C@H]2O[C@H]4CC[C@H]5O[C@H]6C[C@H]7O[C@@H](C[C@H](O)C[C@@H]8C[C@@H](C)[C@@H]([C@@H](C)CC(=O)O)O8)[C@H](O)CC[C@@H]7O[C@]6(C)C[C@]5(C)O[C@@H]4C/C=C\[C@H](C)[C@@H]2O[C@]1(C)[C@H]3O,potent antifungal,1
+414,CMNPD415,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/CC1=CC(=O)C=C(C)C1=O,,0
+348,CMNPD349,CC(=O)O[C@@H](C/C=C(\C)C#CC=C(C)C)c1ccoc1,,0
+375,CMNPD376,CCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)NC(CO)CCCCCCCCCCCCCC,,0
+563,CMNPD564,C=C1CCC[C@@]2(C)CC=C3[C@](C)(CC[C@]3(O)C(C)C)C[C@]12O,,0
+425,CMNPD426,CC(C)=CCC/C(C)=C/CC/C(C)=C/CC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+113,CMNPD114,C=C[C@@]1(C)CC[C@H]2C(C)(C)[C@@H](Br)CC[C@]2(C)O1,,0
+268,CMNPD269,COC1=C(Br)C2OC2(CC(N)=O)C=C1Br,,0
+133,CMNPD134,CC(=O)CC[C@@H]1OC(=O)CC1(C)C,,0
+208,CMNPD209,[C-]#[N+]C1CC2C3CC1(C)CC2(C)C[C@H]3C(C)C,,0
+6026,CMNPD6027,O=C(O)CCCC#CC#CCCCC/C=C\C#C/C=C/Br,antifungal,1
+513,CMNPD514,CC(C)=CCC[C@@H](C)[C@@H]1CC[C@@]2(C)C=CC=C(C)C2[C@@H]1O,,0
+274,CMNPD275,COC1=C(Br)[C@H](O)[C@@]2(C=C1Br)CC(C(=O)NCCCCNC(=O)C1=NO[C@]3(C=C(Br)C(OC)=C(Br)[C@@H]3O)C1)=NO2,,0
+257,CMNPD258,O=S(=O)(O)OCc1cc(O)c(OS(=O)(=O)O)c(Br)c1Br,,0
+408,CMNPD409,COC(=O)[C@@]1(O)CC(OC)=CC1=O,antibacterial,0
+202,CMNPD203,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]1[C@@H](CCC2(C)NC=O)C1(C)C,,0
+171,CMNPD172,CC(C)=CCC/C(C)=C/CC/C(C)=C/CCc1ccoc1,,0
+43,CMNPD44,CC(/C=C/[C@H](Cl)[C@](C)(Cl)/C=C/Br)=C\Br,,0
+324,CMNPD325,CCCCCCCC(=O)[C@@H](C)C(=O)N[C@H](Cc1ccc(OC)cc1)C(=O)N[C@H](C(N)=O)C(C)C,,0
+275,CMNPD276,COC1=C(Br)[C@H](O)[C@@]2(C=C1Br)CC(C(=O)NCCCCCNC(=O)C1=NO[C@]3(C=C(Br)C(OC)=C(Br)[C@@H]3O)C1)=NO2,,0
+424,CMNPD425,CC(C)=CCC[C@@](C)(O)[C@@H](O)CC/C(C)=C/CC/C(C)=C/Cc1cc(O)cc(C)c1O,,0
+206,CMNPD207,[C-]#[N+]C(C)(C=C)CC/C=C(\C)CC/C=C(\C)CCC=C(C)C,,0
+14168,CMNPD14169,CCC[C@@H](O)C[C@H](SC[C@@H](C(=O)O)N(C)C(=O)CC(C)C)[C@H](C)O,moderately antifungal,1
+22456,CMNPD22457,CCCCC(CC)CC(O)(/C=C(/CC)C(O)CC(=O)OC)CC,antifungal,1
+10981,CMNPD10982,CC(C)[C@@H]1NC(=O)CNC(=O)c2csc(n2)[C@H](C(C)(C)O)OC(=O)C(C)(C)[C@H](CCCC(C)(Cl)Cl)OC(=O)c2csc1n2,cytotoxic | antifungal,1
+72,CMNPD73,CC1=C(Cl)C[C@@H](/C(C)=C\Cl)O[C@@]1(O)C(Br)Br,,0
+3883,CMNPD3884,CC(C)CC(O)C[C@@H](C)[C@H]1CC=C2C3=C(CC[C@@]21C)[C@@]1(C)CC[C@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H](C)[C@@H]1CC3,antitumour | antifungal,1
+14718,CMNPD14719,C/C=C/CCCCC(=O)[C@@H](C)C(=O)N1CCC[C@@H]1CO,weak antifungal activity against Cryptococcus neoformans | antibacterial activity against Micrococcus luteus,1
+160,CMNPD161,CC(=O)O[C@H]1C[C@@H]2[C@@]3(C)CCCC(C)(C)[C@@H]3CC[C@@]2(C)[C@@H]2CC=C3CO[C@@H](O)[C@@H]3[C@@]12C,,0
+139,CMNPD140,C=C1C(=O)O[C@H]2C[C@@H]1[C@@H](OC(C)=O)C/C(C)=C/CC/C(C)=C/CC[C@@]2(C)O,toxic,0
+557,CMNPD558,CC(=O)O[C@@H]1C/C(C)=C/CC[C@H](C)/C=C/[C@]2(C)CC[C@H](C(C)(C)O)[C@@H]12,antimicrobial,0
+511,CMNPD512,CC(C)=CCCC(C)[C@@H]1CC/C(C)=C/CC/C(C)=C/[C@@H]1O,,0
