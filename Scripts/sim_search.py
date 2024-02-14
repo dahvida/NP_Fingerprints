@@ -11,13 +11,15 @@ from typing import *
 
 def sim_search(
         array: np.ndarray,
-        sim_metric: str = "default"
+        sim_metric: str = "default",
+        force_binary: bool = True
         ) -> np.ndarray:
     """Runs efficient similarity search on a given array
     
     Args:
-        array:      matrix (M,K) to use for similarity search
-        sim_metric: metric type to use for the search
+        array:          matrix (M,K) to use for similarity search
+        sim_metric:     metric type to use for the search
+        force_binary:   Whether to smooth count-based fingerprints
 
     Returns:
         A vector ((M**2 - M) / 2) of all unique pairwise similarities
@@ -29,8 +31,9 @@ def sim_search(
     #swap metric type (used for MHFP & MAP4)
     if sim_metric == "default":
         metric = jaccard
-        #fix array for count-based fingerprints (AP, TT, Avalon)
-        fp[fp > 1] = 1
+        if force_binary is True:
+            #fix array for count-based fingerprints (AP, TT, Avalon)
+            fp[fp > 1] = 1
     else:
         metric = jaccard_like
     
@@ -91,6 +94,38 @@ def eval_sim(
 
 #--------------------------------------------------------------------------#
 
+def eval_overlap(
+        similarity_matrix: np.ndarray,
+        n_compounds: int
+        ) -> np.ndarray:
+    
+    square_matrix = np.zeros((n_compounds, n_compounds, similarity_matrix.shape[0]))
+    
+    for k in range(similarity_matrix.shape[0]):
+        count = 0
+        for i in range(n_compounds - 1):
+            for j in range(i + 1, n_compounds):
+                square_matrix[i,j,k] = similarity_matrix[k, count]
+                square_matrix[j,i,k] = square_matrix[i,j,k]
+                count += 1
+    
+    top_1 = int(n_compounds * 0.01)
+    sort_indices = np.argsort(square_matrix[:,:,:], axis=1)[:,-top_1:,:]
+    
+    output = np.zeros((similarity_matrix.shape[0], similarity_matrix.shape[0]))
+    for i in range(similarity_matrix.shape[0]):
+        for j in range(similarity_matrix.shape[0]):
+            overlap = []
+            for k in range(sort_indices.shape[0]):
+                intersect = len(np.intersect1d(sort_indices[k,:,i],
+                                              sort_indices[k,:,j]))
+                overlap.append(intersect / top_1)
+            output[i,j] = np.mean(overlap)
+    
+    return output
+
+#--------------------------------------------------------------------------#
+
 def save_sim_df(
         output_box: np.ndarray,
         fp_names: List[str],
@@ -131,13 +166,13 @@ def save_sim_df(
 
 #--------------------------------------------------------------------------#
 
-def save_corr_df(
+def save_square_df(
         correlation_matrix: np.ndarray,
         fp_names: List[str],
         path: str,
         verbose: bool = True
         ) -> None:
-    """Saves correlation matrix as csv
+    """Saves correlation or overlap square matrix as csv
     
     Args:
         correlation_matrix:     correlation matrix (20,20) between all
@@ -158,7 +193,7 @@ def save_corr_df(
             )
     df.to_csv(path)
     if verbose is True:
-        print(f"[sim_search]: Saving correlation matrix as {path}")
+        print(f"[sim_search]: Saving square matrix as {path}")
 
 
 

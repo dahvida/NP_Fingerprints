@@ -8,14 +8,26 @@ import argparse
 
 ######################################################################
 
-def main():
+parser = argparse.ArgumentParser(description=__doc__,
+                formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+
+parser.add_argument('--correlation', action="store_true",
+                    help="Whether to compute similarity correlations")
+
+parser.add_argument('--ranking', action="store_true",
+                    help="Whether to compute ranking overlaps")
+
+args = parser.parse_args()
+
+######################################################################
+
+def main(correlation, ranking):
     
     #get names of all FPs available in ../FPs
     names = os.listdir("../FPs/drug_rep_hub")
+    #names = ["ap.pkl", "tt.pkl", "avalon.pkl"]
     fp_names = [x[:-4] for x in names]
     fp_paths = ["../FPs/drug_rep_hub/" + x for x in names]
-    
-    
     
     #compute number of pairwise similarity calculations and
     #preallocate array of correct size
@@ -48,19 +60,33 @@ def main():
         stats_matrix[:,j] = stats
         pair_matrix[j,:] = sims
     
-    #calculate correlations between FPs
-    print(f"[drug_rep_hub]: Calculating correlation matrix...")
-    correlation_matrix = np.corrcoef(pair_matrix)
+    if correlation is True:
+        #calculate correlations between FPs
+        print(f"[drug_rep_hub]: Calculating correlation matrix...")
+        correlation_matrix = np.corrcoef(pair_matrix)
+        
+        #save everything
+        save_square_df(correlation_matrix, fp_names,
+                         path = path + "corr.csv",
+                         verbose = False)
     
-    #save everything
-    save_corr_df(correlation_matrix, fp_names,
-                     path = path + "corr.csv",
-                     verbose = False)
+    if ranking is True:
+        #compute rank overlaps
+        overlap_matrix = eval_overlap(pair_matrix, 6776)
+        
+        #save everything
+        save_square_df(overlap_matrix, fp_names,
+                         path = path + "overlap.csv",
+                         verbose = False)
+
     save_sim_df(stats_matrix, fp_names,
-                    path = path + "sim.csv",
+                    path = path + "sim_alt.csv",
                     verbose = False)
 
 
 if __name__ == "__main__":
-    main()
+    main(
+        args.correlation,
+        args.ranking
+        )
 

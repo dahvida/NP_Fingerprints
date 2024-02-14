@@ -57,6 +57,12 @@ parser.add_argument("--n_replicates",
                     type = int,
                     help = "number of replicates to use for the analysis")
 
+parser.add_argument('--correlation', action="store_true",
+                    help="Whether to compute similarity correlations")
+
+parser.add_argument('--ranking', action="store_true",
+                    help="Whether to compute ranking overlaps")
+
 parser.add_argument("--n_cores",
                     default = 20,
                     type = int,
@@ -71,7 +77,7 @@ args = parser.parse_args()
 
 ######################################################################
 
-def main(index, iteration_n):
+def main(index, iteration_n, correlation, ranking):
     
     #get relevant index according to iteration number
     print(f"[sim_search]: Running iteration {iteration_n}")
@@ -81,7 +87,7 @@ def main(index, iteration_n):
     #get names of all FPs available in ../FPs
     names = os.listdir("../FPs/coconut")
     fp_names = [x[:-4] for x in names]
-    fp_paths = ["../FPs/coconut" + x for x in names]
+    fp_paths = ["../FPs/coconut/" + x for x in names]
     
     #compute number of pairwise similarity calculations and
     #preallocate array of correct size
@@ -94,6 +100,7 @@ def main(index, iteration_n):
     #create paths to save files
     path_sim = "../Results/similarity_stats/" 
     path_corr = "../Results/correlation_stats/"
+    path_overlap = "../Results/overlap_stats/"
     path_df = "../Results/sample_stats/"
     
     #load dataset slice i-th and collect stats
@@ -125,13 +132,25 @@ def main(index, iteration_n):
         stats_matrix[:,j] = stats
         pair_matrix[j,:] = sims
     
-    #calculate correlations between FPs
-    correlation_matrix = np.corrcoef(pair_matrix)
+    if correlation is True:
+        #calculate correlations between FPs
+        correlation_matrix = np.corrcoef(pair_matrix)
     
-    #save everything
-    save_corr_df(correlation_matrix, fp_names,
+        #save everything
+        save_square_df(correlation_matrix, fp_names,
                      path = path_corr + str(iteration_n) + ".csv",
                      verbose = False)
+    
+    if ranking is True:
+        #compute rank overlaps
+        overlap_matrix = eval_overlap(pair_matrix, n_compounds)
+        
+        #save everything
+        save_square_df(overlap_matrix, fp_names,
+                     path = path_overlap + str(iteration_n) + ".csv",
+                     verbose = False)
+    
+    
     save_sim_df(stats_matrix, fp_names,
                     path = path_sim + str(iteration_n) + ".csv",
                     verbose = False)
@@ -145,6 +164,8 @@ if __name__ == "__main__":
     sample_size = args.sample_size
     n_replicates = args.n_replicates
     n_cores = args.n_cores
+    correlation = args.correlation
+    ranking = args.ranking
 
     #set seed for index generation
     print(f"[sim_search]: Beginning analysis")
@@ -173,7 +194,8 @@ if __name__ == "__main__":
     pool = Pool(n_cores)
 
     #set up async processes
-    processes = [pool.apply_async(main, args=(index, x)) for x in range(n_replicates)]
+    processes = [pool.apply_async(main, args=(index, x, correlation, ranking))
+                 for x in range(n_replicates)]
     
     #run processes
     results = [proc.get() for proc in processes]
