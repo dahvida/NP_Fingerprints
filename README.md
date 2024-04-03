@@ -57,6 +57,6 @@ More details on which fingerprints are available, which results are saved where 
 each folder.  
 
 ## How to cite
-Link to publication goes here
+Please refer to the original publication: https://doi.org/10.1186/s13321-024-00830-3  
 
 
